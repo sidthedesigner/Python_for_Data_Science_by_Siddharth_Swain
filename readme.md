@@ -115,3 +115,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Complex() Function
 - Type Conversion
 - Random Number
+
+## 008_Python Casting
+
+- Specify a Variable Type
+- Upcasting
