@@ -1,4 +1,4 @@
-Hi everyone! I have compiled a list of notes that will help you in your journey of Data Science. I will be updating this regularly!
+Hi everyone! I have compiled a list of resources that will help you in your journey of Data Science. I will be updating this regularly!
 
 # Table of Contents
 
