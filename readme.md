@@ -120,3 +120,12 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 - Specify a Variable Type
 - Upcasting
+
+## 009_Python Booleans
+
+- Python Booleans
+- Boolean Values
+- Evaluate Values and Variables
+- Most Values are True
+- Some Values are False
+- Functions can Return a Boolean
