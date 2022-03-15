@@ -105,3 +105,13 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Setting the Data Type
 - Setting the Specific Data Type
 - Python type() Function
+
+## 007_Python Numbers
+
+- Python Numbers
+- Int
+- Float
+- Complex
+- Complex() Function
+- Type Conversion
+- Random Number
