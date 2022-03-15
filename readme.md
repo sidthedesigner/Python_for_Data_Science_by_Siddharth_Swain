@@ -140,3 +140,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Python Identity Operators
 - Python Membership Operators
 - Python Bitwise Operators
+
+## 011_Python User Input
+
+- Python User Input
+- Python Input() Function
