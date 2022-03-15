@@ -97,3 +97,11 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Output Variables
 - Global Variables
 - The Global Keyword
+
+## 006_Python Data Types
+
+- Python Data Types
+- Built-in Data Types
+- Setting the Data Type
+- Setting the Specific Data Type
+- Python type() Function
