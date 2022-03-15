@@ -41,3 +41,19 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - 7 Best Python IDE For Developers in 2021
 - Why Python is preferred for Machine Learning and AI?
 - Best Python Libraries for Machine Learning and AI
+
+## 002_Getting Started
+
+- Python Install
+- Python Quickstart
+- Python Command Line
+- The Zen of Python
+- Anaconda (Python Distribution)
+- Download and Install Anaconda Individual Edition
+- Verifying your Installation
+- Anaconda Navigator
+- Anaconda Prompt
+- Launch Jupyter Notebook
+- Change Jupyter Start-Up Folder
+- Enable Line Numbers for Jupyter Notebook Cell
+- Six Easy Ways to run Jupyter Notebook in the Cloud
