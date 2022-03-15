@@ -177,3 +177,30 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Else in For Loop
 - Nested Loops
 - The pass Statement
+
+## 015_Python Strings
+
+- Python Collections
+- Python Strings
+- Assign String to a Variable
+- Multiline Strings
+- Strings are Arrays
+- Looping Through a String
+- String Length
+- Check String
+- Check if NOT
+- Python - Slicing Strings
+- Slicing
+- Slice From the Start
+- Slice To the End
+- Negative Indexing
+- Python - Modify Strings
+- Upper Case
+- Lower Case
+- Remove Whitespace
+- Replace String
+- Split String
+- String Concatenation
+- String Format
+- Escape Character
+- String Methods
