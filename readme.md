@@ -158,3 +158,22 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Or
 - Nested If
 - Pass Statement
+
+## 013_Python While Loops
+
+- Python Loops
+- The while Loop
+- The break Statement
+- The continue Statement
+- The else Statement
+
+## 014_Python For Loops
+
+- Python For Loops
+- Looping Through a String
+- The break Statement
+- The continue Statement
+- The range() Function
+- Else in For Loop
+- Nested Loops
+- The pass Statement
