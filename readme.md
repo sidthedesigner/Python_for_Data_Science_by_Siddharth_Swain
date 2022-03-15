@@ -70,3 +70,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Present Working Directory
 - ls Command
 - Python print() Function
+
+## 004_Python Comments
+
+- Python Comments
+- Creating a Comment
+- Multi Line Comments
