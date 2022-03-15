@@ -129,3 +129,14 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Most Values are True
 - Some Values are False
 - Functions can Return a Boolean
+
+## 010_Python Operators
+
+- Python Operators
+- Python Arithmetic Operators
+- Python Assignment Operators
+- Python Comparison Operators
+- Python Logical Operators
+- Python Identity Operators
+- Python Membership Operators
+- Python Bitwise Operators
