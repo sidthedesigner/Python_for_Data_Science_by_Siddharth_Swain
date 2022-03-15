@@ -76,3 +76,24 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Python Comments
 - Creating a Comment
 - Multi Line Comments
+
+## 005_Python Variables
+
+- Python Variables
+- Creating Variables
+- Casting
+- Get the Type
+- Single or Double Quotes?
+- Case-Sensitive
+- Variable Names
+- Multi Words Variable Names
+- Camel Case
+- Pascal Case
+- Snake Case
+- Python Variables - Assign Multiple Values
+- Many Values to Multiple Variables
+- One Value to Multiple Variables
+- Unpack a Collection
+- Output Variables
+- Global Variables
+- The Global Keyword
