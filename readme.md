@@ -437,3 +437,91 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Method Resolution Order in Python
 - Encapsulation in Python
 - Operator Overloading
+
+## 028_Python MySQL
+
+- MySQL Get Started
+- MySQL Database
+- Install MySQL Driver
+- Download and install MySQL Connector
+- Test MySQL Connector
+- Create Connection
+- MySQL Create Database
+- Creating a Database
+- Check if Database Exists
+- MySQL Create Table
+- Creating a Table
+- Check if Table Exists
+- Primary Key
+- MySQL Insert Into Table
+- Insert Into Table
+- Insert Multiple Rows
+- Get Inserted ID
+- MySQL Select From
+- Select From a Table
+- Selecting Columns
+- Using the fetchone() Method
+- MySQL Where
+- Select With a Filter
+- Wildcard Characters
+- Prevent SQL Injection
+- MySQL Order By
+- Sort the Result
+- ORDER BY DESC
+- MySQL Delete From By
+- Delete Record
+- Prevent SQL Injection
+- MySQL Drop Table
+- Delete a Table
+- Drop Only if Exist
+- MySQL Update Table
+- Update Table
+- Prevent SQL Injection
+- MySQL Limit
+- Limit the Result
+- Start From Another Position
+- MySQL Join
+- Join Two or More Tables
+- LEFT JOIN
+- RIGHT JOIN
+- Sample Code for Database Operations using Classes and Objects
+
+## 029_Python MongoDB
+
+- Python MongoDB
+- MongoDB
+- PyMongo
+- Test PyMongo
+- MongoDB Create Database
+- Creating a Database
+- Check if Database Exists
+- MongoDB Create Collection
+- Creating a Collection
+- Check if Collection Exists
+- MongoDB Insert Document
+- Insert Into Collection
+- Return the _id Field
+- Insert Multiple Documents
+- Insert Multiple Documents, with Specified IDs
+- MongoDB Find
+- Find One
+- Find All
+- Return Only Some Fields
+- MongoDB Query
+- Filter the Result
+- Advanced Query
+- Filter With Regular Expressions
+- MongoDB Sort
+- Sort the Result
+- Sort Descending
+- MongoDB Delete Document
+- Delete Document
+- Delete Many Documents
+- Delete All Documents in a Collection
+- MongoDB Drop Collection
+- Delete Collection
+- MongoDB Update
+- Update Collection
+- Update Many
+- MongoDB Limit
+- Limit the Result
