@@ -325,3 +325,75 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Copy a Dictionary
 - Nested Dictionaries
 - Dictionary Methods
+
+## 020_Python Functions
+
+- Python Function
+- Creating a Function
+- Calling a Function
+- Arguments
+- Parameters or Arguments?
+- Number of Arguments
+- Arbitrary Arguments, args
+- Keyword Arguments
+- Arbitrary Keyword Arguments, kwargs
+- Default Parameter Value
+- Passing a List as an Argument
+- Return Values
+- The pass Statement
+- Recursion
+- Python Placeholder
+- Lamba Function
+- Why Use Lambda Functions?
+- Python Docstring
+- Python doc attribute
+- Iterable and Iterator
+- Generators in Python
+- id() Function
+
+## 021_Python File Handling 
+
+- File Handling in Python
+- File Handling
+- Syntax
+- Open a File on the Server
+- Read only parts of the File
+- Read Lines
+- Close Files
+- Write to an Existing File
+- Create a New File
+- Delete a File
+- Check if File exist
+- Delete Folder
+- OS Module in Python
+
+## 022_Python Logging and Debugging
+
+- Logging in Python
+- Why Printing is not a good option?
+- Levels of Log Message
+- The Basics
+- Stream Handler in Python
+- Python Debugger – Python pdb
+- Starting Python Debugger
+- Checking variables on the Stack
+- Python pdb Breakpoint
+- Managing Breakpoints
+
+## 023_Python Modules
+
+- What is a Module?
+- Create a Module
+- Use a Module
+- Variables in Module
+- Naming a Module
+- Re-Naming a Module
+- Built-in Modules
+- Using the dir() Function
+- Import From Module
+- Import module from different directory
+
+## 024_Python Error Handling
+
+- Exception Handling
+- Create Your Exception
