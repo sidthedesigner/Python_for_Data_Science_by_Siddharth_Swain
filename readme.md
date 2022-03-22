@@ -397,3 +397,43 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 - Exception Handling
 - Create Your Exception
+
+## 025_Python Object Oriented Programming
+
+- Python Object Oriented Programming
+- Object Oriented Programming
+- Class
+- Object
+- Example 1: Creating Class and Object in Python
+- Methods
+- Example 2 : Creating Methods in Python
+- Inheritance
+- Example 3: Use of Inheritance in Python
+- Encapsulation
+- Example 4: Data Encapsulation in Python
+- Polymorphism
+- Example 5: Using Polymorphism in Python
+- Key Points to Remember
+
+## 026_Python Classes and Objects
+
+- Python Classes and Objects
+- Defining a Class in Python
+- Creating an Object in Python
+- Constructors in Python
+- Deleting Attributes and Objects
+
+## 027_Python Access Modifiers, Inheritance, Method Overriding, Method Resolution Order and Encapsulation
+
+- Python Access Modifiers
+- Public Access Modifier
+- Protected Access Modifier
+- Private Access Modifier
+- Python Inheritance
+- Python Inheritance Syntax
+- Method Overriding in Python
+- Python Multiple Inheritance
+- Python Multilevel Inheritance
+- Method Resolution Order in Python
+- Encapsulation in Python
+- Operator Overloading
