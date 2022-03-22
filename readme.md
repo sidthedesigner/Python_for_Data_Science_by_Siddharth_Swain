@@ -204,3 +204,124 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - String Format
 - Escape Character
 - String Methods
+
+## 016_Python Lists
+
+- Python Lists
+- List Items
+- Ordered
+- Changeable
+- Allow Duplicates
+- List Length
+- List Items - Data Types
+- type()
+- The list() Constructor
+- Python Collections (Arrays)
+- Access Items
+- Negative Indexing
+- Range of Indexes
+- Range of Negative Indexes
+- Check if Item Exists
+- Change Item Value
+- Change a Range of Item Values
+- Insert Items
+- Append Items
+- Insert Items
+- Extend List
+- Add Any Iterable
+- Remove Specified Item
+- Remove Specified Index
+- Clear the List
+- Loop Through a List
+- Loop Through the Index Numbers
+- Using a While Loop
+- Looping Using List Comprehension
+- List Comprehension
+- Iterable
+- Expression
+- Sort List Alphanumerically
+- Sort Descending
+- Customize Sort Function
+- Case Insensitive Sort
+- Reverse Order
+- Copy a List
+- Join Two Lists
+- List Methods
+
+## 017_Python Tuples
+
+- Python Tuples
+- Tuple Items
+- Ordered
+- Unchangeable
+- Allow Duplicates
+- Tuple Length
+- Create Tuple With One Item
+- Tuple Items - Data Types
+- type()
+- The tuple() Constructor
+- Access Tuple Items
+- Negative Indexing
+- Range of Indexes
+- Range of Negative Indexes
+- Check if Item Exists
+- Update Tuples
+- Change Tuple Values
+- Add Items
+- Remove Items
+- Unpacking a Tuple
+- Using Asterisk*
+- Loop Through a Tuple
+- Loop Through the Index Numbers
+- Using a While Loop
+- Join Two Tuples
+- Multiply Tuples
+- Tuple Methods
+
+## 018_Python Sets
+
+- Python Sets
+- Set Items
+- Unordered
+- Unchangeable
+- Duplicates Not Allowed
+- Get the Length of a Set
+- Set Items - Data Types
+- type()
+- The set() Constructor
+- Access Items
+- Change Items
+- Add Items
+- Add Sets
+- Add Any Iterable
+- Remove Item
+- Loop Items
+- Join Two Sets
+- Keep ONLY the Duplicates
+- Keep All, But NOT the Duplicates
+- Set Methods
+
+## 019_Python Dictionaries
+
+- Python Dictionaries
+- Dictionary Items
+- Ordered or Unordered?
+- Changeable
+- Duplicates Not Allowed
+- Dictionary Length
+- Dictionary Items - Data Types
+- type()
+- Accessing Items
+- Get Keys
+- Get Values
+- Get Items
+- Check if Key Exists
+- Change Values
+- Update Dictionary
+- Adding Items
+- Update Dictionary
+- Removing Items
+- Loop Through a Dictionary
+- Copy a Dictionary
+- Nested Dictionaries
+- Dictionary Methods
