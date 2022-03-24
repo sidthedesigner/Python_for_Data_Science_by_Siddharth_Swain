@@ -29,7 +29,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - What is Python used for?
 - What can Python do?
 - Why Python?
-- Why Learn Python?
+- Why learn Python?
 - Why is Python Popular despite being (Super) Slow?
 - What are 7 Reasons behind Python's Popularity?
 - Good to Know
@@ -38,9 +38,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Python is a Strongly Typed and Dynamically Typed Language
 - Python has Dynamic Semantics
 - Python Variables are Pointers
-- 7 Best Python IDE For Developers in 2021
+- The 7 Best Python IDE For Developers in 2021
 - Why Python is preferred for Machine Learning and AI?
-- Best Python Libraries for Machine Learning and AI
+- The Best Python Libraries for Machine Learning and AI
 
 ## 002_Getting Started
 
