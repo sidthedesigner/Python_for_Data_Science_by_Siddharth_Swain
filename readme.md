@@ -146,7 +146,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Python User Input
 - Python Input() Function
 
-## 012_Python If ... Else
+## 012_Python If Else
 
 - Python Conditions and If statements
 - Indentation
