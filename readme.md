@@ -56,7 +56,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Launch Jupyter Notebook
 - Change Jupyter Start-Up Folder
 - Enable Line Numbers for Jupyter Notebook Cell
-- Six Easy Ways to run Jupyter Notebook in the Cloud
+- Six Easy Ways to Run Jupyter Notebook in the Cloud
 
 ## 003_Python Syntax
 
