@@ -381,6 +381,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Stream Handler in Python
 - Python Debugger – Python pdb
 - Starting Python Debugger
+- Examples
 - Checking variables on the Stack
 - Python pdb Breakpoint
 - Managing Breakpoints
