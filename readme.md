@@ -66,8 +66,13 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 ## 004_Python Comments
 
 - Python Comments
-- Creating a Comment
-- Multi Line Comments
+- Example of Comments in Python
+- Types of Comments in Python
+- Single-Line Comments
+- Multi-Line Comments
+- Using Multiple Hashtags (#)
+- Using String Literals
+- Python Docstring
 
 ## 005_Python Variables
 
