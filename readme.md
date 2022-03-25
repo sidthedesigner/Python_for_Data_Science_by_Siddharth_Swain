@@ -25,20 +25,13 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Device Drivers
 - Application Software
 - Utility Software
-- What is Python?
-- What is Python used for?
-- What can Python do?
-- Why Python?
-- Why learn Python?
-- Why is Python Popular despite being (Super) Slow?
-- What are 7 Reasons behind Python's Popularity?
-- Good to Know
-- Python is a High Level Language
-- Python is an Interpreted Language
-- Python is a Strongly Typed and Dynamically Typed Language
-- Python has Dynamic Semantics
-- Python Variables are Pointers
-- Why Python is preferred for Machine Learning and AI?
+- Python Programming Language
+- Uses of Python
+- Advantages of Python
+- Python Facts
+- Why is Python popular among Data Scientists?
+- Why you should Learn Python?
+- Why is Python is preferred for Machine Learning and AI?
 - The Best Python Libraries for Machine Learning and AI
 - The 7 Best Python IDE For Developers in 2021
 
