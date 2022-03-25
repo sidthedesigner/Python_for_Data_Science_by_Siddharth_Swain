@@ -344,9 +344,15 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Lamba Function
 - Why Use Lambda Functions?
 - Python Docstring
+- Example 1: Docstrings
 - Python doc attribute
+- Example 2: Printing docstring
+- Example 3: Docstrings for the built-in print() function
 - Iterable and Iterator
 - Generators in Python
+- Generator Function
+- Generator Object
+- Applications
 - id() Function
 
 ## 021_Python File Handling 
