@@ -38,9 +38,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Python is a Strongly Typed and Dynamically Typed Language
 - Python has Dynamic Semantics
 - Python Variables are Pointers
-- The 7 Best Python IDE For Developers in 2021
 - Why Python is preferred for Machine Learning and AI?
 - The Best Python Libraries for Machine Learning and AI
+- The 7 Best Python IDE For Developers in 2021
 
 ## 002_Getting Started
 
