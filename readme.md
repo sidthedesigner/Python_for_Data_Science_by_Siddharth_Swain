@@ -130,6 +130,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 ## 010_Python Operators
 
 - Python Operators
+- Types of Python Operators
 - Python Arithmetic Operators
 - Python Assignment Operators
 - Python Comparison Operators
