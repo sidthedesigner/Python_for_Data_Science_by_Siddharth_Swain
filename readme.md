@@ -360,14 +360,15 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - File Handling in Python
 - File Handling
 - Syntax
+- Python File Open
 - Open a File on the Server
-- Read only parts of the File
+- Read Only Parts of the File
 - Read Lines
 - Close Files
 - Write to an Existing File
 - Create a New File
 - Delete a File
-- Check if File exist
+- Check if File Exists
 - Delete Folder
 - OS Module in Python
 
