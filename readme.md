@@ -46,8 +46,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Anaconda Navigator
 - Anaconda Prompt
 - Launch Jupyter Notebook
-- Change Jupyter Start-Up Folder
-- Enable Line Numbers for Jupyter Notebook Cell
+- Change your Jupyter Start-Up Folder
+- Enable Line Numbers for Jupyter Notebook Cells
 - Six Easy Ways to Run Jupyter Notebook in the Cloud
 
 ## 003_Python Syntax
