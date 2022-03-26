@@ -406,7 +406,13 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 024_Python Error Handling
 
-- Exception Handling
+- Python Error Handling
+- Difference between Syntax Error and Exceptions
+- Try and Except Statement – Catching Exceptions
+- Catching Specific Exception
+- Try with Else Clause
+- Finally Keyword in Python
+- Raising Exception
 - Create Your Exception
 
 ## 025_Python Object Oriented Programming
