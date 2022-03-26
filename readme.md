@@ -448,9 +448,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Private Access Modifier
 - Python Inheritance
 - Python Inheritance Syntax
-- Method Overriding in Python
 - Python Multiple Inheritance
 - Python Multilevel Inheritance
+- Method Overriding in Python
 - Method Resolution Order in Python
 - Encapsulation in Python
 - Operator Overloading
