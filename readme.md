@@ -660,7 +660,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - What is Apache Spark?
 - Difference Between Spark DataFrame and Pandas DataFrame
 - Pandas DataFrame
+- Advantages and Disadvantages
 - Spark DataFrame
+- Advantages and Disadvantages
 - Deciding Between Pandas and Spark
 
 ## 032_Python Numpy
