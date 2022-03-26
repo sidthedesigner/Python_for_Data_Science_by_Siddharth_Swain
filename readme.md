@@ -554,9 +554,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Communication level of APIs
 - What is Web APIs?
 - API Testing tools
-- Application of API
+- Applications of API
 - API Summary
-- What is Flask and Django?
+- Flask and Django
 - What is Flask?
 - What is Django?
 - Key Differences
@@ -583,9 +583,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Anchor
 - How to use URLs
 - What is main in Python?
-- How to use PyCharm to debug your Python code
+- How to use PyCharm to debug your Python code?
 - Breakpoints
-- Attach to local processes
+- Attach to Local Processes
 - Python Interpreter With The Loaded Environment
 - Conclusion
 
