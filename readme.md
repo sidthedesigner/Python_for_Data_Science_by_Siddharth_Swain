@@ -45,9 +45,37 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Verifying your Installation
 - Anaconda Navigator
 - Anaconda Prompt
+- What is Jupyter Notebook?
+- Advantages of Jupyter Notebook
+- Disadvantages of Jupyter Notebook
 - Launch Jupyter Notebook
-- Change your Jupyter Start-Up Folder
+- Dashboard of Jupyter Notebook
+- Files Tab
+- Running Tab
+- Cluster Tab
+- User Interface of Jupyter Notebook
+- Components of Jupyter Notebook
+- The Notebook Web Application
+- Kernels
+- Notebook Documents
+- Creating a Notebook
+- Rename the Notebook
+- How to Write and Run a Program in Jupyter
+- Types of Cells in Jupyter Notebook
+- Code Cell
+- Markdown Cell
+- Bold and Italics
+- Headers
+- Ordered Lists
+- Bullet Lists
+- Hyperlinks
+- Table Content
+- Images
+- Raw NBConvert Cell
+- Heading Cell
 - Enable Line Numbers for Jupyter Notebook Cells
+- Change your Jupyter Start-Up Folder
+- Should Jupyter Notebooks be used in Production?
 - Six Easy Ways to Run Jupyter Notebook in the Cloud
 
 ## 003_Python Syntax
