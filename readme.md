@@ -206,7 +206,6 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 015_Python Strings
 
-- Python Collections
 - Python Strings
 - Assign String to a Variable
 - Multiline Strings
@@ -233,6 +232,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 016_Python Lists
 
+- Python Collections
 - Python Lists
 - List Items
 - Ordered
