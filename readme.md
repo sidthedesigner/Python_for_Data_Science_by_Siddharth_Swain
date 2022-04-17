@@ -368,9 +368,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Arguments
 - Parameters or Arguments?
 - Number of Arguments
-- Arbitrary Arguments, args
+- Arbitrary Arguments (*args)
 - Keyword Arguments
-- Arbitrary Keyword Arguments, kwargs
+- Arbitrary Keyword Arguments (**kwargs)
 - Default Parameter Value
 - Passing a List as an Argument
 - Return Values
