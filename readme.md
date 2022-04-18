@@ -376,7 +376,15 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Return Values
 - The pass Statement
 - Recursion
-- Python Placeholder
+- Underscore (_) in Python
+- Single Underscore
+- In Interpreter
+- For ignoring values
+- After a name
+- Before a name
+- Double Underscore(__)
+- __leading_double_underscore
+- BEFORE_AFTER
 - Lamba Function
 - Why Use Lambda Functions?
 - Python Docstring
