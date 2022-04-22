@@ -459,7 +459,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Raising Exception
 - Create Your Exception
 
-## 025_Python Object Oriented Programming
+## 025_OOPS (Part 1)
 
 - Python Object Oriented Programming
 - Object Oriented Programming
@@ -476,7 +476,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Example 5: Using Polymorphism in Python
 - Key Points to Remember
 
-## 026_Python Classes and Objects
+## 026_OOPS (Part 2)
 
 - Python Classes and Objects
 - Defining a Class in Python
@@ -484,7 +484,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Constructors in Python
 - Deleting Attributes and Objects
 
-## 027_Python Access Modifiers, Inheritance, Method Overriding, Method Resolution Order and Encapsulation
+## 027_OOPS (Part 3)
 
 - Python Access Modifiers
 - Public Access Modifier
