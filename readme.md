@@ -768,3 +768,50 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Summarize only the occupation column.
 - What is the mean age of users?
 - What is the age with least occurrence?
+
+## 033_Pandas Exercises (Part 2)
+
+- Exercise 1 (Filtering and Sorting Data)
+- Import the necessary libraries.
+- Import the dataset from this address.
+- Assign it to a variable called chipo.
+- How many products cost more than $10.00?
+- What is the price of each item?
+- Sort by the name of the item.
+- What was the quantity of the most expensive item ordered?
+- How many times was a Veggie Salad Bowl ordered?
+- How many times did someone order more than one Canned Soda?
+- Exercise 2 (Filtering and Sorting Data)
+- Import the necessary libraries.
+- Import the dataset from this address.
+- Assign it to a variable called euro12.
+- Select only the Goal column.
+- How many team participated in the Euro2012?
+- What is the number of columns in the dataset?
+- View only the columns Team, Yellow Cards and Red Cards and assign them to a dataframe called discipline.
+- Sort the teams by Red Cards, then to Yellow Cards.
+- Calculate the mean Yellow Cards given per Team.
+- Filter teams that scored more than 6 goals.
+- Select the teams that start with G.
+- Select the first 7 columns.
+- Select all columns except the last 3.
+- Present only the Shooting Accuracy from England, Italy and Russia.
+- Exercise 3 (Filtering and Sorting Data)
+- Import the necessary libraries.
+- This is the data given as a dictionary.
+- Create a dataframe and assign it to a variable called army.
+- Set the 'origin' colum as the index of the dataframe.
+- Print only the column veterans.
+- Print the columns 'veterans' and 'deaths'.
+- Print the name of all the columns.
+- Select the 'deaths', 'size' and 'deserters' columns from Maine and Alaska.
+- Select the rows 3 to 7 and the columns 3 to 6.
+- Select every row after the fourth row and all columns.
+- Select every row up to the 4th row and all columns.
+- Select the 3rd column up to the 7th column.
+- Select rows where df.deaths is greater than 50.
+- Select rows where df.deaths is greater than 500 or less than 50.
+- Select all the regiments not named "Dragoons".
+- Select the rows called Texas and Arizona.
+- Select the third cell in the row named Arizona.
+- Select the third cell down in the column named deaths.
