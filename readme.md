@@ -713,232 +713,57 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Advantages and Disadvantages
 - Deciding Between Pandas and Spark
 
-## 032_Python Numpy
+## 032_Pandas Exercises (Part 1)
 
-- NumPy (Numerical Python)
-- NumPy Introduction
-- What is NumPy?
-- Why Use NumPy?
-- Why is NumPy Faster Than Lists?
-- Which Language is NumPy written in?
-- Where is the NumPy Codebase?
-- NumPy Getting Started
-- Installation of NumPy
-- Import NumPy
-- NumPy as np
-- Checking NumPy Version
-- NumPy Creating Arrays
-- Create a NumPy ndarray Object
-- Dimensions in Arrays
-- 0-D Arrays
-- 1-D Arrays
-- 2-D Arrays
-- 3-D Arrays
-- Check Number of Dimensions?
-- Higher Dimensional Arrays
-- NumPy Array Indexing
-- Access Array Elements
-- Access 2-D Arrays
-- Access 3-D Arrays
-- Negative Indexing
-- NumPy Array Slicing
-- Slicing Arrays
-- Negative Slicing
-- STEP
-- Slicing 2-D Arrays
-- NumPy Data Types
-- Data Types in Python
-- Data Types in NumPy
-- Checking the Data Type of an Array
-- Creating Arrays With a Defined Data Type
-- What if a Value Can Not Be Converted?
-- Converting Data Type on Existing Arrays
-- NumPy Array Copy vs View
-- The Difference Between Copy and View
-- COPY
-- VIEW
-- Make Changes in the VIEW
-- Check if Array Owns its Data
-- NumPy Array Shape
-- Shape of an Array
-- Get the Shape of an Array
-- What does the Shape Tuple Represent?
-- NumPy Array Reshaping
-- Reshaping Arrays
-- Reshape From 1-D to 2-D
-- Reshape From 1-D to 3-D
-- Can We Reshape Into any Shape?
-- Returns Copy or View?
-- Unknown Dimension
-- Flattening the Arrays
-- NumPy Array Iterating
-- Iterating Arrays
-- Iterating 2-D Arrays
-- Iterating 3-D Arrays
-- Iterating Arrays Using nditer()
-- Iterating on Each Scalar Element
-- Iterating Array With Different Data Types
-- Iterating With Different Step Size
-- Enumerated Iteration Using ndenumerate()
-- NumPy Joining Array
-- Joining NumPy Arrays
-- Joining Arrays Using Stack Functions
-- Stacking Along Rows
-- Stacking Along Columns
-- Stacking Along Height (Depth)
-- NumPy Splitting Array
-- Splitting NumPy Arrays
-- Split Into Arrays
-- Splitting 2-D Arrays
-- NumPy Searching Arrays
-- Searching Arrays
-- Search Sorted
-- Search From the Right Side
-- Multiple Values
-- NumPy Sorting Arrays
-- Sorting Arrays
-- Sorting a 2-D Array
-- NumPy Filter Array
-- Filtering Arrays
-- Creating the Filter Array
-- Creating Filter Directly From Array
-- Random Numbers in NumPy
-- What is a Random Number?
-- Pseudo Random and True Random
-- Can we make Truly Random Numbers?
-- Generate Random Number
-- Generate Random Float
-- Generate Random Array
-- Integers
-- Floats
-- Generate Random Number From Array
-- Random Data Distribution
-- What is Data Distribution?
-- Random Distribution
-- Random Permutations
-- Random Permutations of Elements
-- Shuffling Arrays
-- Generating Permutation of Arrays
-- Seaborn
-- Visualize Distributions With Seaborn
-- Install Seaborn
-- Distplots
-- Import Matplotlib
-- Import Seaborn
-- Plotting a Distplot
-- Plotting a Distplot Without the Histogram
-- Normal (Gaussian) Distribution
-- Visualization of Normal Distribution
-- Binomial Distribution
-- Visualization of Binomial Distribution
-- Difference Between Normal and Binomial Distribution
-- Poisson Distribution
-- Visualization of Poisson Distribution
-- Difference Between Normal and Poisson Distribution
-- Difference Between Poisson and Binomial Distribution
-- Uniform Distribution
-- Visualization of Uniform Distribution
-- Logistic Distribution
-- Visualization of Logistic Distribution
-- Difference Between Logistic and Normal Distribution
-- Multinomial Distribution
-- Exponential Distribution
-- Visualization of Exponential Distribution
-- Relation Between Poisson and Exponential Distribution
-- Chi Square Distribution
-- Visualization of Chi Square Distribution
-- Rayleigh Distribution
-- Visualization of Rayleigh Distribution
-- Similarity Between Rayleigh and Chi Square Distribution
-- Pareto Distribution
-- Visualization of Pareto Distribution
-- Zipf Distribution
-- Visualization of Zipf Distribution
-- NumPy ufuncs
-- What are ufuncs?
-- Why use ufuncs?
-- What is Vectorization?
-- Create Your Own ufunc
-- How To Create Your Own ufunc
-- Check if a Function is a ufunc
-- Simple Arithmetic
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Power
-- Remainder
-- Quotient and Mod
-- Absolute Values
-- Rounding Decimals
-- Rounding
-- Floor
-- Ceil
-- NumPy Logs
-- Logs
-- Log at Base 2
-- Log at Base 10
-- Natural Log, or Log at Base e
-- Log at Any Base
-- NumPy Summations
-- Summations
-- Summation Over an Axis
-- Cummulative Sum
-- NumPy Products
-- Products
-- Product Over an Axis
-- Cummulative Product
-- NumPy Differences
-- Differences
-- NumPy LCM Lowest Common Multiple
-- Finding LCM (Lowest Common Multiple)
-- Finding LCM in Arrays
-- NumPy GCD Greatest Common Denominator
-- Finding GCD (Greatest Common Denominator)
-- Finding GCD in Arrays
-- NumPy Trigonometric Functions
-- Trigonometric Functions
-- Convert Degrees Into Radians
-- Radians to Degrees
-- Finding Angles
-- Angles of Each Value in Arrays
-- Hypotenues
-- NumPy Hyperbolic Functions
-- Hyperbolic Functions
-- Finding Angles
-- Angles of Each Value in Arrays
-- NumPy Set Operations
-- What is a Set
-- Create Sets in NumPy
-- Finding Union
-- Finding Intersection
-- Finding Difference
-- Finding Symmetric Difference
-- Python Lists vs Numpy Arrays
-- Advantages of using Numpy Arrays Over Python Lists
-- Some Important points about Python Lists
-- Example 1: Memory Consumption between Numpy Array and Lists
-- Example 2: Time Comparison between Numpy Array and Python Lists
-- Example 3: Effect of Operations on Numpy Array and Python Lists
-
-## 033_Data Visualization using Matplotlib, Seaborn and Plotly
-
-- Data Visualization
-- Benefits of Data Visualization
-- Plotting with Pandas
-- Plotly
-- Installation
-- Jupyter Notebook Installation (Additional)
-- JupyterLab Installation (Python 3.5+)
-- Plotly Express in Python
-- Cufflinks
-- Scatter, Line, Area and Bar Charts
-- Whole Charts
-- 1D Distributions
-- 2D Distributions
-- Images and Heatmaps
-- 3D Coordinates
-- Tile Maps and Point on Tile Maps
-- Polar Coordinates
-- Ternary Coordinates
-- Plotting with Seaborn
+- Exercise 1 (Getting and Knowing your Data)
+- Step 1. Go to https://www.kaggle.com/openfoodfacts/world-food-facts/data.
+- Step 2. Download the dataset to your computer and unzip it.
+- Step 3. Use the tsv file and assign it to a dataframe called food.
+- Step 4. See the first 5 entries.
+- Step 5. What is the number of observations in the dataset?
+- Step 6. What is the number of columns in the dataset?
+- Step 7. Print the name of all the columns.
+- Step 8. What is the name of 105th column?
+- Step 9. What is the type of the observations of the 105th column?
+- Step 10. How is the dataset indexed?
+- Step 11. What is the product name of the 19th observation?
+- Exercise 2 (Getting and Knowing your Data)
+- Step 1. Import the necessary libraries.
+- Step 2. Import the dataset from this address.
+- Step 3. Assign it to a variable called chipo.
+- Step 4. See the first 10 entries.
+- Step 5. What is the number of observations in the dataset?
+- Step 6. What is the number of columns in the dataset?
+- Step 7. Print the name of all the columns.
+- Step 8. How is the dataset indexed?
+- Step 9. Which was the most-ordered item?
+- Step 10. For the most-ordered item, how many items were ordered?
+- Step 11. What was the most ordered item in the choice_description column?
+- Step 12. How many items were orderd in total?
+- Step 13. Turn the item price into a float.
+- Step 13.a. Check the item price type.
+- Step 13.b. Create a lambda function and change the type of item price.
+- Step 13.c. Check the item price type.
+- Step 14. How much was the revenue for the period in the dataset?
+- Step 15. How many orders were made in the period?
+- Step 16. What is the average revenue amount per order?
+- Step 17. How many different items are sold?
+- Exercise 3 (Getting and Knowing your Data)
+- Step 1. Import the necessary libraries.
+- Step 2. Import the dataset from this address.
+- Step 3. Assign it to a variable called users and use the 'user_id' as index.
+- Step 4. See the first 25 entries.
+- Step 5. See the last 10 entries.
+- Step 6. What is the number of observations in the dataset?
+- Step 7. What is the number of columns in the dataset?
+- Step 8. Print the name of all the columns.
+- Step 9. How is the dataset indexed?
+- Step 10. What is the data type of each column?
+- Step 11. Print only the occupation column.
+- Step 12. How many different occupations are in this dataset?
+- Step 13. What is the most frequent occupation?
+- Step 14. Summarize the DataFrame.
+- Step 15. Summarize all the columns.
+- Step 16. Summarize only the occupation column.
+- Step 17. What is the mean age of users?
+- Step 18. What is the age with least occurrence?
