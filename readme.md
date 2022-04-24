@@ -693,6 +693,10 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Perfect Correlation
 - Good Correlation
 - Bad Correlation
+- Pandas - Merge, Join, Concat and Append
+- Concat
+- Merging/Joining
+- Append 
 - Pandas - Plotting
 - Plotting
 - Scatter Plot
