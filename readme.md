@@ -696,7 +696,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Pandas - Merge, Join, Concat and Append
 - Concat
 - Merging/Joining
-- Append 
+- Append
+- Pandas - GroupBy
 - Pandas - Plotting
 - Plotting
 - Scatter Plot
