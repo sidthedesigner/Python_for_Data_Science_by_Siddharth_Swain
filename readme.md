@@ -716,54 +716,54 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 ## 032_Pandas Exercises (Part 1)
 
 - Exercise 1 (Getting and Knowing your Data)
-- Step 1. Go to https://www.kaggle.com/openfoodfacts/world-food-facts/data.
-- Step 2. Download the dataset to your computer and unzip it.
-- Step 3. Use the tsv file and assign it to a dataframe called food.
-- Step 4. See the first 5 entries.
-- Step 5. What is the number of observations in the dataset?
-- Step 6. What is the number of columns in the dataset?
-- Step 7. Print the name of all the columns.
-- Step 8. What is the name of 105th column?
-- Step 9. What is the type of the observations of the 105th column?
-- Step 10. How is the dataset indexed?
-- Step 11. What is the product name of the 19th observation?
+- Go to https://www.kaggle.com/openfoodfacts/world-food-facts/data.
+- Download the dataset to your computer and unzip it.
+- Use the tsv file and assign it to a dataframe called food.
+- See the first 5 entries.
+- What is the number of observations in the dataset?
+- What is the number of columns in the dataset?
+- Print the name of all the columns.
+- What is the name of 105th column?
+- What is the type of the observations of the 105th column?
+- How is the dataset indexed?
+- What is the product name of the 19th observation?
 - Exercise 2 (Getting and Knowing your Data)
-- Step 1. Import the necessary libraries.
-- Step 2. Import the dataset from this address.
-- Step 3. Assign it to a variable called chipo.
-- Step 4. See the first 10 entries.
-- Step 5. What is the number of observations in the dataset?
-- Step 6. What is the number of columns in the dataset?
-- Step 7. Print the name of all the columns.
-- Step 8. How is the dataset indexed?
-- Step 9. Which was the most-ordered item?
-- Step 10. For the most-ordered item, how many items were ordered?
-- Step 11. What was the most ordered item in the choice_description column?
-- Step 12. How many items were orderd in total?
-- Step 13. Turn the item price into a float.
-- Step 13.a. Check the item price type.
-- Step 13.b. Create a lambda function and change the type of item price.
-- Step 13.c. Check the item price type.
-- Step 14. How much was the revenue for the period in the dataset?
-- Step 15. How many orders were made in the period?
-- Step 16. What is the average revenue amount per order?
-- Step 17. How many different items are sold?
+- Import the necessary libraries.
+- Import the dataset from this address.
+- Assign it to a variable called chipo.
+- See the first 10 entries.
+- What is the number of observations in the dataset?
+- What is the number of columns in the dataset?
+- Print the name of all the columns.
+- How is the dataset indexed?
+- Which was the most-ordered item?
+- For the most-ordered item, how many items were ordered?
+- What was the most ordered item in the choice_description column?
+- How many items were orderd in total?
+- Turn the item price into a float.
+- Check the item price type.
+- Create a lambda function and change the type of item price.
+- Check the item price type.
+- How much was the revenue for the period in the dataset?
+- How many orders were made in the period?
+- What is the average revenue amount per order?
+- How many different items are sold?
 - Exercise 3 (Getting and Knowing your Data)
-- Step 1. Import the necessary libraries.
-- Step 2. Import the dataset from this address.
-- Step 3. Assign it to a variable called users and use the 'user_id' as index.
-- Step 4. See the first 25 entries.
-- Step 5. See the last 10 entries.
-- Step 6. What is the number of observations in the dataset?
-- Step 7. What is the number of columns in the dataset?
-- Step 8. Print the name of all the columns.
-- Step 9. How is the dataset indexed?
-- Step 10. What is the data type of each column?
-- Step 11. Print only the occupation column.
-- Step 12. How many different occupations are in this dataset?
-- Step 13. What is the most frequent occupation?
-- Step 14. Summarize the DataFrame.
-- Step 15. Summarize all the columns.
-- Step 16. Summarize only the occupation column.
-- Step 17. What is the mean age of users?
-- Step 18. What is the age with least occurrence?
+- Import the necessary libraries.
+- Import the dataset from this address.
+- Assign it to a variable called users and use the 'user_id' as index.
+- See the first 25 entries.
+- See the last 10 entries.
+- What is the number of observations in the dataset?
+- What is the number of columns in the dataset?
+- Print the name of all the columns.
+- How is the dataset indexed?
+- What is the data type of each column?
+- Print only the occupation column.
+- How many different occupations are in this dataset?
+- What is the most frequent occupation?
+- Summarize the DataFrame.
+- Summarize all the columns.
+- Summarize only the occupation column.
+- What is the mean age of users?
+- What is the age with least occurrence?
