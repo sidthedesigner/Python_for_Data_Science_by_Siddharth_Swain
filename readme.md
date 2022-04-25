@@ -1023,3 +1023,25 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Example 1: Memory Consumption between Numpy Array and Lists
 - Example 2: Time Comparison between Numpy Array and Python Lists
 - Example 3: Effect of Operations on Numpy Array and Python Lists
+
+## 043_Data Visualization
+
+- Data Visualization
+- Benefits of Data Visualization
+- Plotting with Pandas
+- Plotting with Plotly
+- Installation
+- Jupyter Notebook Installation (Additional)
+- JupyterLab Installation (Python 3.5+)
+- Plotly Express in Python
+- Cufflinks
+- Scatter, Line, Area and Bar Charts
+- Whole Charts
+- 1D Distributions
+- 2D Distributions
+- Images and Heatmaps
+- 3D Coordinates
+- Tile Maps and Point on Tile Maps
+- Polar Coordinates
+- Ternary Coordinates
+- Plotting with Seaborn
