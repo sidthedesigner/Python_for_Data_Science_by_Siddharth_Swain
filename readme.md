@@ -815,3 +815,211 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Select the rows called Texas and Arizona.
 - Select the third cell in the row named Arizona.
 - Select the third cell down in the column named deaths.
+
+## 043_Python Numpy
+
+- NumPy (Numerical Python)
+- NumPy Introduction
+- What is NumPy?
+- Why Use NumPy?
+- Why is NumPy Faster Than Lists?
+- Which Language is NumPy written in?
+- Where is the NumPy Codebase?
+- NumPy Getting Started
+- Installation of NumPy
+- Import NumPy
+- NumPy as np
+- Checking NumPy Version
+- NumPy Creating Arrays
+- Create a NumPy ndarray Object
+- Dimensions in Arrays
+- 0-D Arrays
+- 1-D Arrays
+- 2-D Arrays
+- 3-D Arrays
+- Check Number of Dimensions?
+- Higher Dimensional Arrays
+- NumPy Array Indexing
+- Access Array Elements
+- Access 2-D Arrays
+- Access 3-D Arrays
+- Negative Indexing
+- NumPy Array Slicing
+- Slicing Arrays
+- Negative Slicing
+- STEP
+- Slicing 2-D Arrays
+- NumPy Data Types
+- Data Types in Python
+- Data Types in NumPy
+- Checking the Data Type of an Array
+- Creating Arrays With a Defined Data Type
+- What if a Value Can Not Be Converted?
+- Converting Data Type on Existing Arrays
+- NumPy Array Copy vs View
+- The Difference Between Copy and View
+- COPY
+- VIEW
+- Make Changes in the VIEW
+- Check if Array Owns its Data
+- NumPy Array Shape
+- Shape of an Array
+- Get the Shape of an Array
+- What does the Shape Tuple Represent?
+- NumPy Array Reshaping
+- Reshaping Arrays
+- Reshape From 1-D to 2-D
+- Reshape From 1-D to 3-D
+- Can We Reshape Into any Shape?
+- Returns Copy or View?
+- Unknown Dimension
+- Flattening the Arrays
+- NumPy Array Iterating
+- Iterating Arrays
+- Iterating 2-D Arrays
+- Iterating 3-D Arrays
+- Iterating Arrays Using nditer()
+- Iterating on Each Scalar Element
+- Iterating Array With Different Data Types
+- Iterating With Different Step Size
+- Enumerated Iteration Using ndenumerate()
+- NumPy Joining Array
+- Joining NumPy Arrays
+- Joining Arrays Using Stack Functions
+- Stacking Along Rows
+- Stacking Along Columns
+- Stacking Along Height (Depth)
+- NumPy Splitting Array
+- Splitting NumPy Arrays
+- Split Into Arrays
+- Splitting 2-D Arrays
+- NumPy Searching Arrays
+- Searching Arrays
+- Search Sorted
+- Search From the Right Side
+- Multiple Values
+- NumPy Sorting Arrays
+- Sorting Arrays
+- Sorting a 2-D Array
+- NumPy Filter Array
+- Filtering Arrays
+- Creating the Filter Array
+- Creating Filter Directly From Array
+- Random Numbers in NumPy
+- What is a Random Number?
+- Pseudo Random and True Random
+- Can we make Truly Random Numbers?
+- Generate Random Number
+- Generate Random Float
+- Generate Random Array
+- Integers
+- Floats
+- Generate Random Number From Array
+- Random Data Distribution
+- What is Data Distribution?
+- Random Distribution
+- Random Permutations
+- Random Permutations of Elements
+- Shuffling Arrays
+- Generating Permutation of Arrays
+- Seaborn
+- Visualize Distributions With Seaborn
+- Install Seaborn
+- Distplots
+- Import Matplotlib
+- Import Seaborn
+- Plotting a Distplot
+- Plotting a Distplot Without the Histogram
+- Normal (Gaussian) Distribution
+- Visualization of Normal Distribution
+- Binomial Distribution
+- Visualization of Binomial Distribution
+- Difference Between Normal and Binomial Distribution
+- Poisson Distribution
+- Visualization of Poisson Distribution
+- Difference Between Normal and Poisson Distribution
+- Difference Between Poisson and Binomial Distribution
+- Uniform Distribution
+- Visualization of Uniform Distribution
+- Logistic Distribution
+- Visualization of Logistic Distribution
+- Difference Between Logistic and Normal Distribution
+- Multinomial Distribution
+- Exponential Distribution
+- Visualization of Exponential Distribution
+- Relation Between Poisson and Exponential Distribution
+- Chi Square Distribution
+- Visualization of Chi Square Distribution
+- Rayleigh Distribution
+- Visualization of Rayleigh Distribution
+- Similarity Between Rayleigh and Chi Square Distribution
+- Pareto Distribution
+- Visualization of Pareto Distribution
+- Zipf Distribution
+- Visualization of Zipf Distribution
+- NumPy ufuncs
+- What are ufuncs?
+- Why use ufuncs?
+- What is Vectorization?
+- Create Your Own ufunc
+- How To Create Your Own ufunc
+- Check if a Function is a ufunc
+- Simple Arithmetic
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power
+- Remainder
+- Quotient and Mod
+- Absolute Values
+- Rounding Decimals
+- Rounding
+- Floor
+- Ceil
+- NumPy Logs
+- Logs
+- Log at Base 2
+- Log at Base 10
+- Natural Log, or Log at Base e
+- Log at Any Base
+- NumPy Summations
+- Summations
+- Summation Over an Axis
+- Cummulative Sum
+- NumPy Products
+- Products
+- Product Over an Axis
+- Cummulative Product
+- NumPy Differences
+- Differences
+- NumPy LCM Lowest Common Multiple
+- Finding LCM (Lowest Common Multiple)
+- Finding LCM in Arrays
+- NumPy GCD Greatest Common Denominator
+- Finding GCD (Greatest Common Denominator)
+- Finding GCD in Arrays
+- NumPy Trigonometric Functions
+- Trigonometric Functions
+- Convert Degrees Into Radians
+- Radians to Degrees
+- Finding Angles
+- Angles of Each Value in Arrays
+- Hypotenues
+- NumPy Hyperbolic Functions
+- Hyperbolic Functions
+- Finding Angles
+- Angles of Each Value in Arrays
+- NumPy Set Operations
+- What is a Set
+- Create Sets in NumPy
+- Finding Union
+- Finding Intersection
+- Finding Difference
+- Finding Symmetric Difference
+- Python Lists vs Numpy Arrays
+- Advantages of using Numpy Arrays Over Python Lists
+- Some Important points about Python Lists
+- Example 1: Memory Consumption between Numpy Array and Lists
+- Example 2: Time Comparison between Numpy Array and Python Lists
+- Example 3: Effect of Operations on Numpy Array and Python Lists
