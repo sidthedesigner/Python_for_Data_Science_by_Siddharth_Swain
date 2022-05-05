@@ -1024,7 +1024,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Example 2: Time Comparison between Numpy Array and Python Lists
 - Example 3: Effect of Operations on Numpy Array and Python Lists
 
-## 043_Data Visualization
+## 044_Data Visualization
 
 - Data Visualization
 - Benefits of Data Visualization
@@ -1045,3 +1045,19 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Polar Coordinates
 - Ternary Coordinates
 - Plotting with Seaborn
+
+## 045_Exploratory Data Analysis (Part 1)
+
+- Exploratory Data Analysis (EDA)
+- Importing Libraries
+- Reading Data
+- Descriptive Statistics
+- Missing Value Imputation
+- Graphical Representation
+- Example 1
+
+## 046_Exploratory Data Analysis (Part 2)
+
+- Example 2
+- Example 3
+- Example 4
