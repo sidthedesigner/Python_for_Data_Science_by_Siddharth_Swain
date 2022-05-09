@@ -1061,3 +1061,65 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Example 2
 - Example 3
 - Example 4
+
+## 047_Machine Learning
+
+- Overview of AI, ML & DL
+- What is Artificial Intelligence?
+- What is Machine Learning?
+- What is Deep Learning?
+- Artificial Intelligence (AI)
+- How Does AI Work?
+- Components of AI
+- Why is Artificial Intelligence Important?
+- What are the Advantages and Disadvantages of Artificial Intelligence?
+- What are the 4 Types of Artificial Intelligence?
+- What are Examples of AI Technology and How Is It Used Today?
+- Google Maps and Ride-Hailing Applications
+- Face Detection and Recognition
+- Text Editors or Autocorrect
+- Chatbots
+- Online-Payments
+- Search and Recommendation Algorithms
+- Digital Assistants
+- Social Media
+- Healthcare
+- Gaming
+- Online Ads Network
+- Banking and Finance
+- Smart Home Devices
+- Security and Surveillance
+- Smart Keyboard Apps
+- Smart Speakers
+- E-Commerce
+- Smart Email Apps
+- Music and Media Streaming Service
+- Space Exploration
+- What are the Applications of AI?
+- AI in Healthcare
+- AI in Business
+- AI in Education
+- AI in Finance
+- AI in Law
+- AI in Manufacturing
+- AI in Banking
+- AI in Transportation
+- AI in Security
+- Augmented Intelligence vs. Artificial Intelligence
+- Ethical Use of Artificial Intelligence
+- Cognitive Computing and AI
+- What is the History of AI?
+- AI as a Service
+- Machine Learning
+- Why is Machine Learning Getting So Much Attention Recently?
+- How is Machine Learning different from Automation?
+- What Tools are used in Machine Learning?
+- What are the Kind of Problems which can be Solved using Machine Learning?
+- What are the Different Algorithms used in Machine Learning?
+- How much Data is Required to Train a Machine Learning Model?
+- What Kind of Data is Required to Train a Machine Learning Model?
+- What are the Steps Involved in Building Machine Learning Models?
+- What are Some of the Latest Achievements and Developments in Machine Learning?
+- How Good are the Machines Currently?
+- What are Some of the Challenges in the Adoption of Machine Learning?
+- Is Machine Learning a Complete Black Box?
