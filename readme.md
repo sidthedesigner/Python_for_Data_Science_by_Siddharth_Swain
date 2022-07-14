@@ -547,7 +547,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - RIGHT JOIN
 - Sample Code for Database Operations using Classes and Objects
 
-## 029_Python MongoDB
+## 029_Python MongoDB and Cassandra
 
 - Python MongoDB
 - MongoDB
@@ -586,6 +586,92 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Update Many
 - MongoDB Limit
 - Limit the Result
+- Python Cassandra
+- NoSQLDatabase
+- NoSQL vs. Relational Database
+- What is Apache Cassandra?
+- Features of Cassandra
+- History of Cassandra
+- Cassandra Architecture
+- Data Replication in Cassandra
+- Components of Cassandra
+- Cassandra Query Language
+- Cassandra Data Model
+- Cluster
+- Keyspace
+- Column Family
+- Column
+- SuperColumn
+- Data Models of Cassandra and RDBMS
+- Cqlsh
+- Starting Cqlsh
+- Cqlsh Commands
+- Shell Commands
+- Help
+- Capture
+- Consistency
+- Copy
+- Describe
+- Describe Type
+- Describe Types
+- Expand
+- Exit
+- Show
+- Source
+- Create Keyspace
+- Creating a Keyspace using Cqlsh
+- Replication
+- Durable_writes
+- Using a Keyspace
+- Alter Keyspace
+- Altering a KeySpace
+- Replication
+- Durable_writes
+- Drop Keyspace
+- Dropping a Keyspace
+- Creating a Table
+- Defining a Column
+- Primary Key
+- Alter Table
+- Altering a Table
+- Adding a Column
+- Dropping a Column
+- Drop Table
+- Dropping a Table
+- Truncate Table
+- Truncating a Table
+- Create Index
+- Creating an Index using Cqlsh
+- Drop Index
+- Dropping an Index
+- Batch Statements
+- Using Batch Statements
+- Create Data
+- Creating Data in a Table
+- Update Data
+- Updating Data in a Table
+- Read Data
+- Reading Data using Select Clause
+- Reading Required Columns
+- Where Clause
+- Delete Data
+- Deleting Datafrom a Table
+- Deleting an Entire Row
+- CQL Datatypes
+- Collection Types
+- User-Defined Datatypes
+- CQL Collections
+- List
+- SET
+- MAP
+- CQL User Defined Datatypes
+- Creating a User-defined Data Type
+- Altering a User-defined Data Type
+- Deleting a User-defined Data Type
+- Cassandra Driver
+- SimpleStatement
+- BatchStatement
+- PreparedStatement
 
 ## 030_Python Flask, API & Debugging 
 
