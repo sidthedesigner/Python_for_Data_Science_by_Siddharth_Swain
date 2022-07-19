@@ -673,7 +673,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - BatchStatement
 - PreparedStatement
 
-## 030_Python Flask, API & Debugging 
+## 030_Python API, Flask, Django & Debugging 
 
 - What is API?
 - API Example 1
@@ -686,10 +686,6 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - API Testing tools
 - Applications of API
 - API Summary
-- Flask and Django
-- What is Flask?
-- What is Django?
-- Key Differences
 - SOAP Vs. REST: Difference between Web API Services
 - What is SOAP (Simple Object Access Protocol)?
 - What is REST (Representational State Transfer)?
@@ -712,8 +708,29 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Parameters
 - Anchor
 - How to use URLs
+- Flask
+- Key Differences Between Flask and Django
+- Django
+- How are Django and Python Related?
+- Features Of Django
+- Who is using Django?
+- Django Framework
+- Model
+- View
+- Template
+- Conclusion
+- Differences between Django vs Flask
+- Easy Steps to Create & Run a Django Project
+- How to Create Your First Django Project
+- Running the Test Server
+- Localhost:8000
+- Creating a Hello World Application with Django
+- Creating A Django Project
+- Creating A Django App
+- Creating Web App
 - What is main in Python?
-- How to use PyCharm to debug your Python code?
+- Debugging
+- How to use PyCharm to Debug your Python code?
 - Breakpoints
 - Attach to Local Processes
 - Python Interpreter With The Loaded Environment
