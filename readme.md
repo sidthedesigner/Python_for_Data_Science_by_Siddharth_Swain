@@ -4,6 +4,14 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 001_Python Introduction
 
+ 1. A numbered list
+     1.1. X
+     1.2. X
+ 2. X
+
+
+
+
 1. Computers
  1.1 Introduction to Computers
  1.2 Input Process Output Model
