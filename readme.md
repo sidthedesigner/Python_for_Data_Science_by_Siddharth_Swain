@@ -14,6 +14,14 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      7. Disadvantages of Using Computers
 
 2. Software Concepts
+     1. System Software
+          1. Operating System
+     3. Input Process Output Model
+     4. Basic Parts of Computers
+     5. CPU, RAM & Hard Drive
+     6. Characteristics of Computers
+     7. Advantages of Using Computers
+     8. Disadvantages of Using Computers
 
 - Introduction to Computers
 - Input Process Output Model
