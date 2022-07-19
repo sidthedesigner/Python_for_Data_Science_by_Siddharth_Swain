@@ -4,24 +4,16 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 001_Python Introduction
 
- 1. A numbered list
-     1. X
-     2. X
- 2. X
+ 1. Computers
+     1. Introduction to Computers
+     2. Input Process Output Model
+     3. Basic Parts of Computers
+     4. CPU, RAM & Hard Drive
+     5. Characteristics of Computers
+     6. Advantages of Using Computers
+     7. Disadvantages of Using Computers
 
-
-
-
-1. Computers
- 1.1 Introduction to Computers
- 1.2 Input Process Output Model
- 1.3 Basic Parts of Computers
- 1.4 CPU, RAM & Hard Drive
- 1.5 Characteristics of Computers
- 1.6 Advantages of Using Computers
- 1.7 Disadvantages of Using Computers
-
-
+2. Software Concepts
 
 - Introduction to Computers
 - Input Process Output Model
