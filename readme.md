@@ -29,8 +29,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 - Uses of Python
 - Advantages of Python
 - Python Facts
-- Why is Python used in Data Science?
-- Why is Python preferred for Machine Learning and AI?
+- Why is Python Used in Data Science?
+- Why is Python Preferred for Machine Learning and AI?
 - The Best Python Libraries for Machine Learning and AI
 - The 7 Best Python IDE For Developers in 2022
 
