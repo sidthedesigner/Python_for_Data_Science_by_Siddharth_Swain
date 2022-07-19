@@ -16,12 +16,22 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 2. Software Concepts
      1. System Software
           1. Operating System
-     3. Input Process Output Model
-     4. Basic Parts of Computers
-     5. CPU, RAM & Hard Drive
-     6. Characteristics of Computers
-     7. Advantages of Using Computers
-     8. Disadvantages of Using Computers
+          2. Language Processor
+          3. Device Drivers
+     2. Application Software
+     3. Utility Software
+
+3. Programming Language
+     1. What is a Programming Language?
+     2. How Does a Programming Language Work?
+     3. Key Functions of a Programming Language
+     4. Who Uses Programming Languages?
+     5. Types of Programming Languages
+     6. What is the Top Programming Language?
+
+4. Python
+
+
 
 - Introduction to Computers
 - Input Process Output Model
