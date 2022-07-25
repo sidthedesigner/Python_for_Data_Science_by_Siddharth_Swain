@@ -35,11 +35,12 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      3. Advantages of Python
      4. Disadvantages of Python
      5. Python Facts
-     6. Organizations Using Python
-     7. Why is Python Used in Data Science?
-     8. Why is Python Preferred for Machine Learning and AI?
-     9. The Best Python Libraries for Machine Learning and AI
-     10. The 7 Best Python IDE For Developers in 2022
+     6. Python 2.x vs 3.x
+     7. Organizations Using Python
+     8. Why is Python Used in Data Science?
+     9. Why is Python Preferred for Machine Learning and AI?
+     10. The Best Python Libraries for Machine Learning and AI
+     11. The 7 Best Python IDE For Developers in 2022
 
 ## 002_Getting Started
 
