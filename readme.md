@@ -30,38 +30,16 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      6. What is the Top Programming Language?
 
 4. Python
-
-
-
-- Introduction to Computers
-- Input Process Output Model
-- Basic Parts of Computers
-- CPU, RAM & Hard Drive
-- What is CPU?
-- What is RAM?
-- What is a Hard Drive?
-- Characteristics of Computers
-- Advantages of Using Computers
-- Disadvantages of Using Computers
-- Software Concepts
-- System Software
-- Operating System
-- Computer Languages
-- Machine Language (Low Level Language)
-- Assembly Language (Middle Level Language)
-- High Level Language
-- Language Processor
-- Device Drivers
-- Application Software
-- Utility Software
-- Python Programming Language
-- Uses of Python
-- Advantages of Python
-- Python Facts
-- Why is Python Used in Data Science?
-- Why is Python Preferred for Machine Learning and AI?
-- The Best Python Libraries for Machine Learning and AI
-- The 7 Best Python IDE For Developers in 2022
+     1. Introduction
+     2. Uses of Python
+     3. Advantages of Python
+     4. Disadvantages of Python
+     5. Python Facts
+     6. Organizations Using Python
+     7. Why is Python Used in Data Science?
+     8. Why is Python Preferred for Machine Learning and AI?
+     9. The Best Python Libraries for Machine Learning and AI
+     10. The 7 Best Python IDE For Developers in 2022
 
 ## 002_Getting Started
 
