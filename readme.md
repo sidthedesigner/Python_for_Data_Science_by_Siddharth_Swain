@@ -48,7 +48,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      1. Installing Python
      2. Quickstarting Python
      3. Python Command Line
-     4. The Zen of Python
+     4. Checking Version
+     5. The Zen of Python
      
 2. Anaconda (Python Distribution)
      1. Introduction
