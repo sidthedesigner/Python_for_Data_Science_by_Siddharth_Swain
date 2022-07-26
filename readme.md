@@ -79,8 +79,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      15. Enable Line Numbers for Jupyter Notebook Cells
      16. Change your Jupyter Start-Up Folder
      17. Should Jupyter Notebooks be used in Production?
-     18. Pros and Cons of using Notebooks in Production
-     19. Six Easy Ways to Run Jupyter Notebook in the Cloud
+     18. Six Easy Ways to Run Jupyter Notebook in the Cloud
 
 ## 003_Python Syntax
 
