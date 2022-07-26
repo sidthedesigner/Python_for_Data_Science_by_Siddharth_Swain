@@ -127,7 +127,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
     2. Multi-Line Comments
          1. Using Multiple Hashtags (#)
          2. Using String Literals
-4. Python Docstring
+    3. Docstring Comments
+ 4. How to Write Better Comments?
 
 ## 005_Python Variables
 
