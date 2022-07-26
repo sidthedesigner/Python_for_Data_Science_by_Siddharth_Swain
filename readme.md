@@ -62,16 +62,16 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      2. Advantages of Jupyter Notebook
      3. Disadvantages of Jupyter Notebook
      4. Launch Jupyter Notebook
-     5. Dashboard of Jupyter Notebook
+     5. Dashboard
      6. Files Tab
      7. Running Tab
      8. Cluster Tab
-     9. User Interface of Jupyter Notebook
+     9. User Interface
      10. Components of Jupyter Notebook
      11. Creating a Notebook
      12. Renaming the Notebook
-     13. How to Write and Run a Program in Jupyter
-     14. Types of Cells in Jupyter Notebook
+     13. How to Write and Run a Program
+     14. Types of Cells
           1. Code Cell
           2. Markdown Cell
           3. Raw NBConvert Cell
