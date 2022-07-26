@@ -120,14 +120,14 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 004_Python Comments
 
-- Python Comments
-- Example of Comments in Python
-- Types of Comments in Python
-- Single-Line Comments
-- Multi-Line Comments
-- Using Multiple Hashtags (#)
-- Using String Literals
-- Python Docstring
+1. Python Comments
+2. Example of Comments
+3. Types of Comments
+    1. Single-Line Comments
+    2. Multi-Line Comments
+         1. Using Multiple Hashtags (#)
+         2. Using String Literals
+4. Python Docstring
 
 ## 005_Python Variables
 
