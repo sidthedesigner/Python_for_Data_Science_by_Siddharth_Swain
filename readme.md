@@ -84,16 +84,16 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 003_Python Syntax
 
-- Execute Python Syntax
-- Python Indentation
-- Python Variables
-- Comments
-- Python Built-in Functions
-- Help Function
-- Check GPU Version
-- Present Working Directory
-- ls Command
-- Python print() Function
+1. Python Syntax
+2. Python Indentation
+3. Python Variables
+4. Comments
+5. Python Built-in Functions
+    1. Help Function
+    2. Print Function
+6. Checking GPU Version
+7. Present Working Directory
+8. Ls Command
 
 ## 004_Python Comments
 
