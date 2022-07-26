@@ -44,38 +44,43 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 002_Getting Started
 
-- Python Install
-- Python Quickstart
-- Python Command Line
-- The Zen of Python
-- Anaconda (Python Distribution)
-- Download and Install Anaconda Individual Edition
-- Verifying your Installation
-- Anaconda Navigator
-- Anaconda Prompt
-- What is Jupyter Notebook?
-- Advantages of Jupyter Notebook
-- Disadvantages of Jupyter Notebook
-- Launch Jupyter Notebook
-- Dashboard of Jupyter Notebook
-- Files Tab
-- Running Tab
-- Cluster Tab
-- User Interface of Jupyter Notebook
-- Components of Jupyter Notebook
-- Creating a Notebook
-- Rename the Notebook
-- How to Write and Run a Program in Jupyter
-- Types of Cells in Jupyter Notebook
-- Code Cell
-- Markdown Cell
-- Raw NBConvert Cell
-- Heading Cell
-- Enable Line Numbers for Jupyter Notebook Cells
-- Change your Jupyter Start-Up Folder
-- Should Jupyter Notebooks be used in Production?
-- Pros and Cons of using Notebooks in Production
-- Six Easy Ways to Run Jupyter Notebook in the Cloud
+ 1. Getting Started
+     1. Installing Python
+     2. Quickstarting Python
+     3. Python Command Line
+     4. The Zen of Python
+     
+2. Anaconda (Python Distribution)
+     1. Introduction
+     2. Download and Install Anaconda Individual Edition
+     3. Verifying your Installation
+     4. Anaconda Navigator
+     5. Anaconda Prompt
+ 
+ 3. Jupyter Notebook
+     1. Introduction
+     2. Advantages of Jupyter Notebook
+     3. Disadvantages of Jupyter Notebook
+     4. Launch Jupyter Notebook
+     5. Dashboard of Jupyter Notebook
+     6. Files Tab
+     7. Running Tab
+     8. Cluster Tab
+     9. User Interface of Jupyter Notebook
+     10. Components of Jupyter Notebook
+     11. Creating a Notebook
+     12. Renaming the Notebook
+     13. How to Write and Run a Program in Jupyter
+     14. Types of Cells in Jupyter Notebook
+          1. Code Cell
+          2. Markdown Cell
+          3. Raw NBConvert Cell
+          4. Heading Cell
+     15. Enable Line Numbers for Jupyter Notebook Cells
+     16. Change your Jupyter Start-Up Folder
+     17. Should Jupyter Notebooks be used in Production?
+     18. Pros and Cons of using Notebooks in Production
+     19. Six Easy Ways to Run Jupyter Notebook in the Cloud
 
 ## 003_Python Syntax
 
