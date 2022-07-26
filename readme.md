@@ -58,7 +58,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      4. Anaconda Navigator
      5. Anaconda Prompt
  
- 3. Jupyter Notebook
+3. Jupyter Notebook
      1. Introduction
      2. Advantages of Jupyter Notebook
      3. Disadvantages of Jupyter Notebook
@@ -81,6 +81,29 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      16. Change your Jupyter Start-Up Folder
      17. Should Jupyter Notebooks be used in Production?
      18. Six Easy Ways to Run Jupyter Notebook in the Cloud
+
+4. Google Colab
+     1. Introduction
+     2. Is Google Colab Free?
+     3. Advantages of Using Google Colab
+     4. Disadvantages of Using Google Colab
+     5. Alternatives to Google Colab
+     6. Does Google Colab Support Python?
+     7. Getting Started
+     8. Importing Libraries/Dependencies
+     9. Enabling GPU/TPU Usage
+     10. Importing Data
+     11. Using Machine Learning in Google Colab to Predict House Prices
+          1. Loading Kaggle Datasets Directly
+          2. Visualizing Data/Producing Charts
+     12. Deploying ML Algorithms in Google Colab
+          1. Preparing the Data
+          2. Picking Algorithm and Evaluating It
+          3. Optimizing the Algorithm
+     13. Saving Google Colab Notebook Directly to GitHub
+     14. Mounting External Python Files in Google Colab
+     15. What are Google Colab Magics?
+     16. Other Interesting Google Colab Features
 
 ## 003_Python Syntax
 
