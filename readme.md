@@ -245,8 +245,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 011_Python User Input
 
-- Python User Input
-- Python Input() Function
+1. User Input
+
+2. Input Function
 
 ## 012_Python If Else
 
