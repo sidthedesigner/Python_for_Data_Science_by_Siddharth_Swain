@@ -251,16 +251,25 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 012_Python If Else
 
-- Python Conditions and If statements
-- Indentation
-- Elif
-- Else
-- Short Hand If
-- Short Hand If ... Else
-- And
-- Or
-- Nested If
-- Pass Statement
+1. Python Conditions and If statements
+
+2. Indentation
+
+3. Elif
+
+4. Else
+
+5. Short Hand If
+
+6. Short Hand If ... Else
+
+7. And
+
+8. Or
+
+9. Nested If
+
+10. Pass Statement
 
 ## 013_Python While Loops
 
