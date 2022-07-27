@@ -206,10 +206,15 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 4. Random Number
 
-## 008_Python Casting
+## 008_Python Type Conversion and Type Casting
 
-- Specify a Variable Type
-- Upcasting
+1. Type Conversion
+
+2. Implicit Type Conversion
+
+3. Explicit Type Conversion
+
+4. Key Points to Remember
 
 ## 009_Python Booleans
 
