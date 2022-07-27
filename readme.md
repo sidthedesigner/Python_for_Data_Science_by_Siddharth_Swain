@@ -273,11 +273,15 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 013_Python While Loops
 
-- Python Loops
-- The while Loop
-- The break Statement
-- The continue Statement
-- The else Statement
+1. Python Loops
+
+2. The While Loop
+
+3. The Break Statement
+
+4. The Continue Statement
+
+5. The Else Statement
 
 ## 014_Python For Loops
 
