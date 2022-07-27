@@ -218,12 +218,17 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 009_Python Booleans
 
-- Python Booleans
-- Boolean Values
-- Evaluate Values and Variables
-- Most Values are True
-- Some Values are False
-- Functions can Return a Boolean
+1. Python Booleans
+
+2. Boolean Values
+
+3. Evaluate Values and Variables
+
+4. Most Values Are True
+
+5. Some Values Are False
+
+6. Functions Can Return a Boolean
 
 ## 010_Python Operators
 
