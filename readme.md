@@ -108,27 +108,37 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 ## 003_Python Syntax
 
 1. Python Syntax
+
 2. Python Indentation
+
 3. Python Variables
+
 4. Comments
+
 5. Python Built-in Functions
     1. Help Function
     2. Print Function
+
 6. Checking GPU Version
+
 7. Present Working Directory
+
 8. Ls Command
 
 ## 004_Python Comments
 
 1. Python Comments
+
 2. Example of Comments
+
 3. Types of Comments
     1. Single-Line Comments
     2. Multi-Line Comments
          1. Using Multiple Hashtags (#)
          2. Using String Literals
     3. Docstring Comments
- 4. How to Write Better Comments?
+
+4. How to Write Better Comments?
 
 ## 005_Python Variables
 
@@ -153,7 +163,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
     3. Unpack a Collection
 
 4. Output Variables
+
 5. Global Variables
+
 6. The Global Keyword
 
 ## 006_Python Data Types
