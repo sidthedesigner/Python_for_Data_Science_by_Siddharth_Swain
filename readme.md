@@ -170,11 +170,28 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 006_Python Data Types
 
-- Python Data Types
-- Built-in Data Types
-- Setting the Data Type
-- Setting the Specific Data Type
-- Python type() Function
+1. Python Data Types
+
+2. Built-in Data Types
+
+3. Numeric
+
+4. Sequence Type
+    1. String
+    2. List
+    3. Tuple
+
+5. Boolean
+
+6. Set
+
+7. Dictionary
+
+8. Setting the Data Type
+
+9. Setting the Specific Data Type
+
+10. Type() Function
 
 ## 007_Python Numbers
 
