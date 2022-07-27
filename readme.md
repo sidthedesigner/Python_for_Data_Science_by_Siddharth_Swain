@@ -200,7 +200,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
     2. Float
     3. Complex
 
-2. Complex() Function
+2. Complex Function
 
 3. Type Conversion
 
