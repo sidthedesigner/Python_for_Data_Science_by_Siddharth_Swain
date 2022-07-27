@@ -232,15 +232,16 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 010_Python Operators
 
-- Python Operators
-- Types of Python Operators
-- Python Arithmetic Operators
-- Python Assignment Operators
-- Python Comparison Operators
-- Python Logical Operators
-- Python Identity Operators
-- Python Membership Operators
-- Python Bitwise Operators
+1. Python Operators
+
+2. Types of Python Operators
+    1. Arithmetic Operators
+    2. Assignment Operators
+    3. Comparison Operators
+    4. Logical Operators
+    5. Identity Operators
+    6. Membership Operators
+    7. Bitwise Operators
 
 ## 011_Python User Input
 
