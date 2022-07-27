@@ -195,13 +195,16 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 007_Python Numbers
 
-- Python Numbers
-- Int
-- Float
-- Complex
-- Complex() Function
-- Type Conversion
-- Random Number
+1. Python Numbers
+    1. Int
+    2. Float
+    3. Complex
+
+2. Complex() Function
+
+3. Type Conversion
+
+4. Random Number
 
 ## 008_Python Casting
 
