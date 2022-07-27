@@ -132,24 +132,29 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 005_Python Variables
 
-- Python Variables
-- Creating Variables
-- Casting
-- Get the Type
-- Single or Double Quotes?
-- Case-Sensitive
-- Variable Names
-- Multi Words Variable Names
-- Camel Case
-- Pascal Case
-- Snake Case
-- Python Variables - Assign Multiple Values
-- Many Values to Multiple Variables
-- One Value to Multiple Variables
-- Unpack a Collection
-- Output Variables
-- Global Variables
-- The Global Keyword
+1. Python Variables
+    1. Variables
+    2. Creating Variables
+    3. Casting
+    4. Getting the Type
+    5. Single or Double Quotes?
+    6. Case-Sensitive
+
+2. Variable Names
+    1. Rules for Names
+    2. Multi Words Variable Names
+         1. Camel Case
+         2. Pascal Case
+         3. Snake Case
+   
+ 3. Python Variables - Assign Multiple Values
+    1. Many Values to Multiple Variables
+    2. One Value to Multiple Variables
+    3. Unpack a Collection
+
+4. Output Variables
+5. Global Variables
+6. The Global Keyword
 
 ## 006_Python Data Types
 
