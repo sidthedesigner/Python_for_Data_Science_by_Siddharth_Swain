@@ -285,14 +285,21 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 014_Python For Loops
 
-- Python For Loops
-- Looping Through a String
-- The break Statement
-- The continue Statement
-- The range() Function
-- Else in For Loop
-- Nested Loops
-- The pass Statement
+1. The For Loops
+
+2. Looping Through a String
+
+3. The Break Statement
+
+4. The Continue Statement
+
+5. Range Function
+
+6. Else in For Loop
+
+7. Nested Loops
+
+8. The Pass Statement
 
 ## 015_Python Strings
 
