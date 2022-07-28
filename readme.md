@@ -303,29 +303,36 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 015_Python Strings
 
-- Python Strings
-- Assign String to a Variable
-- Multiline Strings
-- Strings are Arrays
-- Looping Through a String
-- String Length
-- Check String
-- Check if NOT
-- Python - Slicing Strings
-- Slicing
-- Slice From the Start
-- Slice To the End
-- Negative Indexing
-- Python - Modify Strings
-- Upper Case
-- Lower Case
-- Remove Whitespace
-- Replace String
-- Split String
-- String Concatenation
-- String Format
-- Escape Character
-- String Methods
+1. Python Strings
+    1. Strings
+    2. Assign String to a Variable
+    3. Multiline Strings
+    4. Strings are Arrays
+    5. Looping Through a String
+    6. String Length
+    7. Check String
+    8. Check if NOT
+
+2. Slicing Strings
+    1. Slicing
+    2. Slice From the Start
+    3. Slice To the End
+    4. Negative Indexing
+
+3. Modify Strings
+    1. Upper Case
+    2. Lower Case
+    3. Remove Whitespace
+    4. Replace String
+    5. Split String
+
+4. String Concatenation
+
+5. String Format
+
+6. Escape Character
+
+7. String Methods
 
 ## 016_Python Lists
 
