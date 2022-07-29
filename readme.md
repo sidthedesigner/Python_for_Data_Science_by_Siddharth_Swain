@@ -526,8 +526,8 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
     1. Single Underscore
     2. Double Underscore
 
-3. Lamba Functions
-    1. Lamba Function
+3. Lambda Functions
+    1. Lambda Function
     2. Why Use Lambda Functions?
 
 4. Python Docstring
