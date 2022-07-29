@@ -336,47 +336,62 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 016_Python Lists
 
-- Python Collections
-- Python Lists
-- List Items
-- Ordered
-- Changeable
-- Allow Duplicates
-- List Length
-- List Items - Data Types
-- type()
-- The list() Constructor
-- Python Collections (Arrays)
-- Access Items
-- Negative Indexing
-- Range of Indexes
-- Range of Negative Indexes
-- Check if Item Exists
-- Change Item Value
-- Change a Range of Item Values
-- Insert Items
-- Append Items
-- Insert Items
-- Extend List
-- Add Any Iterable
-- Remove Specified Item
-- Remove Specified Index
-- Clear the List
-- Loop Through a List
-- Loop Through the Index Numbers
-- Using a While Loop
-- Looping Using List Comprehension
-- List Comprehension
-- Iterable
-- Expression
-- Sort List Alphanumerically
-- Sort Descending
-- Customize Sort Function
-- Case Insensitive Sort
-- Reverse Order
-- Copy a List
-- Join Two Lists
-- List Methods
+1. Python Lists
+    1. List
+    2. List Items
+    3. Ordered
+    4. Changeable
+    5. Allow Duplicates
+    6. List Length
+    7. List Items - Data Types
+    8. type()
+    9. The list() Constructor
+    10. Python Collections (Arrays)
+
+2. Access List Items
+    1. Access Items
+         1. Access Items
+         2. Negative Indexing
+         3. Range of Indexes
+         4. Range of Negative Indexes
+    2. Check if Item Exists
+
+3. Change List Items
+    1. Change Item Value
+    2. Change a Range of Item Values
+    3. Insert Items
+
+4. Add List Items
+    1. Append Items
+    2. Insert Items
+    3. Extend List
+    4. Add Any Iterable
+
+5. Remove List Items
+    1. Remove Specified Item
+    2. Remove Specified Index
+    3. Clear the List
+
+6. Loop Lists
+    1. Loop Through a List
+    2. Loop Through the Index Numbers
+    3. Using a While Loop
+    4. Looping Using List Comprehension
+
+7. List Comprehension
+
+8. Sort Lists
+    1. Sort List Alphanumerically
+    2. Sort Descending
+    3. Customize Sort Function
+    4. Case Insensitive Sort
+    5. Reverse Order
+
+9. Copy Lists
+
+10. Join Two Lists
+
+11. List Methods
 
 ## 017_Python Tuples
 
