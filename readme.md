@@ -350,10 +350,9 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 2. Access List Items
     1. Access Items
-         1. Access Items
-         2. Negative Indexing
-         3. Range of Indexes
-         4. Range of Negative Indexes
+         1. Negative Indexing
+         2. Range of Indexes
+         3. Range of Negative Indexes
     2. Check if Item Exists
 
 3. Change List Items
