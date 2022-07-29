@@ -505,42 +505,43 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 020_Python Functions
 
-- Python Function
-- Creating a Function
-- Calling a Function
-- Arguments
-- Parameters or Arguments?
-- Number of Arguments
-- Arbitrary Arguments (*args)
-- Keyword Arguments
-- Arbitrary Keyword Arguments (**kwargs)
-- Default Parameter Value
-- Passing a List as an Argument
-- Return Values
-- The pass Statement
-- Recursion
-- Underscore (_) in Python
-- Single Underscore
-- In Interpreter
-- For ignoring values
-- After a name
-- Before a name
-- Double Underscore(__)
-- __leading_double_underscore
-- BEFORE_AFTER
-- Lamba Function
-- Why Use Lambda Functions?
-- Python Docstring
-- Example 1: Docstrings
-- Python doc attribute
-- Example 2: Printing docstring
-- Example 3: Docstrings for the built-in print() function
-- Iterable and Iterator
-- Generators in Python
-- Generator Function
-- Generator Object
-- Applications
-- id() Function
+1. Python Functions
+    1. Creating a Function
+    2. Calling a Function
+    3. Arguments
+    4. Parameters or Arguments?
+    5. Number of Arguments
+    6. Arbitrary Arguments
+    7. Keyword Arguments
+    8. Arbitrary Keyword Arguments
+    9. Default Parameter Value
+    10. Passing a List as an Argument
+    11. Return Values
+    12. The Pass Statement
+    13. Recursion
+         1. Advantages of Recursion
+         2. Disadvantages of Recursion
+
+2. Underscore in Python
+    1. Single Underscore
+    2. Double Underscore
+
+3. Lamba Functions
+    1. Lamba Function
+    2. Why Use Lambda Functions?
+
+4. Python Docstring
+
+5. Python Doc Attribute
+
+6. Iterable and Iterator
+
+7. Generators in Python
+    1. Generator Function
+    2. Generator Object
+    3. Applications
+
+8. Id Function
 
 ## 021_Python File Handling 
 
