@@ -394,33 +394,44 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 017_Python Tuples
 
-- Python Tuples
-- Tuple Items
-- Ordered
-- Unchangeable
-- Allow Duplicates
-- Tuple Length
-- Create Tuple With One Item
-- Tuple Items - Data Types
-- type()
-- The tuple() Constructor
-- Access Tuple Items
-- Negative Indexing
-- Range of Indexes
-- Range of Negative Indexes
-- Check if Item Exists
-- Update Tuples
-- Change Tuple Values
-- Add Items
-- Remove Items
-- Unpacking a Tuple
-- Using Asterisk*
-- Loop Through a Tuple
-- Loop Through the Index Numbers
-- Using a While Loop
-- Join Two Tuples
-- Multiply Tuples
-- Tuple Methods
+1. Python Tuples
+    1. Tuple
+    2. Tuple Items
+    3. Ordered
+    4. Unchangeable
+    5. Allow Duplicates
+    6. Tuple Length
+    7. Create Tuple With One Item
+    8. Tuple Items - Data Types
+    9. type()
+    10. The tuple() Constructor
+
+2. Access Tuple Items
+    1. Access Tuple Items
+    2. Negative Indexing
+    3. Range of Indexes
+    4. Range of Negative Indexes
+    5. Check if Item Exists
+
+3. Update Tuples
+    1. Change Tuple Values
+    2. Add Items
+    3. Remove Items
+
+4. Unpack Tuples
+    1. Unpacking a Tuple
+    2. Using Asterisk*
+
+5. Loop Tuples
+    1. Loop Through a Tuple
+    2. Loop Through the Index Numbers
+    3. Using a While Loop
+
+6. Join Two Tuples
+    1. Join Two Tuples
+    2. Multiply Tuples
+
+7. Tuple Methods
 
 ## 018_Python Sets
 
