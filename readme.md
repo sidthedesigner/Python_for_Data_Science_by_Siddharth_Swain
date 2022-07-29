@@ -545,20 +545,29 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 021_Python File Handling 
 
-- File Handling in Python
-- File Handling
-- Syntax
-- Python File Open
-- Open a File on the Server
-- Read Only Parts of the File
-- Read Lines
-- Close Files
-- Write to an Existing File
-- Create a New File
-- Delete a File
-- Check if File Exists
-- Delete Folder
-- OS Module in Python
+1. File Handling
+
+2. File Open
+    1. Open a File on the Server
+    2. Read Only Parts of the File
+    3. Read Lines
+    4. Close Files
+
+3. File Write
+    1. Write to an Existing File
+    2. Create a New File
+
+4. Delete Files
+    1. Delete a File
+    2. Check if File Exists
+    3. Delete Folder
+
+5. OS Module in Python
+    1. Getting Current Working Directory
+    2. Creating a Directory
+    3. Changing the Current Working Directory
+    4. Removing a Directory
+    5. List Files and Sub-Directories 
 
 ## 022_Python Logging and Debugging
 
