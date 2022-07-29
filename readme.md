@@ -435,51 +435,73 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 018_Python Sets
 
-- Python Sets
-- Set Items
-- Unordered
-- Unchangeable
-- Duplicates Not Allowed
-- Get the Length of a Set
-- Set Items - Data Types
-- type()
-- The set() Constructor
-- Access Items
-- Change Items
-- Add Items
-- Add Sets
-- Add Any Iterable
-- Remove Item
-- Loop Items
-- Join Two Sets
-- Keep ONLY the Duplicates
-- Keep All, But NOT the Duplicates
-- Set Methods
+1. Python Sets
+    1. Set
+    2. Set Items
+    3. Unordered
+    4. Unchangeable
+    5. Duplicates Not Allowed
+    6. Get the Length of a Set
+    7. Set Items - Data Types
+    8. type()
+    9. The set() Constructor
+
+2. Access Set Items
+    1. Access Items
+    2. Change Items
+
+3. Add Set Items
+    1. Add Items
+    2. Add Sets
+    3. Add Any Iterable
+
+4. Remove Item
+
+5. Loop Items
+
+6. Join Sets
+    1. Join Two Sets
+    2. Keep ONLY the Duplicates
+    3. Keep All, But NOT the Duplicates
+
+7. Set Methods
 
 ## 019_Python Dictionaries
 
-- Python Dictionaries
-- Dictionary Items
-- Ordered or Unordered?
-- Changeable
-- Duplicates Not Allowed
-- Dictionary Length
-- Dictionary Items - Data Types
-- type()
-- Accessing Items
-- Get Keys
-- Get Values
-- Get Items
-- Check if Key Exists
-- Change Values
-- Update Dictionary
-- Adding Items
-- Update Dictionary
-- Removing Items
-- Loop Through a Dictionary
-- Copy a Dictionary
-- Nested Dictionaries
-- Dictionary Methods
+1. Python Dictionaries
+    1. Dictionary 
+    2. Dictionary Items
+    3. Ordered or Unordered?
+    4. Changeable
+    5. Duplicates Not Allowed
+    6. Dictionary Length
+    7. Dictionary Items - Data Types
+    8. type()
+
+2. Access Items
+    1. Accessing Items
+    2. Get Keys
+    3. Get Values
+    4. Get Items
+    5. Check if Key Exists
+
+3. Change Items
+    1. Change Values
+    2. Update Dictionary
+
+4. Add Dictionary Items
+    1. Adding Items
+    2. Update Dictionary
+
+5. Remove Dictionary Items
+
+6. Loop Dictionaries
+
+7. Copy Dictionaries
+
+8. Nested Dictionaries
+
+9. Dictionary Methods
 
 ## 020_Python Functions
 
