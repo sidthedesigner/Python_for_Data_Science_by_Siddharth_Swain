@@ -571,17 +571,20 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 022_Python Logging and Debugging
 
-- Logging in Python
-- Why Printing is not a good option?
-- Levels of Log Message
-- The Basics
-- Stream Handler in Python
-- Python Debugger – Python pdb
-- Starting Python Debugger
-- Examples
-- Checking variables on the Stack
-- Python pdb Breakpoint
-- Managing Breakpoints
+1. Logging in Python
+    1. Logging
+    2. Why Printing is Not a Good Option?
+    3. Levels of Log Message
+    4. The Basics
+
+2. Stream Handler in Python
+
+3. Python Debugger
+    1. Python pdb
+    2. Starting Python Debugger
+    3. Checking Variables on the Stack
+    4. Python pdb Breakpoint
+    5. Managing Breakpoints
 
 ## 023_Python Modules
 
