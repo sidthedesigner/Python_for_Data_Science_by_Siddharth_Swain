@@ -577,7 +577,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
     3. Basic Logging Example
     4. The 5 Levels of Logging
     5. Logging to File Instead of Console
-    6. Chaning The Logging Format
+    6. Changing The Logging Format
     7. Why Working with the Root Logger for All Modules Isn’t the Best Idea?
     8. How to Create New Logger?
     9. What Is and How to Set Up a File Handler and Formatter?
