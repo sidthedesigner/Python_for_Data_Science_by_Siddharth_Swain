@@ -585,12 +585,18 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 2. Stream Handler in Python
 
-3. Python Debugger
-    1. Python pdb
-    2. Starting Python Debugger
-    3. Checking Variables on the Stack
-    4. Python pdb Breakpoint
-    5. Managing Breakpoints
+3. Debugging in Python
+    1. Python Debugger
+         1. Python pdb
+         2. Starting Python Debugger
+         3. Checking Variables on the Stack
+         4. Python pdb Breakpoint
+         5. Managing Breakpoints
+    2. PyCharm Debugger
+         1. Breakpoints
+         2. Attach To Local Processes
+         3. Python Interpreter With The Loaded Environment
+         4. Conclusion
 
 ## 023_Python Modules
 
