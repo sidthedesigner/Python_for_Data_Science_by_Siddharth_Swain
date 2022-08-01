@@ -628,14 +628,24 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 024_Python Error Handling
 
-- Python Error Handling
-- Difference between Syntax Error and Exceptions
-- Try and Except Statement – Catching Exceptions
-- Catching Specific Exception
-- Try with Else Clause
-- Finally Keyword in Python
-- Raising Exception
-- Create Your Exception
+1. Error Handling
+
+2 Difference between Syntax Error and Exceptions
+
+3. Try and Except Statement – Catching Exceptions
+
+4. Catching Specific Exception
+
+5. Try with Else Clause
+
+6. Finally Keyword in Python
+
+7. Raising Exception
+
+8. Create Your Exception
+    1. Creating Custom Exceptions
+    2. Example: User-Defined Exception in Python
+    3. Customizing Exception Classes
 
 ## 025_OOPS (Part 1)
 
