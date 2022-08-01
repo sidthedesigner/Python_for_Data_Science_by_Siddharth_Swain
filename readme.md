@@ -602,23 +602,25 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 1. Python Module
 
-2. Create a Module
+2. Difference Between Module, Package and Library
 
-3. Use a Module
+3. Create a Module
 
-4. Variables in Module
+4. Use a Module
 
-5. Naming a Module
+5. Variables in Module
 
-6. Re-Naming a Module
+6. Naming a Module
 
-7. Built-in Modules
+7. Re-Naming a Module
 
-8. Using the dir() Function
+8. Built-in Modules
 
-9. Import From Module
+9. Using the dir() Function
 
-10. Importing Module from Different Directory
+10. Import From Module
+
+11. Importing Module from Different Directory
     1. Importing Module
     2. Directory Structure
     3. Using sys Module
