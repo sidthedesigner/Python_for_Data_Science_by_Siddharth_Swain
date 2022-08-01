@@ -600,21 +600,20 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 023_Python Modules
 
-- Python Modules
-- What is a Module?
-- Create a Module
-- Use a Module
-- Variables in Module
-- Naming a Module
-- Re-Naming a Module
-- Built-in Modules
-- Using the dir() Function
-- Import From Module
-- Import Module from Different Directory
-- Importing Module
-- Directory Structure
-- Using sys Module
-- Using PYTHONPATH Environment Variable
+1. Python Module
+2. Create a Module
+3. Use a Module
+4. Variables in Module
+5. Naming a Module
+6. Re-Naming a Module
+7. Built-in Modules
+8. Using the dir() Function
+9. Import From Module
+10. Importing Module from Different Directory
+    1. Importing Module
+    2. Directory Structure
+    3. Using sys Module
+    4. Using PYTHONPATH Environment Variable
 
 ## 024_Python Error Handling
 
