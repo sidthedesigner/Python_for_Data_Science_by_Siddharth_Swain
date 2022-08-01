@@ -601,14 +601,23 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 ## 023_Python Modules
 
 1. Python Module
+
 2. Create a Module
+
 3. Use a Module
+
 4. Variables in Module
+
 5. Naming a Module
+
 6. Re-Naming a Module
+
 7. Built-in Modules
+
 8. Using the dir() Function
+
 9. Import From Module
+
 10. Importing Module from Different Directory
     1. Importing Module
     2. Directory Structure
