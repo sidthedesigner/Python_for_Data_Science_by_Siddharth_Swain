@@ -642,7 +642,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 7. Raising Exception
 
-8. Create Your Exception
+8. Custom Exceptions
     1. Creating Custom Exceptions
     2. Example: User-Defined Exception in Python
     3. Customizing Exception Classes
