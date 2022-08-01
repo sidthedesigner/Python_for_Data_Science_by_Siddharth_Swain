@@ -630,7 +630,7 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 1. Error Handling
 
-2 Difference between Syntax Error and Exceptions
+2. Difference between Syntax Error and Exceptions
 
 3. Try and Except Statement – Catching Exceptions
 
