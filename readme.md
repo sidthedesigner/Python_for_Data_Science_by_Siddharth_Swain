@@ -17,15 +17,15 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
      1. System Software
           1. Operating System
           2. Language Processor
-          3. Device Drivers
+          3. Device Driver
      2. Application Software
      3. Utility Software
 
 3. Programming Language
      1. Introduction
-     2. How does it work?
+     2. How Does It Work?
      3. Key Functions
-     4. Who uses it?
+     4. Who Uses It?
      5. Types
      6. Top Programming Languages
 
@@ -38,9 +38,9 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
      6. Version 2.x vs 3.x
      7. Organizations using Python
      8. Why is it used in Data Science?
-     9. Why is it preferred for Machine Learning and AI?
-     10. Popular Libraries for Machine Learning and AI
-     11. Popular IDEs For Developers
+     9. Why is it preferred for Machine Learning & AI?
+     10. Popular Libraries for Machine Learning & AI
+     11. Popular IDEs for Developers
 
 ## 002_Getting Started
 
@@ -53,8 +53,8 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
      
 2. Anaconda (Python Distribution)
      1. Introduction
-     2. Download and Install Anaconda Individual Edition
-     3. Verifying your Installation
+     2. Downloading & Installing Anaconda Individual Edition
+     3. Verifying Installation
      4. Anaconda Navigator
      5. Anaconda Prompt
  
@@ -62,7 +62,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
      1. Introduction
      2. Advantages
      3. Disadvantages
-     4. Launching
+     4. Launching Notebook
      5. Dashboard
      6. Files Tab
      7. Running Tab
@@ -77,10 +77,10 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
           2. Markdown Cell
           3. Raw NBConvert Cell
           4. Heading Cell
-     15. Enabling Line Numbers for Cells
-     16. Changing Start-Up Folder
+     15. Enabling Cell Line Numbers
+     16. Changing Startup Folder
      17. Should Jupyter Notebooks be used in Production?
-     18. Six easy ways to run Jupyter Notebook in the Cloud
+     18. Six Easy Ways to Run Jupyter Notebook in the Cloud
 
 4. Google Colab
      1. Introduction
@@ -98,7 +98,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
           2. Visualizing Data/Producing Charts
      12. Deploying ML Algorithms
           1. Data Preparation
-          2. Picking Algorithm and Evaluating It
+          2. Algorithm Selection and Evaluation
           3. Algorithm Optimization
      13. Saving Google Colab Notebook directly to GitHub
      14. Mounting External Python Files in Google Colab
