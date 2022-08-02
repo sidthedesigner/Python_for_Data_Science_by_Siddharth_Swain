@@ -406,7 +406,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     9. type()
     10. The tuple() Constructor
 
-2. Accessing Tuple Items
+2. Accessing Tuples
     1. Accessing Tuple Items
     2. Negative Indexing
     3. Range of Indexes
