@@ -466,10 +466,10 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 7. Set Methods
 
-## 019_Python Dictionaries
+## 019_Dictionaries
 
-1. Python Dictionaries
-    1. Dictionary 
+1. Dictionaries
+    1. Introduction 
     2. Dictionary Items
     3. Ordered or Unordered?
     4. Changeable
@@ -478,34 +478,34 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     7. Dictionary Items - Data Types
     8. type()
 
-2. Access Items
+2. Accessing Dictionary Items
     1. Accessing Items
-    2. Get Keys
-    3. Get Values
-    4. Get Items
-    5. Check if Key Exists
+    2. Getting Keys
+    3. Getting Values
+    4. Getting Items
+    5. Checking if Key Exists
 
-3. Change Items
-    1. Change Values
-    2. Update Dictionary
+3. Changing Dictionary Items
+    1. Changing Values
+    2. Updating Dictionary
 
-4. Add Dictionary Items
+4. Adding Dictionary Items
     1. Adding Items
-    2. Update Dictionary
+    2. Updating Dictionary
 
-5. Remove Dictionary Items
+5. Removing Dictionary Items
 
-6. Loop Dictionaries
+6. Looping Dictionaries
 
-7. Copy Dictionaries
+7. Copying Dictionaries
 
 8. Nested Dictionaries
 
 9. Dictionary Methods
 
-## 020_Python Functions
+## 020_Functions
 
-1. Python Functions
+1. Functions
     1. Creating a Function
     2. Calling a Function
     3. Arguments
@@ -516,8 +516,8 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     8. Arbitrary Keyword Arguments
     9. Default Parameter Value
     10. Passing a List as an Argument
-    11. Return Values
-    12. The Pass Statement
+    11. Returning Values
+    12. Pass Statement
     13. Recursion
          1. Advantages of Recursion
          2. Disadvantages of Recursion
