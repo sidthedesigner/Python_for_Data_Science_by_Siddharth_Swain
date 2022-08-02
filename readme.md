@@ -283,7 +283,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 5. Else Statement
 
-## 014_Python For Loops
+## 014_For Loops
 
 1. For Loops
 
@@ -301,11 +301,11 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 8. Pass Statement
 
-## 015_Python Strings
+## 015_Strings
 
-1. Python Strings
-    1. Strings
-    2. Assign String to a Variable
+1. Strings
+    1. Introduction
+    2. Assigning String to a Variable
     3. Multiline Strings
     4. Strings are Arrays
     5. Looping Through a String
@@ -315,16 +315,16 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 2. Slicing Strings
     1. Slicing
-    2. Slice From the Start
-    3. Slice To the End
+    2. From the Start
+    3. To the End
     4. Negative Indexing
 
-3. Modify Strings
+3. Modifying Strings
     1. Upper Case
     2. Lower Case
-    3. Remove Whitespace
-    4. Replace String
-    5. Split String
+    3. Removing Whitespace
+    4. Replacing String
+    5. Splitting String
 
 4. String Concatenation
 
@@ -334,10 +334,10 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 7. String Methods
 
-## 016_Python Lists
+## 016_Lists
 
-1. Python Lists
-    1. List
+1. Lists
+    1. Introduction
     2. List Items
     3. Ordered
     4. Changeable
@@ -348,47 +348,47 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     9. The list() Constructor
     10. Python Collections (Arrays)
 
-2. Access List Items
-    1. Access Items
+2. Accessing List Items
+    1. Accessing Items
          1. Negative Indexing
          2. Range of Indexes
          3. Range of Negative Indexes
-    2. Check if Item Exists
+    2. Checking if Item Exists
 
-3. Change List Items
-    1. Change Item Value
-    2. Change a Range of Item Values
-    3. Insert Items
+3. Changing List Items
+    1. Changing Item Value
+    2. Changing a Range of Item Values
+    3. Inserting Items
 
-4. Add List Items
-    1. Append Items
-    2. Insert Items
-    3. Extend List
-    4. Add Any Iterable
+4. Adding List Items
+    1. Appending Items
+    2. Inserting Items
+    3. Extending List
+    4. Adding Any Iterable
 
-5. Remove List Items
-    1. Remove Specified Item
-    2. Remove Specified Index
-    3. Clear the List
+5. Removing List Items
+    1. Removing Specified Item
+    2. Removing Specified Index
+    3. Clearing the List
 
-6. Loop Lists
-    1. Loop Through a List
-    2. Loop Through the Index Numbers
+6. Looping Lists
+    1. Looping Through a List
+    2. Looping Through the Index Numbers
     3. Using a While Loop
     4. Looping Using List Comprehension
 
 7. List Comprehension
 
-8. Sort Lists
-    1. Sort List Alphanumerically
-    2. Sort Descending
-    3. Customize Sort Function
+8. Sorting Lists
+    1. Sorting List Alphanumerically
+    2. Sorting in Descending
+    3. Customizing Sort Function
     4. Case Insensitive Sort
-    5. Reverse Order
+    5. Reversing Order
 
-9. Copy Lists
+9. Copying Lists
 
-10. Join Two Lists
+10. Joining Two Lists
 
 11. List Methods
 
