@@ -543,58 +543,58 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 8. Id Function
 
-## 021_Python File Handling 
+## 021_File Handling 
 
 1. File Handling
 
-2. File Open
-    1. Open a File on the Server
-    2. Read Only Parts of the File
-    3. Read Lines
-    4. Close Files
+2. File Opening
+    1. Opening a File on the Server
+    2. Reading Only Parts of the File
+    3. Reading Lines
+    4. Closing Files
 
-3. File Write
-    1. Write to an Existing File
-    2. Create a New File
+3. File Writing
+    1. Writing to an Existing File
+    2. Creating a New File
 
-4. Delete Files
-    1. Delete a File
-    2. Check if File Exists
-    3. Delete Folder
+4. File Deleting
+    1. Deleting a File
+    2. Checking if File Exists
+    3. Deleting Folder
 
-5. OS Module in Python
+5. OS Module
     1. Getting Current Working Directory
     2. Creating a Directory
     3. Changing the Current Working Directory
     4. Removing a Directory
-    5. List Files and Sub-Directories 
+    5. Listing Files and Sub-Directories 
 
-## 022_Python Logging and Debugging
+## 022_Logging & Debugging
 
-1. Logging in Python
-    1. Logging
+1. Logging
+    1. Introduction
     2. Why Printing is Not a Good Option?
-    3. Basic Logging Example
-    4. The 5 Levels of Logging
+    3. Basic Example
+    4. 5 Levels of Logging
     5. Logging to File Instead of Console
     6. Changing The Logging Format
     7. Why Working with the Root Logger for All Modules Isn’t the Best Idea?
-    8. How to Create New Logger?
-    9. What Is and How to Set Up a File Handler and Formatter?
-    10. How to Include Traceback Information in Logged Messages? 
+    8. Creating New Logger
+    9. Setting up a File Handler and Formatter
+    10. Including Traceback Information in Logged Messages 
 
-2. Stream Handler in Python
+2. Stream Handler
 
-3. Debugging in Python
+3. Debugging
     1. Python Debugger
-         1. Python pdb
-         2. Starting Python Debugger
+         1. Pdb Module
+         2. Starting Debugger
          3. Checking Variables on the Stack
-         4. Python pdb Breakpoint
+         4. Adding Breakpoints
          5. Managing Breakpoints
     2. PyCharm Debugger
          1. Breakpoints
-         2. Attach To Local Processes
+         2. Attaching To Local Processes
          3. Python Interpreter With The Loaded Environment
          4. Conclusion
 
