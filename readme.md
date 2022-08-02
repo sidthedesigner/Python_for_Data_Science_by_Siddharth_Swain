@@ -243,15 +243,15 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     6. Membership Operators
     7. Bitwise Operators
 
-## 011_Python User Input
+## 011_User Input
 
 1. User Input
 
 2. Input Function
 
-## 012_Python If Else
+## 012_If Else
 
-1. Python Conditions and If statements
+1. Conditions and If statements
 
 2. Indentation
 
@@ -271,35 +271,35 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 10. Pass Statement
 
-## 013_Python While Loops
+## 013_While Loops
 
-1. Python Loops
+1. Loops
 
-2. The While Loop
+2. While Loop
 
-3. The Break Statement
+3. Break Statement
 
-4. The Continue Statement
+4. Continue Statement
 
-5. The Else Statement
+5. Else Statement
 
 ## 014_Python For Loops
 
-1. The For Loops
+1. For Loops
 
 2. Looping Through a String
 
-3. The Break Statement
+3. Break Statement
 
-4. The Continue Statement
+4. Continue Statement
 
 5. Range Function
 
 6. Else in For Loop
 
-7. Nested Loops
+7. Nested Loop
 
-8. The Pass Statement
+8. Pass Statement
 
 ## 015_Python Strings
 
