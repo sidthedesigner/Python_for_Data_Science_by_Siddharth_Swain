@@ -667,11 +667,15 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 026_OOPS (Part 2)
 
-- Python Classes and Objects
-- Defining a Class in Python
-- Creating an Object in Python
-- Constructors in Python
-- Deleting Attributes and Objects
+1. Classes and Objects
+
+2. Defining a Class
+
+3. Creating an Object
+
+4. Constructors
+
+5. Deleting Attributes and Objects
 
 ## 027_OOPS (Part 3)
 
