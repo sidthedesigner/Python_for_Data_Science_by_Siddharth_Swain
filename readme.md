@@ -598,15 +598,15 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
          3. Python Interpreter With The Loaded Environment
          4. Conclusion
 
-## 023_Python Modules
+## 023_Modules
 
-1. Python Module
+1. Introduction
 
-2. Difference Between Module, Package and Library
+2. Module vs Package vs Library
 
-3. Create a Module
+3. Creating a Module
 
-4. Use a Module
+4. Using a Module
 
 5. Variables in Module
 
@@ -618,7 +618,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 9. Using the dir() Function
 
-10. Import From Module
+10. Importing From Module
 
 11. Importing Module from Different Directory
     1. Importing Module
@@ -626,9 +626,9 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     3. Using sys Module
     4. Using PYTHONPATH Environment Variable
 
-## 024_Python Error Handling
+## 024_Error Handling
 
-1. Error Handling
+1. Introduction
 
 2. Difference between Syntax Error and Exceptions
 
@@ -638,13 +638,13 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 5. Try with Else Clause
 
-6. Finally Keyword in Python
+6. Finally Keyword
 
 7. Raising Exception
 
 8. Custom Exceptions
     1. Creating Custom Exceptions
-    2. Example: User-Defined Exception in Python
+    2. Example: User-Defined Exception
     3. Customizing Exception Classes
 
 ## 025_OOPS (Part 1)
