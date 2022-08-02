@@ -105,17 +105,17 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
      15. Google Colab Magics
      16. Other Interesting Features
 
-## 003_Python Syntax
+## 003_Syntax
 
-1. Python Syntax
+1. Syntax
 
-2. Python Indentation
+2. Indentation
 
-3. Python Variables
+3. Variables
 
 4. Comments
 
-5. Python Built-in Functions
+5. Built-in Functions
     1. Help Function
     2. Print Function
 
@@ -125,20 +125,20 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 8. Ls Command
 
-## 004_Python Comments
+## 004_Comments
 
-1. Python Comments
+1. Comments
 
-2. Example of Comments
+2. Examples
 
-3. Types of Comments
+3. Types
     1. Single-Line Comments
     2. Multi-Line Comments
          1. Using Multiple Hashtags (#)
          2. Using String Literals
     3. Docstring Comments
 
-4. How to Write Better Comments?
+4. Writing Better Comments
 
 ## 005_Python Variables
 
