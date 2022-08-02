@@ -140,43 +140,43 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 4. Writing Better Comments
 
-## 005_Python Variables
+## 005_Variables
 
-1. Python Variables
-    1. Variables
-    2. Creating Variables
+1. Variables
+    1. Introduction
+    2. Declaration
     3. Casting
-    4. Getting the Type
+    4. Getting Type
     5. Single or Double Quotes?
-    6. Case-Sensitive
+    6. Case-Sensitivity
 
 2. Variable Names
-    1. Rules for Names
+    1. Rules
     2. Multi Words Variable Names
          1. Camel Case
          2. Pascal Case
          3. Snake Case
    
- 3. Python Variables - Assign Multiple Values
+ 3. Assigning Multiple Values to Variables
     1. Many Values to Multiple Variables
     2. One Value to Multiple Variables
-    3. Unpack a Collection
+    3. Unpacking a Collection
 
 4. Output Variables
 
 5. Global Variables
 
-6. The Global Keyword
+6. Global Keyword
 
-## 006_Python Data Types
+## 006_Data Types
 
-1. Python Data Types
+1. Data Types
 
 2. Built-in Data Types
 
 3. Numeric
 
-4. Sequence Type
+4. Sequence Types
     1. String
     2. List
     3. Tuple
@@ -187,15 +187,15 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 7. Dictionary
 
-8. Setting the Data Type
+8. Setting Data Type
 
-9. Setting the Specific Data Type
+9. Setting Specific Data Type
 
 10. Type() Function
 
-## 007_Python Numbers
+## 007_Numbers
 
-1. Python Numbers
+1. Numbers
     1. Int
     2. Float
     3. Complex
@@ -214,7 +214,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 3. Explicit Type Conversion
 
-4. Key Points to Remember
+4. Key Points
 
 ## 009_Python Booleans
 
