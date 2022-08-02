@@ -2,7 +2,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 # Table of Contents
 
-## 001_Python Introduction
+## 001_Introduction
 
  1. Computers
      1. Introduction
