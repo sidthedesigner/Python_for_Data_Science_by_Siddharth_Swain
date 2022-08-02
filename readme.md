@@ -519,8 +519,8 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     11. Returning Values
     12. Pass Statement
     13. Recursion
-         1. Advantages of Recursion
-         2. Disadvantages of Recursion
+         1. Advantages
+         2. Disadvantages
 
 2. Underscore in Python
     1. Single Underscore
@@ -530,13 +530,13 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     1. Lambda Function
     2. Why Use Lambda Functions?
 
-4. Python Docstring
+4. Docstring
 
-5. Python Doc Attribute
+5. Doc Attribute
 
 6. Iterable and Iterator
 
-7. Generators in Python
+7. Generators
     1. Generator Function
     2. Generator Object
     3. Applications
