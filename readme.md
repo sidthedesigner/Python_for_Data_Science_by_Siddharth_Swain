@@ -649,20 +649,21 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 025_OOPS (Part 1)
 
-- Python Object Oriented Programming
-- Object Oriented Programming
-- Class
-- Object
-- Example 1: Creating Class and Object in Python
-- Methods
-- Example 2 : Creating Methods in Python
-- Inheritance
-- Example 3: Use of Inheritance in Python
-- Encapsulation
-- Example 4: Data Encapsulation in Python
-- Polymorphism
-- Example 5: Using Polymorphism in Python
-- Key Points to Remember
+1. Python Object Oriented Programming
+
+2. Class
+
+3. Object
+
+4. Methods
+
+5. Inheritance
+
+6. Encapsulation
+
+7. Polymorphism
+
+8. Key Points to Remember
 
 ## 026_OOPS (Part 2)
 
