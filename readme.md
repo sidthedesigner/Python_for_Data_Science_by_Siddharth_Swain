@@ -5,13 +5,13 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 ## 001_Python Introduction
 
  1. Computers
-     1. Introduction to Computers
+     1. Introduction
      2. Input Process Output Model
-     3. Basic Parts of Computers
+     3. Basic Parts
      4. CPU, RAM & Hard Drive
-     5. Characteristics of Computers
-     6. Advantages of Using Computers
-     7. Disadvantages of Using Computers
+     5. Characteristics
+     6. Advantages
+     7. Disadvantages
 
 2. Software Concepts
      1. System Software
@@ -22,25 +22,25 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
      3. Utility Software
 
 3. Programming Language
-     1. What is a Programming Language?
-     2. How Does a Programming Language Work?
-     3. Key Functions of a Programming Language
-     4. Who Uses Programming Languages?
-     5. Types of Programming Languages
-     6. What is the Top Programming Language?
+     1. Introduction
+     2. How does it work?
+     3. Key Functions
+     4. Who uses it?
+     5. Types
+     6. Top Programming Languages
 
 4. Python
      1. Introduction
-     2. Uses of Python
-     3. Advantages of Python
-     4. Disadvantages of Python
-     5. Python Facts
-     6. Python 2.x vs 3.x
-     7. Organizations Using Python
-     8. Why is Python Used in Data Science?
-     9. Why is Python Preferred for Machine Learning and AI?
-     10. The Best Python Libraries for Machine Learning and AI
-     11. The 7 Best Python IDE For Developers in 2022
+     2. Uses
+     3. Advantages
+     4. Disadvantages
+     5. Facts
+     6. Version 2.x vs 3.x
+     7. Organizations using Python
+     8. Why is it used in Data Science?
+     9. Why is it preferred for Machine Learning and AI?
+     10. Popular Libraries for Machine Learning and AI
+     11. Popular IDEs For Developers
 
 ## 002_Getting Started
 
