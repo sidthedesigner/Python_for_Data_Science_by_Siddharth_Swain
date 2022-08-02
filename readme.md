@@ -310,8 +310,8 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     4. Strings are Arrays
     5. Looping Through a String
     6. String Length
-    7. Check String
-    8. Check if NOT
+    7. Checking String
+    8. Checking if NOT
 
 2. Slicing Strings
     1. Slicing
@@ -341,7 +341,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     2. List Items
     3. Ordered
     4. Changeable
-    5. Allow Duplicates
+    5. Allowing Duplicates
     6. List Length
     7. List Items - Data Types
     8. type()
@@ -381,7 +381,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 8. Sorting Lists
     1. Sorting List Alphanumerically
-    2. Sorting in Descending
+    2. Sorting in Descending Order
     3. Customizing Sort Function
     4. Case Insensitive Sort
     5. Reversing Order
