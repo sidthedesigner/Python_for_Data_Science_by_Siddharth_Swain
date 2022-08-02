@@ -679,18 +679,23 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 
 ## 027_OOPS (Part 3)
 
-- Python Access Modifiers
-- Public Access Modifier
-- Protected Access Modifier
-- Private Access Modifier
-- Python Inheritance
-- Python Inheritance Syntax
-- Python Multiple Inheritance
-- Python Multilevel Inheritance
-- Method Overriding in Python
-- Method Resolution Order in Python
-- Encapsulation in Python
-- Operator Overloading
+1. Access Modifiers
+    1. Public Access Modifier
+    2. Protected Access Modifier
+    3. Private Access Modifier
+
+2. Inheritance
+    1. Inheritance Syntax
+    2. Multiple Inheritance
+    3. Multilevel Inheritance
+
+3. Method Overriding
+
+4. Method Resolution Order
+
+5. Encapsulation
+
+6. Operator Overloading
 
 ## 028_Python MySQL
 
