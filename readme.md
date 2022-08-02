@@ -392,77 +392,77 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 11. List Methods
 
-## 017_Python Tuples
+## 017_Tuples
 
-1. Python Tuples
-    1. Tuple
+1. Tuples
+    1. Introduction
     2. Tuple Items
     3. Ordered
     4. Unchangeable
-    5. Allow Duplicates
+    5. Allowing Duplicates
     6. Tuple Length
-    7. Create Tuple With One Item
+    7. Creating Tuple With One Item
     8. Tuple Items - Data Types
     9. type()
     10. The tuple() Constructor
 
-2. Access Tuple Items
-    1. Access Tuple Items
+2. Accessing Tuple Items
+    1. Accessing Tuple Items
     2. Negative Indexing
     3. Range of Indexes
     4. Range of Negative Indexes
-    5. Check if Item Exists
+    5. Checking if Item Exists
 
-3. Update Tuples
-    1. Change Tuple Values
-    2. Add Items
-    3. Remove Items
+3. Updating Tuples
+    1. Changing Tuple Values
+    2. Adding Items
+    3. Removing Items
 
-4. Unpack Tuples
+4. Unpacking Tuples
     1. Unpacking a Tuple
     2. Using Asterisk*
 
-5. Loop Tuples
-    1. Loop Through a Tuple
-    2. Loop Through the Index Numbers
+5. Looping Tuples
+    1. Looping Through a Tuple
+    2. Looping Through the Index Numbers
     3. Using a While Loop
 
-6. Join Two Tuples
-    1. Join Two Tuples
-    2. Multiply Tuples
+6. Joining Tuples
+    1. Joining Two Tuples
+    2. Multiplying Tuples
 
 7. Tuple Methods
 
-## 018_Python Sets
+## 018_Sets
 
-1. Python Sets
-    1. Set
+1. Sets
+    1. Introduction
     2. Set Items
     3. Unordered
     4. Unchangeable
     5. Duplicates Not Allowed
-    6. Get the Length of a Set
+    6. Getting the Length of a Set
     7. Set Items - Data Types
     8. type()
     9. The set() Constructor
 
-2. Access Set Items
-    1. Access Items
-    2. Change Items
+2. Accessing Set Items
+    1. Accessing Items
+    2. Changing Items
 
-3. Add Set Items
-    1. Add Items
-    2. Add Sets
-    3. Add Any Iterable
+3. Adding Set Items
+    1. Adding Items
+    2. Adding Sets
+    3. Adding Any Iterable
 
-4. Remove Item
+4. Removing Set Items
 
-5. Loop Items
+5. Looping Set Items
 
-6. Join Sets
-    1. Join Two Sets
-    2. Keep ONLY the Duplicates
-    3. Keep All, But NOT the Duplicates
+6. Joining Sets
+    1. Joining Two Sets
+    2. Keeping ONLY the Duplicates
+    3. Keeping All, But NOT the Duplicates
 
 7. Set Methods
 
