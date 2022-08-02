@@ -206,7 +206,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 4. Random Number
 
-## 008_Type Conversion and Type Casting
+## 008_Type Conversion & Type Casting
 
 1. Type Conversion
 
