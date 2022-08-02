@@ -45,11 +45,11 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
 ## 002_Getting Started
 
  1. Getting Started
-     1. Installing Python
-     2. Quickstarting Python
-     3. Python Command Line
+     1. Installing
+     2. Quickstarting
+     3. Command Line
      4. Checking Version
-     5. The Zen of Python
+     5. Zen of Python
      
 2. Anaconda (Python Distribution)
      1. Introduction
@@ -60,50 +60,50 @@ Hi everyone! I have compiled a list of resources that will help you in your jour
  
 3. Jupyter Notebook
      1. Introduction
-     2. Advantages of Jupyter Notebook
-     3. Disadvantages of Jupyter Notebook
-     4. Launch Jupyter Notebook
+     2. Advantages
+     3. Disadvantages
+     4. Launching
      5. Dashboard
      6. Files Tab
      7. Running Tab
      8. Cluster Tab
      9. User Interface
-     10. Components of Jupyter Notebook
-     11. Creating a Notebook
-     12. Renaming the Notebook
-     13. How to Write and Run a Program
-     14. Types of Cells
+     10. Components
+     11. Creating Notebook
+     12. Renaming Notebook
+     13. Writing & Running a Program
+     14. Cell Types
           1. Code Cell
           2. Markdown Cell
           3. Raw NBConvert Cell
           4. Heading Cell
-     15. Enable Line Numbers for Jupyter Notebook Cells
-     16. Change your Jupyter Start-Up Folder
+     15. Enabling Line Numbers for Cells
+     16. Changing Start-Up Folder
      17. Should Jupyter Notebooks be used in Production?
-     18. Six Easy Ways to Run Jupyter Notebook in the Cloud
+     18. Six easy ways to run Jupyter Notebook in the Cloud
 
 4. Google Colab
      1. Introduction
-     2. Is Google Colab Free?
-     3. Advantages of Using Google Colab
-     4. Disadvantages of Using Google Colab
-     5. Alternatives to Google Colab
-     6. Does Google Colab Support Python?
+     2. Is it Free?
+     3. Advantages
+     4. Disadvantages
+     5. Alternatives
+     6. Does it support Python?
      7. Getting Started
      8. Importing Libraries/Dependencies
-     9. Enabling GPU/TPU Usage
+     9. Enabling GPU/TPU
      10. Importing Data
-     11. Using Machine Learning in Google Colab to Predict House Prices
-          1. Loading Kaggle Datasets Directly
+     11. Using Machine Learning to Predict House Prices
+          1. Directly loading Kaggle Datasets 
           2. Visualizing Data/Producing Charts
-     12. Deploying ML Algorithms in Google Colab
-          1. Preparing the Data
+     12. Deploying ML Algorithms
+          1. Data Preparation
           2. Picking Algorithm and Evaluating It
-          3. Optimizing the Algorithm
-     13. Saving Google Colab Notebook Directly to GitHub
+          3. Algorithm Optimization
+     13. Saving Google Colab Notebook directly to GitHub
      14. Mounting External Python Files in Google Colab
-     15. What are Google Colab Magics?
-     16. Other Interesting Google Colab Features
+     15. Google Colab Magics
+     16. Other Interesting Features
 
 ## 003_Python Syntax
 
