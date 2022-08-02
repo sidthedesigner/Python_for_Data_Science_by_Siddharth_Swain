@@ -216,25 +216,25 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 4. Key Points
 
-## 009_Python Booleans
+## 009_Booleans
 
-1. Python Booleans
+1. Booleans
 
 2. Boolean Values
 
-3. Evaluate Values and Variables
+3. Evaluating Values and Variables
 
 4. Most Values Are True
 
 5. Some Values Are False
 
-6. Functions Can Return a Boolean
+6. Functions Returning Boolean
 
-## 010_Python Operators
+## 010_Operators
 
 1. Python Operators
 
-2. Types of Python Operators
+2. Types 
     1. Arithmetic Operators
     2. Assignment Operators
     3. Comparison Operators
