@@ -222,17 +222,17 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 2. Boolean Values
 
-3. Evaluating Values and Variables
+3. Evaluating Values & Variables
 
 4. Most Values Are True
 
 5. Some Values Are False
 
-6. Functions Returning Boolean
+6. Functions Returning Booleans
 
 ## 010_Operators
 
-1. Python Operators
+1. Operators
 
 2. Types 
     1. Arithmetic Operators
