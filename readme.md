@@ -701,51 +701,62 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 ## 028_Python MySQL
 
-- MySQL Get Started
-- MySQL Database
-- Install MySQL Driver
-- Download and install MySQL Connector
-- Test MySQL Connector
-- Create Connection
-- MySQL Create Database
-- Creating a Database
-- Check if Database Exists
-- MySQL Create Table
-- Creating a Table
-- Check if Table Exists
-- Primary Key
-- MySQL Insert Into Table
-- Insert Into Table
-- Insert Multiple Rows
-- Get Inserted ID
-- MySQL Select From
-- Select From a Table
-- Selecting Columns
-- Using the fetchone() Method
-- MySQL Where
-- Select With a Filter
-- Wildcard Characters
-- Prevent SQL Injection
-- MySQL Order By
-- Sort the Result
-- ORDER BY DESC
-- MySQL Delete From By
-- Delete Record
-- Prevent SQL Injection
-- MySQL Drop Table
-- Delete a Table
-- Drop Only if Exist
-- MySQL Update Table
-- Update Table
-- Prevent SQL Injection
-- MySQL Limit
-- Limit the Result
-- Start From Another Position
-- MySQL Join
-- Join Two or More Tables
-- LEFT JOIN
-- RIGHT JOIN
-- Sample Code for Database Operations using Classes and Objects
+1. Getting Started
+    1. MySQL Database
+    2. Installing MySQL Driver
+    3. Testing MySQL Connector
+    4. Creating Connection
+
+2. Creating Database
+    1. Create Database Statement
+    2. Checking if Database Exists
+
+3. Creating Table
+    1. Create Table Statement
+    2. Checking if Table Exists
+    3. Primary Key
+
+4. Inserting Into Table
+    1. Insert Into Statement
+    2. Inserting Multiple Rows
+    3. Getting Inserted ID
+
+5. Selecting From
+    1. Select Statement
+    2. Selecting Columns
+    3. Using the fetchone() Method
+
+6. Where
+    1. Selecting With a Filter
+    2. Wildcard Characters
+    3. Preventing SQL Injection
+
+7. Ordering By
+    1. Sorting the Result
+    2. ORDER BY DESC
+
+8. Deleting From
+    1. Deleting Record
+    2. Preventing SQL Injection
+
+9. Dropping Table
+    1. Deleting a Table
+    2. Dropping Only if Exist
+
+10. Updating Table
+    1. Update Statement
+    2. Preventing SQL Injection
+
+11. Limitting
+    1. Limitting the Result
+    2. Starting From Another Position
+
+12. Joining
+    1. Joining Two or More Tables
+    2. LEFT JOIN
+    3. RIGHT JOIN
+
+13. Sample Code for Database Operations using Classes and Objects
 
 ## 029_Python MongoDB and Cassandra
 
