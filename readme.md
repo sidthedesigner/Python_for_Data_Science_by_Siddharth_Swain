@@ -649,7 +649,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 ## 025_OOPS (Part 1)
 
-1. Python Object Oriented Programming
+1. Object Oriented Programming
 
 2. Class
 
@@ -663,7 +663,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 7. Polymorphism
 
-8. Key Points to Remember
+8. Key Points
 
 ## 026_OOPS (Part 2)
 
@@ -694,6 +694,8 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 4. Method Resolution Order
 
 5. Encapsulation
+    1. Protected Members
+    2. Private Members
 
 6. Operator Overloading
 
