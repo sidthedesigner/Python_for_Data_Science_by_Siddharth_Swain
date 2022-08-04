@@ -699,7 +699,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 6. Operator Overloading
 
-## 028_Python MySQL
+## 028_MySQL
 
 1. Getting Started
     1. MySQL Database
@@ -758,131 +758,130 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 13. Sample Code for Database Operations using Classes and Objects
 
-## 029_Python MongoDB and Cassandra
+## 029_MongoDB & Cassandra
 
-- Python MongoDB
-- MongoDB
-- PyMongo
-- Test PyMongo
-- MongoDB Create Database
-- Creating a Database
-- Check if Database Exists
-- MongoDB Create Collection
-- Creating a Collection
-- Check if Collection Exists
-- MongoDB Insert Document
-- Insert Into Collection
-- Return the _id Field
-- Insert Multiple Documents
-- Insert Multiple Documents, with Specified IDs
-- MongoDB Find
-- Find One
-- Find All
-- Return Only Some Fields
-- MongoDB Query
-- Filter the Result
-- Advanced Query
-- Filter With Regular Expressions
-- MongoDB Sort
-- Sort the Result
-- Sort Descending
-- MongoDB Delete Document
-- Delete Document
-- Delete Many Documents
-- Delete All Documents in a Collection
-- MongoDB Drop Collection
-- Delete Collection
-- MongoDB Update
-- Update Collection
-- Update Many
-- MongoDB Limit
-- Limit the Result
-- Python Cassandra
-- NoSQLDatabase
-- NoSQL vs. Relational Database
-- What is Apache Cassandra?
-- Features of Cassandra
-- History of Cassandra
-- Cassandra Architecture
-- Data Replication in Cassandra
-- Components of Cassandra
-- Cassandra Query Language
-- Cassandra Data Model
-- Cluster
-- Keyspace
-- Column Family
-- Column
-- SuperColumn
-- Data Models of Cassandra and RDBMS
-- Cqlsh
-- Starting Cqlsh
-- Cqlsh Commands
-- Shell Commands
-- Help
-- Capture
-- Consistency
-- Copy
-- Describe
-- Describe Type
-- Describe Types
-- Expand
-- Exit
-- Show
-- Source
-- Create Keyspace
-- Creating a Keyspace using Cqlsh
-- Replication
-- Durable_writes
-- Using a Keyspace
-- Alter Keyspace
-- Altering a KeySpace
-- Replication
-- Durable_writes
-- Drop Keyspace
-- Dropping a Keyspace
-- Creating a Table
-- Defining a Column
-- Primary Key
-- Alter Table
-- Altering a Table
-- Adding a Column
-- Dropping a Column
-- Drop Table
-- Dropping a Table
-- Truncate Table
-- Truncating a Table
-- Create Index
-- Creating an Index using Cqlsh
-- Drop Index
-- Dropping an Index
-- Batch Statements
-- Using Batch Statements
-- Create Data
-- Creating Data in a Table
-- Update Data
-- Updating Data in a Table
-- Read Data
-- Reading Data using Select Clause
-- Reading Required Columns
-- Where Clause
-- Delete Data
-- Deleting Datafrom a Table
-- Deleting an Entire Row
-- CQL Datatypes
-- Collection Types
-- User-Defined Datatypes
-- CQL Collections
-- List
-- SET
-- MAP
-- CQL User Defined Datatypes
-- Creating a User-defined Data Type
-- Altering a User-defined Data Type
-- Deleting a User-defined Data Type
-- Cassandra Driver
-- SimpleStatement
-- BatchStatement
-- PreparedStatement
+1. MongoDB
+    1. Getting Started
+        1. MongoDB
+        2. PyMongo
+        3. Testing PyMongo
+    2. Creating Database
+        1. Creating a Database
+        2. Checking if Database Exists
+    3. Creating Collection
+        1. Creating a Collection
+        2. Checking if Collection Exists
+    4. Inserting Document
+        1. Inserting Into Collection
+        2. Returning the _id Field
+        3. Inserting Multiple Documents
+        4. Inserting Multiple Documents, with Specified IDs
+    5. Finding Data
+        1. Finding One
+        2. Finding All
+        3. Returning Only Some Fields
+    6. Querying
+        1. Filtering the Result
+        2. Advanced Query
+        3. Filtering With Regular Expressions
+    7. Sorting
+        1. Sorting the Result
+        2. Sorting in Descending
+    8. Deleting Document
+        1. Deleting One
+        2. Deleting Many Documents
+        2. Deleting All Documents in a Collection
+    9. Deleting Collection
+    10. Updating
+        1. Updating Collection
+        2. Updating Many
+    11. Limitting the Result
+
+2. Cassandra
+    1. Introduction
+        1. NoSQLDatabase
+        2. NoSQL vs. Relational Database
+        3. What is Apache Cassandra?
+        4. Features
+        5. History
+    2. Architecture
+        1. Introduction
+        2. Data Replication
+        3. Components
+        4. Cassandra Query Language
+    3. Data Model
+        1. Cluster
+        2. Keyspace
+        3. Column Family
+        4. Column
+        5. SuperColumn
+        6. Data Models of Cassandra and RDBMS
+    4. Cqlsh
+        1. Starting Cqlsh
+        2. Cqlsh Commands
+        3. Documented Shell Commands
+        4. CQL Data Definition Commands
+        5. CQL Data Manipulation Commands
+        6. CQL Clauses
+     5. Shell Commands
+        1. Help
+        2. Capture
+        3. Consistency
+        4. Copy
+        5. Describe
+        6. Describe Type
+        7. Describe Types
+        8. Expand
+        9. Exit
+        10. Show
+        11. Source
+     6. Create Keyspace
+        1. Creating a Keyspace using Cqlsh
+        2. Replication
+        3. Durable_writes
+        4. Using a Keyspace
+     7. Altering Keyspace
+        1. Altering a KeySpace
+        2. Replication
+        3. Durable_writes
+     8. Dropping Keyspace
+     9. Creating Table
+        1. Creating a Table
+        2. Defining a Column
+        3. Primary Key
+     10. Altering Table
+         1. Altering a Table
+         2. Adding a Column
+         3. Dropping a Column
+     11. Dropping Table
+     12. Truncating Table
+     13. Creating Index
+     14. Dropping Index
+     15. Batch Statements
+     16. Creating Data
+     17. Updating Data
+     18. Reading Data
+         1. Reading Data using Select Clause
+         2. Reading Required Columns
+         3. Where Clause
+     19. Deleting Data
+         1. Deleting Data from a Table
+         2. Deleting an Entire Row
+     20. CQL Datatypes
+         1. Collection Types
+         2. User-Defined Datatypes
+     21. CQL Collections
+         1. List
+         2. SET
+         3. MAP
+     22. CQL User Defined Datatypes
+         1. Creating a User-defined Data Type
+         2. Altering a User-defined Data Type
+         3. Deleting a User-defined Data Type
+     23. Cassandra Driver
+         1. SimpleStatement
+         2. BatchStatement
+         3. PreparedStatement
 
 ## 030_Python API, Flask, Django & Debugging 
 
