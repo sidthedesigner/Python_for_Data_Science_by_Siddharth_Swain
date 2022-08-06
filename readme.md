@@ -931,7 +931,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     2. How are Django and Python Related?
     3. Features
     4. Who Uses It?
-    5. Django Framework
+    5. Framework
     6. Model
     7. View
     8. Template
