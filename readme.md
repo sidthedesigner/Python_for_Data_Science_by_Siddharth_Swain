@@ -910,7 +910,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
         6. HEAD Method
         7. DELETE Method
         8. OPTIONS Method
-     15. URLs
+    15. URLs
         1. Introduction
         2. Basics: Anatomy of URL
         3. Scheme
