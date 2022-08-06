@@ -883,68 +883,68 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
          2. BatchStatement
          3. PreparedStatement
 
-## 030_Python API, Flask, Django & Debugging 
+## 030_API, Flask, & Django
 
-- What is API?
-- API Example 1
-- API Example 2
-- Why would we need an API?
-- Features of API
-- Types of API
-- Communication level of APIs
-- What is Web APIs?
-- API Testing tools
-- Applications of API
-- API Summary
-- SOAP Vs. REST: Difference between Web API Services
-- What is SOAP (Simple Object Access Protocol)?
-- What is REST (Representational State Transfer)?
-- Key Differences
-- HTTP Request Methods
-- What is HTTP?
-- HTTP Methods
-- The GET Method
-- The POST Method
-- The PUT Method
-- The HEAD Method
-- The DELETE Method
-- The OPTIONS Method
-- GET vs POST
-- What is a URL?
-- Basics: Anatomy of URL
-- Scheme
-- Authority
-- Path to resource
-- Parameters
-- Anchor
-- How to use URLs
-- Flask
-- Key Differences Between Flask and Django
-- Django
-- How are Django and Python Related?
-- Features Of Django
-- Who is using Django?
-- Django Framework
-- Model
-- View
-- Template
-- Conclusion
-- Differences between Django vs Flask
-- Easy Steps to Create & Run a Django Project
-- How to Create Your First Django Project
-- Running the Test Server
-- Localhost:8000
-- Creating a Hello World Application with Django
-- Creating A Django Project
-- Creating A Django App
-- Creating Web App
-- What is main in Python?
-- Debugging
-- How to use PyCharm to Debug your Python code?
-- Breakpoints
-- Attach to Local Processes
-- Python Interpreter With The Loaded Environment
-- Conclusion
+1. API
+    1. Introduction
+    2. Examples
+        1. Example 1
+        2. Example 2
+    3. Why is it Needed?
+    4. Features
+    5. Types
+    6. Communication Level
+    7. Web APIs
+    8. Testing Tools
+    9. Applications
+    10. Summary
+    11. SOAP (Simple Object Access Protocol)
+    12. REST (Representational State Transfer)
+    13. SOAP vs REST
+    14. Request Methods
+        1. HTTP
+        2. HTTP Methods
+        3. GET Method
+        4. POST Method
+        5. PUT Method
+        6. HEAD Method
+        7. DELETE Method
+        8. OPTIONS Method
+     15. URLs
+        1. Introduction
+        2. Basics: Anatomy of URL
+        3. Scheme
+        4. Authority
+        5. Path to Resource
+        6. Parameters
+        7. Anchor
+        8. Using Them
+
+2. Flask
+    1. Introduction
+    2. What is it Used For?
+    3. Flask vs Django (Basic Differences)
+    4. Creating A Flask Application
+
+3. Django
+    1. Introduction
+    2. How are Django and Python Related?
+    3. Features
+    4. Who Uses It?
+    5. Django Framework
+    6. Model
+    7. View
+    8. Template
+    9. Django vs Flask (Detailed Differences)
+    10. Summary
+    11. Creating & Running a Project
+        1. Creating the First Project
+        2. Running the Test Server
+        3. Localhost:8000
+    12. Hello World Application
+        1. Creating a Django Project
+        2. Creating a Django App
+        3. Creating a Web App
 
 ## 031_Python Pandas
 
