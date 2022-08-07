@@ -1031,107 +1031,108 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
        2. Disadvantages
     5. Pandas vs Spark: Which one to Choose?
 
-## 032_Pandas Exercises (Part 1)
+## 032_Pandas (Getting & Knowing Your Data)
 
-- Exercise 1 (Getting and Knowing your Data)
-- Go to https://www.kaggle.com/openfoodfacts/world-food-facts/data.
-- Download the dataset to your computer and unzip it.
-- Use the tsv file and assign it to a dataframe called food.
-- See the first 5 entries.
-- What is the number of observations in the dataset?
-- What is the number of columns in the dataset?
-- Print the name of all the columns.
-- What is the name of 105th column?
-- What is the type of the observations of the 105th column?
-- How is the dataset indexed?
-- What is the product name of the 19th observation?
-- Exercise 2 (Getting and Knowing your Data)
-- Import the necessary libraries.
-- Import the dataset from this address.
-- Assign it to a variable called chipo.
-- See the first 10 entries.
-- What is the number of observations in the dataset?
-- What is the number of columns in the dataset?
-- Print the name of all the columns.
-- How is the dataset indexed?
-- Which was the most-ordered item?
-- For the most-ordered item, how many items were ordered?
-- What was the most ordered item in the choice_description column?
-- How many items were orderd in total?
-- Turn the item price into a float.
-- Check the item price type.
-- Create a lambda function and change the type of item price.
-- Check the item price type.
-- How much was the revenue for the period in the dataset?
-- How many orders were made in the period?
-- What is the average revenue amount per order?
-- How many different items are sold?
-- Exercise 3 (Getting and Knowing your Data)
-- Import the necessary libraries.
-- Import the dataset from this address.
-- Assign it to a variable called users and use the 'user_id' as index.
-- See the first 25 entries.
-- See the last 10 entries.
-- What is the number of observations in the dataset?
-- What is the number of columns in the dataset?
-- Print the name of all the columns.
-- How is the dataset indexed?
-- What is the data type of each column?
-- Print only the occupation column.
-- How many different occupations are in this dataset?
-- What is the most frequent occupation?
-- Summarize the DataFrame.
-- Summarize all the columns.
-- Summarize only the occupation column.
-- What is the mean age of users?
-- What is the age with least occurrence?
+1. Exercise 1
+    1. Go to https://www.kaggle.com/openfoodfacts/world-food-facts/data.
+    2. Download the dataset to your computer and unzip it.
+    3. Use the tsv file and assign it to a dataframe called food.
+    4. See the first 5 entries.
+    5. What is the number of observations in the dataset?
+    6. What is the number of columns in the dataset?
+    7. Print the name of all the columns.
+    8. What is the name of 105th column?
+    9. What is the type of the observations of the 105th column?
+    10. How is the dataset indexed?
+    11. What is the product name of the 19th observation?
+ 
+ 2. Exercise 2
+    1. Import the necessary libraries.
+    2. Import the dataset from this address.
+    3. Assign it to a variable called chipo.
+    4. See the first 10 entries.
+    5. What is the number of observations in the dataset?
+    6. What is the number of columns in the dataset?
+    7. Print the name of all the columns.
+    8. How is the dataset indexed?
+    9. Which was the most-ordered item?
+    10. For the most-ordered item, how many items were ordered?
+    11. What was the most ordered item in the choice_description column?
+    12. How many items were orderd in total?
+    13. Turn the item price into a float.
+    14. How much was the revenue for the period in the dataset?
+    15. How many orders were made in the period?
+    16. What is the average revenue amount per order?
+    17. How many different items are sold?
 
-## 033_Pandas Exercises (Part 2)
+3. Exercise 3
+    1. Import the necessary libraries.
+    2. Import the dataset from this address.
+    3. Assign it to a variable called users and use the 'user_id' as index.
+    4. See the first 25 entries.
+    5. See the last 10 entries.
+    6. What is the number of observations in the dataset?
+    7. What is the number of columns in the dataset?
+    8. Print the name of all the columns.
+    9. How is the dataset indexed?
+    10. What is the data type of each column?
+    11. Print only the occupation column.
+    12. How many different occupations are in this dataset?
+    13. What is the most frequent occupation?
+    14. Summarize the DataFrame.
+    15. Summarize all the columns.
+    16. Summarize only the occupation column.
+    17. What is the mean age of users?
+    18. What is the age with least occurrence?
 
-- Exercise 1 (Filtering and Sorting Data)
-- Import the necessary libraries.
-- Import the dataset from this address.
-- Assign it to a variable called chipo.
-- How many products cost more than $10.00?
-- What is the price of each item?
-- Sort by the name of the item.
-- What was the quantity of the most expensive item ordered?
-- How many times was a Veggie Salad Bowl ordered?
-- How many times did someone order more than one Canned Soda?
-- Exercise 2 (Filtering and Sorting Data)
-- Import the necessary libraries.
-- Import the dataset from this address.
-- Assign it to a variable called euro12.
-- Select only the Goal column.
-- How many team participated in the Euro2012?
-- What is the number of columns in the dataset?
-- View only the columns Team, Yellow Cards and Red Cards and assign them to a dataframe called discipline.
-- Sort the teams by Red Cards, then to Yellow Cards.
-- Calculate the mean Yellow Cards given per Team.
-- Filter teams that scored more than 6 goals.
-- Select the teams that start with G.
-- Select the first 7 columns.
-- Select all columns except the last 3.
-- Present only the Shooting Accuracy from England, Italy and Russia.
-- Exercise 3 (Filtering and Sorting Data)
-- Import the necessary libraries.
-- This is the data given as a dictionary.
-- Create a dataframe and assign it to a variable called army.
-- Set the 'origin' colum as the index of the dataframe.
-- Print only the column veterans.
-- Print the columns 'veterans' and 'deaths'.
-- Print the name of all the columns.
-- Select the 'deaths', 'size' and 'deserters' columns from Maine and Alaska.
-- Select the rows 3 to 7 and the columns 3 to 6.
-- Select every row after the fourth row and all columns.
-- Select every row up to the 4th row and all columns.
-- Select the 3rd column up to the 7th column.
-- Select rows where df.deaths is greater than 50.
-- Select rows where df.deaths is greater than 500 or less than 50.
-- Select all the regiments not named "Dragoons".
-- Select the rows called Texas and Arizona.
-- Select the third cell in the row named Arizona.
-- Select the third cell down in the column named deaths.
+## 033_Pandas (Filtering & Sorting Data)
+
+1. Exercise 1
+    1. Import the necessary libraries.
+    2. Import the dataset from this address.
+    3. Assign it to a variable called chipo.
+    4. How many products cost more than $10.00?
+    5. What is the price of each item?
+    6. Sort by the name of the item.
+    7. What was the quantity of the most expensive item ordered?
+    8. How many times was a Veggie Salad Bowl ordered?
+    9. How many times did someone order more than one Canned Soda?
+
+2. Exercise 2
+    1. Import the necessary libraries.
+    2. Import the dataset from this address.
+    3. Assign it to a variable called euro12.
+    4. Select only the Goal column.
+    5. How many team participated in the Euro2012?
+    6. What is the number of columns in the dataset?
+    7. View only the columns Team, Yellow Cards and Red Cards and assign them to a dataframe called discipline.
+    8. Sort the teams by Red Cards, then to Yellow Cards.
+    9. Calculate the mean Yellow Cards given per Team.
+    10. Filter teams that scored more than 6 goals.
+    11. Select the teams that start with G.
+    12. Select the first 7 columns.
+    13. Select all columns except the last 3.
+    14. Present only the Shooting Accuracy from England, Italy and Russia.
+
+3. Exercise 3
+    1. Import the necessary libraries.
+    2. This is the data given as a dictionary.
+    3. Create a dataframe and assign it to a variable called army.
+    4. Set the 'origin' colum as the index of the dataframe.
+    5. Print only the column veterans.
+    6. Print the columns 'veterans' and 'deaths'.
+    7. Print the name of all the columns.
+    8. Select the 'deaths', 'size' and 'deserters' columns from Maine and Alaska.
+    9. Select the rows 3 to 7 and the columns 3 to 6.
+    10. Select every row after the fourth row and all columns.
+    11. Select every row up to the 4th row and all columns.
+    12. Select the 3rd column up to the 7th column.
+    13. Select rows where df.deaths is greater than 50.
+    14. Select rows where df.deaths is greater than 500 or less than 50.
+    15. Select all the regiments not named "Dragoons".
+    16. Select the rows called Texas and Arizona.
+    17. Select the third cell in the row named Arizona.
+    18. Select the third cell down in the column named deaths.
 
 ## 043_Python Numpy
 
