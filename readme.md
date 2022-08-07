@@ -1,12 +1,10 @@
 ## Python Tutorial for Data Science with Code
 
-*Python Tutorial for Data Science with Code*
-
 Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
-***This list is continuously updated.*** - You can take pull request and contribute. All Links are tested and working fine. Please ping if any link doesn't work.
+***These resources are continuously updated.*** - All links are tested and working fine. Please ping me if any link doesn't work.
 
-*Table of Contents*
+## Table of Contents
 
 ## 001_Introduction
 
