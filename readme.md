@@ -1031,7 +1031,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
        2. Disadvantages
     5. Pandas vs Spark: Which one to Choose?
 
-## 032_Pandas (Getting & Knowing Your Data)
+## 032_Pandas Exercises (Getting & Knowing Your Data)
 
 1. Exercise 1
     1. Go to https://www.kaggle.com/openfoodfacts/world-food-facts/data.
@@ -1085,7 +1085,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
     17. What is the mean age of users?
     18. What is the age with least occurrence?
 
-## 033_Pandas (Filtering & Sorting Data)
+## 033_Pandas Exercises (Filtering & Sorting Data)
 
 1. Exercise 1
     1. Import the necessary libraries.
