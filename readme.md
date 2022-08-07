@@ -946,86 +946,90 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
         2. Creating a Django App
         3. Creating a Web App
 
-## 031_Python Pandas
+## 031_Pandas
 
-- Python Pandas (Python Data Analysis Library)
-- Pandas Introduction
-- What is Pandas?
-- Why Use Pandas?
-- What Can Pandas Do?
-- Where is the Pandas Codebase?
-- Pandas Getting Started
-- Installation of Pandas
-- Import Pandas
-- Pandas as pd
-- Checking Pandas Version
-- Pandas Series
-- What is a Series?
-- Labels
-- Create Labels
-- Key/Value Objects as Series
-- DataFrames
-- Pandas DataFrames
-- What is a DataFrame?
-- Locate Row
-- Named Indexes
-- Locate Named Indexes
-- Load Files Into a DataFrame
-- Pandas Read CSV
-- Read CSV Files
-- max_rows
-- Pandas Read JSON
-- Read JSON
-- Dictionary as JSON
-- Pandas - Analyzing DataFrames
-- Viewing the Data
-- Info About the Data
-- Result Explained
-- Null Values
-- Pandas - Cleaning Data
-- Data Cleaning
-- Pandas - Cleaning Empty Cells
-- Empty Cells
-- Remove Rows
-- Replace Empty Values
-- Replace Only For Specified Columns
-- Replace Using Mean, Median, or Mode
-- Pandas - Cleaning Data of Wrong Format
-- Data of Wrong Format
-- Convert Into a Correct Format
-- Removing Rows
-- Pandas - Fixing Wrong Data
-- Wrong Data
-- Replacing Values
-- Removing Rows
-- Pandas - Removing Duplicates
-- Discovering Duplicates
-- Removing Duplicates
-- Pandas - Data Correlations
-- Finding Relationships
-- Perfect Correlation
-- Good Correlation
-- Bad Correlation
-- Pandas - Merge, Join, Concat and Append
-- Concat
-- Merging/Joining
-- Append
-- Pandas - GroupBy
-- Pandas - Plotting
-- Plotting
-- Scatter Plot
-- Histogram
-- Serialization and Deserialization in Python
-- Marshal Module
-- Pickle Module
-- JSON Module
-- What is Apache Spark?
-- Difference Between Spark DataFrame and Pandas DataFrame
-- Pandas DataFrame
-- Advantages and Disadvantages
-- Spark DataFrame
-- Advantages and Disadvantages
-- Deciding Between Pandas and Spark
+1. Introduction
+    1. What is it?
+    2. Why use it?
+    3. What can it do?
+    4. Where is it's Codebase?
+2. Getting Started
+    1. Installation
+    2. Importing Pandas
+    3. Pandas as pd
+    4. Checking Version
+3. Series
+    1. What is it?
+    2. Labels
+    3. Creating Labels
+    4. Key/Value Objects as Series
+    5. DataFrames
+4. DataFrames
+    1. What is it?
+    2. Locating Rows
+    3. Named Indexes
+    4. Locating Named Indexes
+    5. Loading Files Into DataFrame
+5. Reading CSV
+    1. Reading CSV Files
+    2. max_rows
+6. Reading JSON
+    1. Reading JSON Files
+    2. Dictionary as JSON
+7. Analyzing DataFrames
+    1. Viewing Data
+    2. Info About the Data
+    3. Result Explained
+    4. Null Values
+8. Cleaning Data
+    1. Data Cleaning
+    2. Our Dataset
+9. Cleaning Empty Cells
+    1. Empty Cells
+    2. Removing Rows
+    3. Replacing Empty Values 
+    4. Replacing Only For Specified Columns
+    5. Replacing Using Mean, Median, or Mode
+10. Cleaning Data of Wrong Format
+    1. Data of Wrong Format
+    2. Converting into a Correct Format
+    3. Removing Rows
+11. Fixing Wrong Data
+    1. Wrong Data
+    2. Replacing Values
+    3. Removing Rows
+12. Removing Duplicates
+    1. Discovering Duplicates
+    2. Removing Duplicates
+13. Data Correlations
+    1. Finding Relationships
+    2. Result Explained
+    3. Perfect Correlation
+    4. Good Correlation
+    5. Bad Correlation
+14. Concat, Merge, Join, Append & Groupby
+    1. Concat
+    2. Merge/Join
+    3. Append
+    4. Group By
+15. Plotting
+    1. Introduction
+    2. Scatter Plot
+    3. Histogram
+16. Serialization & Deserialization
+    1. Marshal Module
+    2. Pickle Module
+    3. JSON Module
+17. Apache Spark
+    1. Introduction
+    2. Spark DataFrame vs Pandas DataFrame
+    3. Pandas DataFrame
+       1. Advantages
+       2. Disadvantages
+    4. Spark DataFrame
+       1. Advantages
+       2. Disadvantages
+    5. Pandas vs Spark: Which one to Choose?
 
 ## 032_Pandas Exercises (Part 1)
 
