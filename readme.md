@@ -1398,19 +1398,22 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 ## 045_Exploratory Data Analysis (Part 1)
 
-- Exploratory Data Analysis (EDA)
-- Importing Libraries
-- Reading Data
-- Descriptive Statistics
-- Missing Value Imputation
-- Graphical Representation
-- Example 1
+1. Exploratory Data Analysis (EDA)
+    1. Introduction
+    2. Importing Libraries
+    3. Reading Data
+    4. Descriptive Statistics
+    5. Missing Value Imputation 
+    6. Graphical Representation
+2. EDA on Fitbit
 
 ## 046_Exploratory Data Analysis (Part 2)
 
-- Example 2
-- Example 3
-- Example 4
+1. EDA on FIFA 2019
+
+2. EDA on Football Players
+
+3. EDA on Titanic
 
 ## 047_Machine Learning
 
