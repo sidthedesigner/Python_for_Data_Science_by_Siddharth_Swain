@@ -1,6 +1,10 @@
-Hi everyone! I have compiled a list of python resources that will help you in your journey of Data Science. I shall be updating this regularly!
+## Python Tutorial for Data Science with Code
 
-# Table of Contents
+Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
+
+***These resources are continuously updated.*** - All links are tested and working fine. Please ping me if any link doesn't work.
+
+## Table of Contents
 
 ## 001_Introduction
 
