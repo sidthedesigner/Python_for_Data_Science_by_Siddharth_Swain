@@ -1410,7 +1410,7 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
 
 ## 047_Machine Learning
 
-1. Overview of AI, ML & DL\
+1. Overview of AI, ML & DL
     1. Introduction
     2. What is Artificial Intelligence?
     3. What is Machine Learning?
