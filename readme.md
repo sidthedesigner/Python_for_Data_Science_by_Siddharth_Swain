@@ -1285,22 +1285,22 @@ Hi everyone! I have compiled a list of python resources that will help you in yo
         3. Difference Between Logistic and Normal Distribution
      10. Multinomial Distribution
      11. Exponential Distribution
-        1. Introduction
-        2. Visualization
-        3. Relation Between Poisson and Exponential Distribution
+         1. Introduction
+         2. Visualization
+         3. Relation Between Poisson and Exponential Distribution
      12. Chi Square Distribution
-        1. Introduction
-        2. Visualization
+         1. Introduction
+         2. Visualization
      13. Rayleigh Distribution
-        1. Introduction
-        2. Visualization
-        3. Similarity Between Rayleigh and Chi Square Distribution
+         1. Introduction
+         2. Visualization
+         3. Similarity Between Rayleigh and Chi Square Distribution
      14. Pareto Distribution
-        1. Introduction
-        2. Visualization
+         1. Introduction
+         2. Visualization
      15. Zipf Distribution
-        1. Introduction
-        2. Visualization
+         1. Introduction
+         2. Visualization
 
 3. ufuncs 
     1. Introduction
