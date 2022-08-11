@@ -1376,25 +1376,22 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 ## 044_Data Visualization
 
-- Data Visualization
-- Benefits of Data Visualization
-- Plotting with Pandas
-- Plotting with Plotly
-- Installation
-- Jupyter Notebook Installation (Additional)
-- JupyterLab Installation (Python 3.5+)
-- Plotly Express in Python
-- Cufflinks
-- Scatter, Line, Area and Bar Charts
-- Whole Charts
-- 1D Distributions
-- 2D Distributions
-- Images and Heatmaps
-- 3D Coordinates
-- Tile Maps and Point on Tile Maps
-- Polar Coordinates
-- Ternary Coordinates
-- Plotting with Seaborn
+1. Data Visualization
+    1. Introduction
+    2. Benefits
+
+2. Plotting with Pandas
+
+3. Plotting with Plotly
+    1. Introduction
+    2. Installation
+    3. Jupyter Notebook Installation (Additional)
+    4. JupyterLab Installation (Python 3.5+)
+    5. Plotly Express
+
+4. Plotting with Cufflinks
+
+5. Plotting with Seaborn
 
 ## 045_Exploratory Data Analysis (Part 1)
 
