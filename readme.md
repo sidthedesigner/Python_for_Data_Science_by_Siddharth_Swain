@@ -1,4 +1,4 @@
-## Python Tutorial for Data Science with Code
+## A Complete Data Science Course by Siddharth Swain
 
 Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
