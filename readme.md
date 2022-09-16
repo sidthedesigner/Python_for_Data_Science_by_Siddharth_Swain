@@ -10,17 +10,5 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
  1. Computers
      1. Introduction
-     2. Input Process Output Model
-     3. Basic Parts
-     4. CPU, RAM & Hard Drive
-     5. Characteristics
-     6. Advantages
-     7. Disadvantages
-
-2. Software Concepts
-     1. System Software
-          1. Operating System
-          2. Language Processor
-          3. Device Driver
-     2. Application Software
-     3. Utility Software
+         1. XX
+         2. XX
