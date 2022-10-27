@@ -131,3 +131,38 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     16. Mounting External Python Files in Google Colab
     17. Google Colab Magics
     18. Other Interesting Features
+
+## 003_Syntax
+
+1. Syntax
+
+2. Indentation
+
+3. Variables
+
+4. Comments
+
+5. Built-in Functions
+    1. Help Function
+    2. Print Function
+
+6. Checking GPU Version
+
+7. Present Working Directory
+
+8. Ls Command
+
+## 004_Comments
+
+1. Comments
+
+2. Examples
+
+3. Types
+    1. Single-Line Comments
+    2. Multi-Line Comments
+         1. Using Multiple Hashtags (#)
+         2. Using String Literals
+    3. Docstring Comments
+
+4. Writing Better Comments
