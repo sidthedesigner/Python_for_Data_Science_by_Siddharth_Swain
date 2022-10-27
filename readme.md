@@ -121,13 +121,13 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     9. Enabling GPU/TPU
     10. Importing Data
     11. Using Machine Learning to Predict House Prices
-        1. Directly Loading Kaggle Datasets
-        2. Visualizing Data/Producing Charts
-    12. Deploying ML Algorithms
+    12. Directly Loading Kaggle Datasets
+    13. Visualizing Data/Producing Charts
+    14. Deploying ML Algorithms
         1. Data Preparation
         2. Algorithm Selection and Evaluation
         3. Algorithm Optimization
-    13. Saving Google Colab Notebook directly to GitHub
-    14. Mounting External Python Files in Google Colab
-    15. Google Colab Magics
-    16. Other Interesting Features
+    15. Saving Google Colab Notebook directly to GitHub
+    16. Mounting External Python Files in Google Colab
+    17. Google Colab Magics
+    18. Other Interesting Features
