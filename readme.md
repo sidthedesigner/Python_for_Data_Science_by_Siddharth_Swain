@@ -166,3 +166,34 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     3. Docstring Comments
 
 4. Writing Better Comments
+
+## 005_Variables
+
+1. Variables
+    1. Introduction
+    2. Declaration
+    3. Assignment and Memory Location
+    4. Object References
+    5. Object Identity
+    6. Casting
+    7. Getting Type
+    8. Single or Double Quotes?
+    9. Case-Sensitivity
+
+2. Variable Names
+    1. Rules
+    2. Multi Words Variable Names
+         1. Camel Case
+         2. Pascal Case
+         3. Snake Case
+   
+3. Assigning Multiple Values to Variables
+    1. Many Values to Multiple Variables
+    2. One Value to Multiple Variables
+    3. Unpacking a Collection
+
+4. Output Variables
+
+5. Global Variables
+
+6. Global Keyword
