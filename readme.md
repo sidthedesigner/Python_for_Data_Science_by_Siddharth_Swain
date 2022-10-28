@@ -197,3 +197,26 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 5. Global Variables
 
 6. Global Keyword
+
+## 006_Data Types
+
+1. Data Types
+
+2. Numeric
+
+3. Sequence Types
+    1. String
+    2. List
+    3. Tuple
+
+4. Boolean
+
+5. Set
+
+6. Dictionary
+
+7. Setting Data Type
+
+8. Setting Specific Data Type
+
+9. Type() Function
