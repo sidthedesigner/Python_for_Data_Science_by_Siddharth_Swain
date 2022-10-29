@@ -220,3 +220,16 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 8. Setting Specific Data Type
 
 9. Type() Function
+
+## 007_Numbers
+
+1. Numbers
+    1. Int
+    2. Float
+    3. Complex
+
+2. Complex Function
+
+3. Type Conversion
+
+4. Random Number
