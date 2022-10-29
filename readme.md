@@ -243,3 +243,17 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 3. Explicit Type Conversion
 
 4. Key Points
+
+## 009_Booleans
+
+1. Booleans
+
+2. Boolean Values
+
+3. Evaluating Values & Variables
+
+4. Most Values Are True
+
+5. Some Values Are False
+
+6. Functions Returning Booleans
