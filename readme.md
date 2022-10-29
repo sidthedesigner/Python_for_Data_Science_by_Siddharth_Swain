@@ -233,3 +233,13 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 3. Type Conversion
 
 4. Random Number
+
+## 008_Type Conversion & Type Casting
+
+1. Type Conversion
+
+2. Implicit Type Conversion
+
+3. Explicit Type Conversion
+
+4. Key Points
