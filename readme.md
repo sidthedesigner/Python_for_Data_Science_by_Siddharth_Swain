@@ -278,3 +278,25 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 2. Input Function
 
 3. Raw Input Function
+
+## 012_If Else
+
+1. Conditions and If statements
+
+2. Indentation
+
+3. Elif
+
+4. Else
+
+5. Short Hand If
+
+6. Short Hand If ... Else
+
+7. And
+
+8. Or
+
+9. Nested If
+
+10. Pass Statement
