@@ -257,3 +257,16 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 5. Some Values Are False
 
 6. Functions Returning Booleans
+
+## 010_Operators
+
+1. Operators
+
+2. Types 
+    1. Arithmetic Operators
+    2. Assignment Operators
+    3. Comparison Operators
+    4. Logical Operators
+    5. Identity Operators
+    6. Membership Operators
+    7. Bitwise Operators
