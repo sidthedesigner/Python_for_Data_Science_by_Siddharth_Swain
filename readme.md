@@ -300,3 +300,15 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 9. Nested If
 
 10. Pass Statement
+
+## 013_While Loops
+
+1. Loops
+
+2. While Loop
+
+3. Break Statement
+
+4. Continue Statement
+
+5. Else Statement
