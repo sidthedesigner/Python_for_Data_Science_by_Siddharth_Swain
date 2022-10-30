@@ -312,3 +312,21 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 4. Continue Statement
 
 5. Else Statement
+
+## 014_For Loops
+
+1. For Loops
+
+2. Looping Through a String
+
+3. Break Statement
+
+4. Continue Statement
+
+5. Range Function
+
+6. Else Statement
+
+7. Nested Loop
+
+8. Pass Statement
