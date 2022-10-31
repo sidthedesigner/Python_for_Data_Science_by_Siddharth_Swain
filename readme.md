@@ -330,3 +330,36 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 7. Nested Loop
 
 8. Pass Statement
+
+## 015_Strings
+
+1. Strings
+    1. Introduction
+    2. Assigning String to a Variable
+    3. Multiline Strings
+    4. Strings are Arrays
+    5. Looping Through a String
+    6. String Length
+    7. Checking String
+    8. Checking if NOT
+
+2. Slicing Strings
+    1. Slicing
+    2. From the Start
+    3. To the End
+    4. Negative Indexing
+
+3. Modifying Strings
+    1. Upper Case
+    2. Lower Case
+    3. Removing Whitespace
+    4. Replacing String
+    5. Splitting String
+
+4. String Concatenation
+
+5. String Format
+
+6. Escape Character
+
+7. String Methods
