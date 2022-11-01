@@ -363,3 +363,61 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 6. Escape Character
 
 7. String Methods
+
+## 016_Lists
+
+1. Lists
+    1. Introduction
+    2. List Items
+    3. Ordered
+    4. Changeable
+    5. Allowing Duplicates
+    6. List Length
+    7. List Items - Data Types
+    8. type()
+    9. The list() Constructor
+    10. Python Collections (Arrays)
+
+2. Accessing List Items
+    1. Accessing Items
+         1. Negative Indexing
+         2. Range of Indexes
+         3. Range of Negative Indexes
+    2. Checking if Item Exists
+
+3. Changing List Items
+    1. Changing Item Value
+    2. Changing a Range of Item Values
+    3. Inserting Items
+
+4. Adding List Items
+    1. Appending Items
+    2. Inserting Items
+    3. Extending List
+    4. Adding Any Iterable
+
+5. Removing List Items
+    1. Removing Specified Item
+    2. Removing Specified Index
+    3. Clearing the List
+
+6. Looping Lists
+    1. Looping Through a List
+    2. Looping Through the Index Numbers
+    3. Using a While Loop
+    4. Looping Using List Comprehension
+
+7. List Comprehension
+
+8. Sorting Lists
+    1. Sorting List Alphanumerically
+    2. Sorting in Descending Order
+    3. Customizing Sort Function
+    4. Case Insensitive Sort
+    5. Reversing Order
+
+9. Copying Lists
+
+10. Joining Two Lists
+
+11. List Methods
