@@ -421,3 +421,44 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 10. Joining Two Lists
 
 11. List Methods
+
+## 017_Tuples
+
+1. Tuples
+    1. Introduction
+    2. Tuple Items
+    3. Ordered
+    4. Unchangeable
+    5. Allowing Duplicates
+    6. Tuple Length
+    7. Creating Tuple With One Item
+    8. Tuple Items - Data Types
+    9. type()
+    10. The tuple() Constructor
+
+2. Accessing Tuples
+    1. Accessing Tuple Items
+    2. Negative Indexing
+    3. Range of Indexes
+    4. Range of Negative Indexes
+    5. Checking if Item Exists
+
+3. Updating Tuples
+    1. Changing Tuple Values
+    2. Adding Items
+    3. Removing Items
+
+4. Unpacking Tuples
+    1. Unpacking a Tuple
+    2. Using Asterisk*
+
+5. Looping Tuples
+    1. Looping Through a Tuple
+    2. Looping Through the Index Numbers
+    3. Using a While Loop
+
+6. Joining Tuples
+    1. Joining Two Tuples
+    2. Multiplying Tuples
+
+7. Tuple Methods
