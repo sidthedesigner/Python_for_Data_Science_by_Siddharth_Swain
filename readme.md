@@ -495,3 +495,40 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     3. Keeping All, But NOT the Duplicates
 
 7. Set Methods
+
+## 019_Dictionaries
+
+1. Dictionaries
+    1. Introduction 
+    2. Dictionary Items
+    3. Ordered or Unordered?
+    4. Changeable
+    5. Duplicates Not Allowed
+    6. Dictionary Length
+    7. Dictionary Items - Data Types
+    8. type()
+
+2. Accessing Dictionary Items
+    1. Accessing Items
+    2. Getting Keys
+    3. Getting Values
+    4. Getting Items
+    5. Checking if Key Exists
+
+3. Changing Dictionary Items
+    1. Changing Values
+    2. Updating Dictionary
+
+4. Adding Dictionary Items
+    1. Adding Items
+    2. Updating Dictionary
+
+5. Removing Dictionary Items
+
+6. Looping Dictionaries
+
+7. Copying Dictionaries
+
+8. Nested Dictionaries
+
+9. Dictionary Methods
