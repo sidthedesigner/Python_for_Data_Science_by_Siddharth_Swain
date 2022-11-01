@@ -462,3 +462,36 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     2. Multiplying Tuples
 
 7. Tuple Methods
+
+## 018_Sets
+
+1. Sets
+    1. Introduction
+    2. Set Items
+    3. Unordered
+    4. Unchangeable
+    5. Duplicates Not Allowed
+    6. Getting the Length of a Set
+    7. Set Items - Data Types
+    8. type()
+    9. The set() Constructor
+
+2. Accessing Set Items
+    1. Accessing Items
+    2. Changing Items
+
+3. Adding Set Items
+    1. Adding Items
+    2. Adding Sets
+    3. Adding Any Iterable
+
+4. Removing Set Items
+
+5. Looping Set Items
+
+6. Joining Sets
+    1. Joining Two Sets
+    2. Keeping ONLY the Duplicates
+    3. Keeping All, But NOT the Duplicates
+
+7. Set Methods
