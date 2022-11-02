@@ -532,3 +532,43 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 8. Nested Dictionaries
 
 9. Dictionary Methods
+
+## 020_Functions
+
+1. Functions
+    1. Creating a Function
+    2. Calling a Function
+    3. Arguments
+    4. Parameters or Arguments?
+    5. Number of Arguments
+    6. Arbitrary Arguments
+    7. Keyword Arguments
+    8. Arbitrary Keyword Arguments
+    9. Default Parameter Value
+    10. Passing a List as an Argument
+    11. Returning Values
+    12. Pass Statement
+    13. Recursion
+         1. Advantages
+         2. Disadvantages
+
+2. Underscore in Python
+    1. Single Underscore
+    2. Double Underscore
+
+3. Lambda Functions
+    1. Introduction
+    2. Use
+
+4. Docstring
+
+5. Doc Attribute
+
+6. Iterable and Iterator
+
+7. Generators
+    1. Generator Function
+    2. Generator Object
+    3. Applications
+
+8. Id Function
