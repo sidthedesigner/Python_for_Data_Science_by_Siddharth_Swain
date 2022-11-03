@@ -376,7 +376,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     7. List Items - Data Types
     8. type()
     9. The list() Constructor
-    10. Python Collections (Arrays)
+    10. Python Collections
 
 2. Accessing List Items
     1. Accessing Items
@@ -552,7 +552,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
          1. Advantages
          2. Disadvantages
 
-2. Underscore in Python
+2. Underscore
     1. Single Underscore
     2. Double Underscore
 
