@@ -572,3 +572,29 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     3. Applications
 
 8. Id Function
+
+## 021_File Handling 
+
+1. File Handling
+
+2. File Opening
+    1. Opening a File on the Server
+    2. Reading Only Parts of the File
+    3. Reading Lines
+    4. Closing Files
+
+3. File Writing
+    1. Writing to an Existing File
+    2. Creating a New File
+
+4. File Deleting
+    1. Deleting a File
+    2. Checking if File Exists
+    3. Deleting Folder
+
+5. OS Module
+    1. Getting Current Working Directory
+    2. Creating a Directory
+    3. Changing the Current Working Directory
+    4. Removing a Directory
+    5. Listing Files and Sub-Directories 
