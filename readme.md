@@ -632,3 +632,18 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     6. Use the RotatingFileHandler Class
 
 13. Conclusion
+
+## 023_Debugger
+
+1. Python Debugger
+    1. Pdb Module
+    2. Starting Debugger
+    3. Checking Variables on the Stack
+    4. Adding Breakpoints
+    5. Managing Breakpoints
+
+2. PyCharm Debugger
+    1. Breakpoints
+    2. Attaching To Local Processes
+    3. Python Interpreter With The Loaded Environment
+    4. Conclusion
