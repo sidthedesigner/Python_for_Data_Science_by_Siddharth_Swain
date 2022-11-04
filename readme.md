@@ -598,3 +598,37 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     3. Changing the Current Working Directory
     4. Removing a Directory
     5. Listing Files and Sub-Directories 
+
+## 022_Logging
+
+1. Introduction
+
+2. Why Printing is Not a Good Option?
+
+3. Basic Example
+
+4. Five Levels of Logging
+
+5. Logging to File Instead of Console
+
+6. Changing The Logging Format
+
+7. Why Working with the Root Logger for All Modules Isn’t the Best Idea?
+
+8. Creating New Logger
+
+9. Setting Up a File Handler and Formatter
+
+10. Including Traceback Information in Logged Messages 
+
+11. Stream Handler
+
+12. Best Practices
+    1. Don’t Reinvent the Wheel
+    2. Use the Python Standard Logging Module
+    3. Use the Correct Levels When Logging
+    4. Include a Timestamp for Each Log Entry
+    5. Adopt the ISO-8601 Format for Timestamps
+    6. Use the RotatingFileHandler Class
+
+13. Conclusion
