@@ -696,3 +696,45 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     1. Creating Custom Exceptions
     2. Example: User-Defined Exception
     3. Customizing Exception Classes
+
+## 025_OOPS
+
+1. Introduction
+    1. Object Oriented Programming
+    2. Class
+    3. Object
+    4. Methods
+    5. Inheritance
+    6. Encapsulation
+    7. Polymorphism
+    8. Key Points
+
+2. Object Oriented Programming Basics
+
+    1. Classes and Objects
+    2. Defining a Class
+    3. Creating an Object
+    4. Constructors
+    5. Deleting Attributes and Objects
+
+3. Object Oriented Programming Advanced
+
+    1. Access Modifiers
+        1. Public Access Modifier
+        2. Protected Access Modifier
+        3. Private Access Modifier
+
+    2. Inheritance
+        1. Inheritance Syntax
+        2. Multiple Inheritance
+        3. Multilevel Inheritance
+
+    3. Method Overriding
+
+    4. Method Resolution Order
+
+    5. Encapsulation
+        1. Protected Members
+        2. Private Members
+
+    6. Operator Overloading
