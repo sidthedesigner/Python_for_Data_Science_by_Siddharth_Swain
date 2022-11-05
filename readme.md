@@ -647,3 +647,31 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     2. Attaching To Local Processes
     3. Python Interpreter With The Loaded Environment
     4. Conclusion
+
+## 024_Modules
+
+1. Introduction
+
+2. Module vs Package vs Library
+
+3. Creating a Module
+
+4. Using a Module
+
+5. Variables in Module
+
+6. Naming a Module
+
+7. Re-Naming a Module
+
+8. Built-in Modules
+
+9. Using the dir() Function
+
+10. Importing From Module
+
+11. Importing Module from Different Directory
+    1. Importing Module
+    2. Directory Structure
+    3. Using sys Module
+    4. Using PYTHONPATH Environment Variable
