@@ -9,6 +9,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 001_Introduction
 
  1. Computer Basics
+ 
      1. What is a Computer?
      2. Input Process Output Model
      3. Parts of a Computer
@@ -17,6 +18,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
      6. Limitations
  
  2. Software Concepts
+ 
      1. Introduction
      2. System Software
          1. Operating System
@@ -27,6 +29,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
      4. Utility Software
 
 3. Programming Language
+
      1. Introduction
      2. How It Works?
      3. Functions
@@ -35,6 +38,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
      6. Top Programming Languages
 
 4. Python
+
      1. Introduction
      2. Popularity
      3. Comparison to Other Languages
@@ -63,11 +67,13 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 002_Getting Started
 
 1. Getting Started
+
     1. Installing Python
     2. Checking Version
     3. Zen of Python
 
 2. Anaconda
+
     1. Introduction
     2. Why Anaconda for Data Science?
     3. Installing Anaconda Individual Edition
@@ -78,6 +84,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     6. Anaconda Navigator
 
 3. Jupyter Notebook
+
     1. Introduction
     2. Advantages
     3. Disadvantages
@@ -110,6 +117,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     18. Six Easy Ways to Run Jupyter Notebook in the Cloud
     
 4. Google Colab
+
     1. Introduction
     2. Is it Free?
     3. Advantages
@@ -143,6 +151,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 4. Comments
 
 5. Built-in Functions
+
     1. Help Function
     2. Print Function
 
@@ -159,8 +168,10 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 2. Examples
 
 3. Types
+
     1. Single-Line Comments
     2. Multi-Line Comments
+    
          1. Using Multiple Hashtags (#)
          2. Using String Literals
     3. Docstring Comments
@@ -170,6 +181,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 005_Variables
 
 1. Variables
+
     1. Introduction
     2. Declaration
     3. Assignment and Memory Location
@@ -181,13 +193,16 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     9. Case-Sensitivity
 
 2. Variable Names
+
     1. Rules
     2. Multi Words Variable Names
+    
          1. Camel Case
          2. Pascal Case
          3. Snake Case
    
 3. Assigning Multiple Values to Variables
+
     1. Many Values to Multiple Variables
     2. One Value to Multiple Variables
     3. Unpacking a Collection
@@ -205,6 +220,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 2. Numeric
 
 3. Sequence Types
+
     1. String
     2. List
     3. Tuple
@@ -224,6 +240,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 007_Numbers
 
 1. Numbers
+
     1. Int
     2. Float
     3. Complex
@@ -263,6 +280,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 1. Operators
 
 2. Types 
+
     1. Arithmetic Operators
     2. Assignment Operators
     3. Comparison Operators
@@ -334,6 +352,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 015_Strings
 
 1. Strings
+
     1. Introduction
     2. Assigning String to a Variable
     3. Multiline Strings
@@ -344,12 +363,14 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     8. Checking if NOT
 
 2. Slicing Strings
+
     1. Slicing
     2. From the Start
     3. To the End
     4. Negative Indexing
 
 3. Modifying Strings
+
     1. Upper Case
     2. Lower Case
     3. Removing Whitespace
@@ -367,6 +388,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 016_Lists
 
 1. Lists
+
     1. Introduction
     2. List Items
     3. Ordered
@@ -379,29 +401,36 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     10. Python Collections
 
 2. Accessing List Items
+
     1. Accessing Items
+    
          1. Negative Indexing
          2. Range of Indexes
          3. Range of Negative Indexes
+         
     2. Checking if Item Exists
 
 3. Changing List Items
+
     1. Changing Item Value
     2. Changing a Range of Item Values
     3. Inserting Items
 
 4. Adding List Items
+
     1. Appending Items
     2. Inserting Items
     3. Extending List
     4. Adding Any Iterable
 
 5. Removing List Items
+
     1. Removing Specified Item
     2. Removing Specified Index
     3. Clearing the List
 
 6. Looping Lists
+
     1. Looping Through a List
     2. Looping Through the Index Numbers
     3. Using a While Loop
@@ -410,6 +439,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 7. List Comprehension
 
 8. Sorting Lists
+
     1. Sorting List Alphanumerically
     2. Sorting in Descending Order
     3. Customizing Sort Function
@@ -425,6 +455,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 017_Tuples
 
 1. Tuples
+
     1. Introduction
     2. Tuple Items
     3. Ordered
@@ -437,6 +468,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     10. The tuple() Constructor
 
 2. Accessing Tuples
+
     1. Accessing Tuple Items
     2. Negative Indexing
     3. Range of Indexes
@@ -444,20 +476,24 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     5. Checking if Item Exists
 
 3. Updating Tuples
+
     1. Changing Tuple Values
     2. Adding Items
     3. Removing Items
 
 4. Unpacking Tuples
+
     1. Unpacking a Tuple
     2. Using Asterisk*
 
 5. Looping Tuples
+
     1. Looping Through a Tuple
     2. Looping Through the Index Numbers
     3. Using a While Loop
 
 6. Joining Tuples
+
     1. Joining Two Tuples
     2. Multiplying Tuples
 
@@ -466,6 +502,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 018_Sets
 
 1. Sets
+
     1. Introduction
     2. Set Items
     3. Unordered
@@ -477,10 +514,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     9. The set() Constructor
 
 2. Accessing Set Items
+
     1. Accessing Items
     2. Changing Items
 
 3. Adding Set Items
+
     1. Adding Items
     2. Adding Sets
     3. Adding Any Iterable
@@ -490,6 +529,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 5. Looping Set Items
 
 6. Joining Sets
+
     1. Joining Two Sets
     2. Keeping ONLY the Duplicates
     3. Keeping All, But NOT the Duplicates
@@ -499,6 +539,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 019_Dictionaries
 
 1. Dictionaries
+
     1. Introduction 
     2. Dictionary Items
     3. Ordered or Unordered?
@@ -509,6 +550,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     8. type()
 
 2. Accessing Dictionary Items
+
     1. Accessing Items
     2. Getting Keys
     3. Getting Values
@@ -516,10 +558,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     5. Checking if Key Exists
 
 3. Changing Dictionary Items
+
     1. Changing Values
     2. Updating Dictionary
 
 4. Adding Dictionary Items
+
     1. Adding Items
     2. Updating Dictionary
 
@@ -536,6 +580,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 020_Functions
 
 1. Functions
+
     1. Creating a Function
     2. Calling a Function
     3. Arguments
@@ -553,10 +598,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
          2. Disadvantages
 
 2. Underscore
+
     1. Single Underscore
     2. Double Underscore
 
 3. Lambda Functions
+
     1. Introduction
     2. Uses
 
@@ -567,6 +614,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 6. Iterable and Iterator
 
 7. Generators
+
     1. Generator Function
     2. Generator Object
     3. Applications
@@ -578,21 +626,25 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 1. File Handling
 
 2. File Opening
+
     1. Opening a File on the Server
     2. Reading Only Parts of the File
     3. Reading Lines
     4. Closing Files
 
 3. File Writing
+
     1. Writing to an Existing File
     2. Creating a New File
 
 4. File Deleting
+
     1. Deleting a File
     2. Checking if File Exists
     3. Deleting Folder
 
 5. OS Module
+
     1. Getting Current Working Directory
     2. Creating a Directory
     3. Changing the Current Working Directory
@@ -624,6 +676,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 11. Stream Handler
 
 12. Best Practices
+
     1. Don’t Reinvent the Wheel
     2. Use the Python Standard Logging Module
     3. Use the Correct Levels When Logging
@@ -636,6 +689,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 023_Debugger
 
 1. Python Debugger
+
     1. Pdb Module
     2. Starting Debugger
     3. Checking Variables on the Stack
@@ -643,6 +697,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     5. Managing Breakpoints
 
 2. PyCharm Debugger
+
     1. Breakpoints
     2. Attaching To Local Processes
     3. Python Interpreter With The Loaded Environment
@@ -671,6 +726,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 10. Importing From Module
 
 11. Importing Module from Different Directory
+
     1. Importing Module
     2. Directory Structure
     3. Using sys Module
@@ -693,13 +749,15 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 7. Raising Exception
 
 8. Custom Exceptions
+
     1. Creating Custom Exceptions
     2. Example: User-Defined Exception
     3. Customizing Exception Classes
 
-## 025_OOPS
+## 026_OOPS
 
 1. Introduction
+
     1. Object Oriented Programming
     2. Class
     3. Object
@@ -709,7 +767,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     7. Polymorphism
     8. Key Points
 
-2. Object Oriented Programming Basics
+2. Basic Concepts
 
     1. Classes and Objects
     2. Defining a Class
@@ -717,7 +775,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     4. Constructors
     5. Deleting Attributes and Objects
 
-3. Object Oriented Programming Advanced
+3. Advanced Concepts
 
     1. Access Modifiers
         1. Public Access Modifier
