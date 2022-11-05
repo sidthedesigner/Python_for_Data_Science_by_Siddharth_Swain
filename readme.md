@@ -754,7 +754,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     2. Example: User-Defined Exception
     3. Customizing Exception Classes
 
-## 026_OOPS
+## 026_Object Oriented Programming
 
 1. Introduction
 
