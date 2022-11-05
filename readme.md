@@ -675,3 +675,24 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     2. Directory Structure
     3. Using sys Module
     4. Using PYTHONPATH Environment Variable
+
+## 025_Error Handling
+
+1. Introduction
+
+2. Syntax Error vs Exceptions
+
+3. Try and Except Statement – Catching Exceptions
+
+4. Catching Specific Exception
+
+5. Try with Else Clause
+
+6. Finally Keyword
+
+7. Raising Exception
+
+8. Custom Exceptions
+    1. Creating Custom Exceptions
+    2. Example: User-Defined Exception
+    3. Customizing Exception Classes
