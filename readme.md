@@ -1051,3 +1051,53 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     1. SimpleStatement
     2. BatchStatement
     3. PreparedStatement
+
+## 030_Application Programming Interface
+
+1. Introduction
+
+2. Examples
+
+3. Why is it Needed?
+
+4. Features
+
+5. Types
+
+6. Communication Level
+
+7. Web APIs
+
+8. Testing Tools
+
+9. Applications
+
+10. Summary
+
+11. Simple Object Access Protocol (SOAP API)
+
+12. Representational State Transfer (REST API)
+
+13. SOAP API vs REST API
+
+14. Request Methods
+
+    1. HTTP
+    2. HTTP Methods
+    3. GET Method
+    4. POST Method
+    5. PUT Method
+    6. HEAD Method
+    7. DELETE Method
+    8. OPTIONS Method
+
+15. URLs
+
+    1. Introduction
+    2. Basics: Anatomy of URL
+    3. Scheme
+    4. Authority
+    5. Path to Resource
+    6. Parameters
+    7. Anchor
+    8. Using Them
