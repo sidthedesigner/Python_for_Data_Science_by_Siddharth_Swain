@@ -1101,3 +1101,47 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     6. Parameters
     7. Anchor
     8. Using Them
+
+## 031_Flask
+
+1. Introduction
+
+2. Uses
+
+3. Flask vs Django (Basic Differences)
+
+4. Creating A Flask Application
+
+## 032_Django
+
+1. Introduction
+
+2. How are Django and Python Related?
+
+3. Features
+
+4. Users
+
+5. Framework
+
+6. Model
+
+7. View
+
+8. Template
+
+9. Django vs Flask (Detailed Differences)
+
+10. Summary
+
+11. Creating & Running a Project
+
+    1. Creating the First Project
+    2. Running the Test Server
+    3. Localhost:8000
+
+12. Hello World Application
+
+    1. Creating a Django Project
+    2. Creating a Django App
+    3. Creating a Web App
