@@ -778,11 +778,13 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 3. Advanced Concepts
 
     1. Access Modifiers
+        
         1. Public Access Modifier
         2. Protected Access Modifier
         3. Private Access Modifier
 
     2. Inheritance
+        
         1. Inheritance Syntax
         2. Multiple Inheritance
         3. Multilevel Inheritance
@@ -792,6 +794,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     4. Method Resolution Order
 
     5. Encapsulation
+        
         1. Protected Members
         2. Private Members
 
@@ -800,56 +803,68 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 ## 027_MySQL
 
 1. Getting Started
+    
     1. MySQL Database
     2. Installing MySQL Driver
     3. Testing MySQL Connector
     4. Creating Connection
 
 2. Creating Database
+    
     1. Create Database Statement
     2. Checking if Database Exists
 
 3. Creating Table
+    
     1. Create Table Statement
     2. Checking if Table Exists
     3. Primary Key
 
 4. Inserting Into Table
+    
     1. Insert Into Statement
     2. Inserting Multiple Rows
     3. Getting Inserted ID
 
 5. Selecting From
+    
     1. Select Statement
     2. Selecting Columns
     3. Using the fetchone() Method
 
 6. Where
+    
     1. Selecting With a Filter
     2. Wildcard Characters
     3. Preventing SQL Injection
 
 7. Ordering By
+    
     1. Sorting the Result
     2. ORDER BY DESC
 
 8. Deleting From
+    
     1. Deleting Record
     2. Preventing SQL Injection
 
 9. Dropping Table
+    
     1. Deleting a Table
     2. Dropping Only if Exist
 
 10. Updating Table
+    
     1. Update Statement
     2. Preventing SQL Injection
 
 11. Limitting
+    
     1. Limitting the Result
     2. Starting From Another Position
 
 12. Joining
+    
     1. Joining Two or More Tables
     2. LEFT JOIN
     3. RIGHT JOIN
@@ -912,3 +927,127 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     2. Updating Many
 
 11. Limitting the Result
+
+## 029_Cassandra
+
+1. Introduction
+
+    1. NoSQLDatabase
+    2. NoSQL vs. Relational Database
+    3. What is Apache Cassandra?
+    4. Features
+    5. History
+
+2. Architecture
+
+    1. Introduction
+    2. Data Replication
+    3. Components
+    4. Cassandra Query Language
+
+3. Data Model
+
+    1. Cluster
+    2. Keyspace
+    3. Column Family
+    4. Column
+    5. SuperColumn
+    6. Data Models of Cassandra and RDBMS
+
+4. Cqlsh
+
+    1. Starting Cqlsh
+    2. Cqlsh Commands
+    3. Documented Shell Commands
+    4. CQL Data Definition Commands
+    5. CQL Data Manipulation Commands
+    6. CQL Clauses
+
+5. Shell Commands
+
+    1. Help
+    2. Capture
+    3. Consistency
+    4. Copy
+    5. Describe
+    6. Describe Type
+    7. Describe Types
+    8. Expand
+    9. Exit
+    10. Show
+    11. Source
+
+6. Create Keyspace
+
+    1. Creating a Keyspace using Cqlsh
+    2. Replication
+    3. Durable_writes
+    4. Using a Keyspace
+
+7. Altering Keyspace
+
+    1. Altering a KeySpace
+    2. Replication
+    3. Durable_writes
+
+8. Dropping Keyspace
+
+9. Creating Table
+
+    1. Creating a Table
+    2. Defining a Column
+    3. Primary Key
+
+10. Altering Table
+
+    1. Altering a Table
+    2. Adding a Column
+    3. Dropping a Column
+
+11. Dropping Table
+
+12. Truncating Table
+
+13. Creating Index
+
+14. Dropping Index
+
+15. Batch Statements
+
+16. Creating Data
+
+17. Updating Data
+
+18. Reading Data
+
+    1. Reading Data using Select Clause
+    2. Reading Required Columns
+    3. Where Clause
+
+19. Deleting Data
+
+    1. Deleting Data from a Table
+    2. Deleting an Entire Row
+
+20. CQL Datatypes
+
+    1. Collection Types
+    2. User-Defined Datatypes
+
+21. CQL Collections
+
+    1. List
+    2. SET
+    3. MAP
+
+22. CQL User Defined Datatypes
+
+    1. Creating a User-defined Data Type
+    2. Altering a User-defined Data Type
+    3. Deleting a User-defined Data Type
+
+23. Cassandra Driver
+
+    1. SimpleStatement
+    2. BatchStatement
+    3. PreparedStatement
