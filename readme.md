@@ -907,7 +907,8 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 9. Deleting Collection
 
 10. Updating
-        1. Updating Collection
-        2. Updating Many
+    
+    1. Updating Collection
+    2. Updating Many
 
 11. Limitting the Result
