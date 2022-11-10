@@ -686,7 +686,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 13. Conclusion
 
-## 023_Debugger
+## 023_Debugging
 
 1. Python Debugger
 
