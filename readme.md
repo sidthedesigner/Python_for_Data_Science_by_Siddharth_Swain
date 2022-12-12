@@ -1257,3 +1257,27 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     1. Pandas DataFrame
     2. Spark DataFrame
     3. Which One to Choose?
+
+## 034_Pandas Exercises (Getting & Knowing Your Data 1)
+
+1. Go to https://www.kaggle.com/openfoodfacts/world-food-facts/data.
+
+2. Download the dataset to your computer and unzip it.
+
+3. Use the tsv file and assign it to a dataframe called food.
+
+4. See the first 5 entries.
+
+5. What is the number of observations in the dataset?
+
+6. What is the number of columns in the dataset?
+
+7. Print the name of all the columns.
+
+8. What is the name of 105th column?
+
+9. What is the type of the observations of the 105th column?
+
+10. How is the dataset indexed?
+
+11. What is the product name of the 19th observation?
