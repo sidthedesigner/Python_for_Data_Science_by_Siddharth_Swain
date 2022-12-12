@@ -1355,3 +1355,23 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 17. What is the mean age of users?
 
 18. What is the age with least occurrence?
+
+## 037_Pandas Exercises (Filtering & Sorting Data 1)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called chipo.
+
+4. How many products cost more than $10.00?
+
+5. What is the price of each item?
+
+6. Sort by the name of the item.
+
+7. What was the quantity of the most expensive item ordered?
+
+8. How many times was a Veggie Salad Bowl ordered?
+
+9. How many times did someone order more than one Canned Soda?
