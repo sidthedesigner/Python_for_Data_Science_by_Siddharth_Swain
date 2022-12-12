@@ -1281,3 +1281,39 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 10. How is the dataset indexed?
 
 11. What is the product name of the 19th observation?
+
+## 035_Pandas Exercises (Getting & Knowing Your Data 2)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called chipo.
+
+4. See the first 10 entries.
+
+5. What is the number of observations in the dataset?
+
+6. What is the number of columns in the dataset?
+
+7. Print the name of all the columns.
+
+8. How is the dataset indexed?
+
+9. Which was the most-ordered item?
+
+10. For the most-ordered item, how many items were ordered?
+
+11. What was the most ordered item in the choice_description column?
+
+12. How many items were orderd in total?
+
+13. Turn the item price into a float.
+
+14. How much was the revenue for the period in the dataset?
+
+15. How many orders were made in the period?
+
+16. What is the average revenue amount per order?
+
+17. How many different items are sold?
