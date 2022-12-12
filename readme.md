@@ -1317,3 +1317,41 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 16. What is the average revenue amount per order?
 
 17. How many different items are sold?
+
+## 036_Pandas Exercises (Getting & Knowing Your Data 3)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called users and use the 'user_id' as index.
+
+4. See the first 25 entries.
+
+5. See the last 10 entries.
+
+6. What is the number of observations in the dataset?
+
+7. What is the number of columns in the dataset?
+
+8. Print the name of all the columns.
+
+9. How is the dataset indexed?
+
+10. What is the data type of each column?
+
+11. Print only the occupation column.
+
+12. How many different occupations are in this dataset?
+
+13. What is the most frequent occupation?
+
+14. Summarize the DataFrame.
+
+15. Summarize all the columns.
+
+16. Summarize only the occupation column.
+
+17. What is the mean age of users?
+
+18. What is the age with least occurrence?
