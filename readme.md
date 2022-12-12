@@ -1405,3 +1405,41 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 13. Select all columns except the last 3.
 
 14. Present only the Shooting Accuracy from England, Italy and Russia.
+
+## 039_Pandas Exercises (Filtering & Sorting Data 3)
+
+1. Import the necessary libraries.
+
+2. This is the data given as a dictionary.
+
+3. Create a dataframe and assign it to a variable called army.
+
+4. Set the 'origin' colum as the index of the dataframe.
+
+5. Print only the column veterans.
+
+6. Print the columns 'veterans' and 'deaths'.
+
+7. Print the name of all the columns.
+
+8. Select the 'deaths', 'size' and 'deserters' columns from Maine and Alaska.
+
+9. Select the rows 3 to 7 and the columns 3 to 6.
+
+10. Select every row after the fourth row and all columns.
+
+11. Select every row up to the 4th row and all columns.
+
+12. Select the 3rd column up to the 7th column.
+
+13. Select rows where df.deaths is greater than 50.
+
+14. Select rows where df.deaths is greater than 500 or less than 50.
+
+15. Select all the regiments not named "Dragoons".
+
+16. Select the rows called Texas and Arizona.
+
+17. Select the third cell in the row named Arizona.
+
+18. Select the third cell down in the column named deaths.
