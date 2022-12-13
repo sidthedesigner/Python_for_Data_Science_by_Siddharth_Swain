@@ -1599,3 +1599,63 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 6. Oops, it seems it is going only until index 99. Is it true?
 
 7. Reindex the DataFrame so it goes from 0 to 299.
+
+## 048_Pandas Exercises (Stats 1)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called baby_names.
+
+4. See the first 10 entries.
+
+5. Delete the column 'Unnamed: 0' and 'Id'.
+
+6. Are there more male or female names in the dataset?
+
+7. Group the dataset by name and assign to names.
+
+8. How many different names exist in the dataset?
+
+9. What is the name with most occurrences?
+
+10. How many different names have the least occurrences?
+
+11. What is the median name occurrence?
+
+12. What is the standard deviation of names?
+
+13. Get a summary with the mean, min, max, std and quartiles.
+
+## 049_Pandas Exercises (Stats 2)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called data and replace the first 3 columns by a proper datetime index.
+
+4. Year 2061? Do we really have data from this year? Create a function to fix it and apply it.
+
+5. Set the right dates as the index. Pay attention at the data type, it should be datetime64[ns].
+
+6. Compute how many values are missing for each location over the entire record.
+
+7. Compute how many non-missing values there are in total.
+
+8. Calculate the mean windspeeds of the windspeeds over all the locations and all the times.
+
+9. Create a DataFrame called loc_stats and calculate the min, max and mean windspeeds and standard deviations of the windspeeds at each location over all the days.
+
+10. Create a DataFrame called day_stats and calculate the min, max and mean windspeed and standard deviations of the windspeeds across all the locations at each day.
+
+11. Find the average windspeed in January for each location.
+
+12. Downsample the record to a yearly frequency for each location.
+
+13. Downsample the record to a monthly frequency for each location.
+
+14. Downsample the record to a weekly frequency for each location.
+
+15. Calculate the min, max and mean windspeeds and standard deviations of the windspeeds across all locations for each week (assume that the first week starts on January 2 1961) for the first 52 weeks.
