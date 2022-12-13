@@ -1443,3 +1443,63 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 17. Select the third cell in the row named Arizona.
 
 18. Select the third cell down in the column named deaths.
+
+## 040_Pandas Exercises (Group By 1)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called drinks.
+
+4. Which continent drinks more beer on average?
+
+5. For each continent print the statistics for wine consumption.
+
+6. Print the mean alcohol consumption per continent for every column.
+
+7. Print the median alcohol consumption per continent for every column.
+
+8. Print the mean, min and max values for spirit consumption.
+
+## 041_Pandas Exercises (Group By 2)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called users.
+
+4. Discover what is the mean age per occupation.
+
+5. Discover the Male ratio per occupation and sort it from the most to the least.
+
+6. For each occupation, calculate the minimum and maximum ages.
+
+7. For each combination of occupation and gender, calculate the mean age.
+
+8. For each occupation present the percentage of women and men.
+
+## 042_Pandas Exercises (Group By 3)
+
+1. Import the necessary libraries.
+
+2. Create the DataFrame with the following values.
+
+3. Assign it to a variable called regiment.
+
+4. What is the mean preTestScore from the regiment Nighthawks?
+
+5. Present general statistics by company.
+
+6. What is the mean of each company's preTestScore?
+
+7. Present the mean preTestScores grouped by regiment and company.
+
+8. Present the mean preTestScores grouped by regiment and company without heirarchical indexing.
+
+9. Group the entire dataframe by regiment and company.
+
+10. What is the number of observations in each regiment and company.
+
+11. Iterate over a group and print the name and the whole data from the regiment.
