@@ -1659,3 +1659,89 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 14. Downsample the record to a weekly frequency for each location.
 
 15. Calculate the min, max and mean windspeeds and standard deviations of the windspeeds across all locations for each week (assume that the first week starts on January 2 1961) for the first 52 weeks.
+
+## 050_Pandas Exercises (Visualization 1)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable titanic.
+
+4. Set PassengerId as the index.
+
+5. Create a pie chart presenting the male/female proportion.
+
+6. Create a scatterplot with the Fare payed and the Age, differ the plot color by gender.
+
+7. How many people survived?
+
+8. Create a histogram with the Fare payed.
+
+## 051_Pandas Exercises (Visualization 2)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called tips.
+
+4. Delete the Unnamed 0 column.
+
+5. Plot the total_bill column histogram.
+
+6. Create a scatter plot presenting the relationship between total_bill and tip.
+
+7. Create one image with the relationship of total_bill, tip and size.
+
+8. Present the relationship between days and total_bill value.
+
+9. Create a scatter plot with the day as the y-axis and tip as the x-axis, differ the dots by sex.
+
+10. Create a box plot presenting the total_bill per day differetiation the time (Dinner or Lunch).
+
+11. Create two histograms of the tip value based for Dinner and Lunch. They must be side by side.
+
+12. Create two scatterplots graphs, one for Male and another for Female, presenting the total_bill value and tip relationship, differing by smoker or no smoker.
+
+## 052_Pandas Exercises (Visualization 3)
+
+1. Import the necessary libraries.
+
+2. Create the DataFrame it should look like below.
+
+3. Create a Scatterplot of preTestScore and postTestScore, with the size of each point determined by age.
+
+4. Create a Scatterplot of preTestScore and postTestScore.
+
+## 053_Pandas Exercises (Visualization 4)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called online_rt.
+
+4. Create a histogram with the 10 countries that have the most 'Quantity' ordered except UK.
+
+5. Exclude negative Quantity entries.
+
+6. Create a scatterplot with the Quantity per UnitPrice by CustomerID for the top 3 Countries (except UK).
+
+ 7. Investigate why the previous results look so uninformative.
+ 
+ 8. Plot a line chart showing revenue (y) per UnitPrice (x).
+ 
+ ## 054_Pandas Exercises (Visualization 5)
+ 
+ 1. Import the necessary libraries.
+ 
+ 2. Import the dataset from this address.
+ 
+ 3. Assign it to a variable called chipo.
+ 
+ 4. See the first 10 entries.
+ 
+ 5. Create a histogram of the top 5 items bought.
+ 
+ 6. Create a scatterplot with the number of items orderered per order price.
