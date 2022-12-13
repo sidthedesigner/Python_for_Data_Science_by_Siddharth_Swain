@@ -1503,3 +1503,45 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 10. What is the number of observations in each regiment and company.
 
 11. Iterate over a group and print the name and the whole data from the regiment.
+
+## 043_Pandas Exercises (Apply 1)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called df.
+
+4. For the purpose of this exercise slice the dataframe from 'school' until the 'guardian' column.
+
+5. Create a lambda function that will capitalize strings.
+
+6. Capitalize both Mjob and Fjob.
+
+7. Print the last elements of the data set.
+
+8. Did you notice the original dataframe is still lowercase? Why is that? Fix it and capitalize Mjob and Fjob.
+
+9. Create a function called majority that returns a boolean value to a new column called legal_drinker (Consider majority as older than 17 years old).
+
+10. Multiply every number of the dataset by 10.
+
+## 044_Pandas Exercises (Apply 2)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called crime.
+
+4. What is the type of the columns?
+
+5. Convert the type of the column Year to datetime64.
+
+6. Set the Year column as the index of the dataframe.
+
+7. Delete the Total column.
+
+8. Group the year by decades and sum the values.
+
+9. What is the most dangerous decade to live in the US?
