@@ -1444,7 +1444,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 18. Select the third cell down in the column named deaths.
 
-## 040_Pandas Exercises (Group By 1)
+## 040_Pandas Exercises (Grouping 1)
 
 1. Import the necessary libraries.
 
@@ -1462,7 +1462,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 8. Print the mean, min and max values for spirit consumption.
 
-## 041_Pandas Exercises (Group By 2)
+## 041_Pandas Exercises (Grouping 2)
 
 1. Import the necessary libraries.
 
@@ -1480,7 +1480,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 8. For each occupation present the percentage of women and men.
 
-## 042_Pandas Exercises (Group By 3)
+## 042_Pandas Exercises (Grouping 3)
 
 1. Import the necessary libraries.
 
