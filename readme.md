@@ -1545,3 +1545,57 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 8. Group the year by decades and sum the values.
 
 9. What is the most dangerous decade to live in the US?
+
+## 045_Pandas Exercises (Merge 1)
+
+1. Import the necessary libraries.
+
+2. Import the first dataset cars1 and cars2.
+
+3. Assign each to a to a variable called cars1 and cars2.
+
+4. Oops, it seems our first dataset has some unnamed blank columns, fix cars1.
+
+5. What is the number of observations in each dataset?
+
+6. Join cars1 and cars2 into a single DataFrame called cars.
+
+7. Oops, there is a column missing, called owners. Create a random number Series from 15,000 to 73,000.
+
+8. Add the column owners to cars.
+
+## 046_Pandas Exercises (Merge 2)
+
+1. Import the necessary libraries.
+
+2. Create the 3 DataFrames based on the following raw data.
+
+3. Assign each to a variable called data1, data2, data3.
+
+4. Join the two dataframes along rows and assign all_data.
+
+5. Join the two dataframes along columns and assing to all_data_col.
+
+6. Print data3.
+
+7. Merge all_data and data3 along the subject_id value.
+
+8. Merge only the data that has the same 'subject_id' on both data1 and data2.
+
+9. Merge all values in data1 and data2, with matching records from both sides where available.
+
+## 047_Pandas Exercises (Merge 3)
+
+1. Import the necessary libraries.
+
+2. Create 3 differents Series, each of length 100, as follows.
+
+3. Let's create a DataFrame by joinning the Series by column.
+
+4. Change the name of the columns to bedrs, bathrs, price_sqr_meter.
+
+5. Create a one column DataFrame with the values of the 3 Series and assign it to 'bigcolumn'.
+
+6. Oops, it seems it is going only until index 99. Is it true?
+
+7. Reindex the DataFrame so it goes from 0 to 299.
