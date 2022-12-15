@@ -1745,3 +1745,124 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
  5. Create a histogram of the top 5 items bought.
  
  6. Create a scatterplot with the number of items orderered per order price.
+
+## 055_Pandas Exercises (Creating Series & DataFrames)
+
+1. Import the necessary libraries.
+
+2. Create a data dictionary.
+
+3. Assign it to a variable called pokemon.
+
+4. Ops...it seems the DataFrame columns are in alphabetical order. Place the order of the columns as name, type, hp, evolution, pokedex.
+
+5. Add another column called place, and insert what you have in mind.
+
+6. Present the type of each column.
+
+## 056_Pandas Exercises (Time Series 1)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable apple.
+
+4. Check out the type of the columns.
+
+5. Transform the Date column as a datetime type.
+
+6. Set the date as the index.
+
+7. Is there any duplicate dates?
+
+8. Ops...it seems the index is from the most recent date. Make the first entry the oldest date.
+
+9. Get the last business day of each month.
+
+10. What is the difference in days between the first day and the oldest.
+
+11. How many months in the data we have?
+
+12. Plot the 'Adj Close' value. Set the size of the figure to 13.5 x 9 inches.
+
+## 057_Pandas Exercises (Time Series 2)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called df.
+
+4. What is the frequency of the dataset?
+
+5. Set the column Date as the index.
+
+6. What is the type of the index?
+
+7. Set the index to a DatetimeIndex type.
+
+8. Change the frequency to monthly, sum the values and assign it to monthly.
+
+9. You will notice that it filled the dataFrame with months that don't have any data with NaN. Let's drop these rows.
+
+10. Good, now we have the monthly data. Now change the frequency to year.
+
+## 058_Pandas Exercises (Deleting 1)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called iris.
+
+4. Create columns for the dataset.
+
+5. Is there any missing value in the dataframe?
+
+6. Lets set the values of the rows 10 to 29 of the column 'petal_length' to NaN.
+
+7. Good, now lets substitute the NaN values to 1.0.
+
+8. Now let's delete the column class.
+
+9. Set the first 3 rows as NaN.
+
+10. Delete the rows that have NaN.
+
+11. Reset the index so it begins with 0 again.
+
+## 059_Pandas Exercises (Deleting 2)
+
+1. Import the necessary libraries.
+
+2. Import the dataset from this address.
+
+3. Assign it to a variable called wine.
+
+4. Delete the first, fourth, seventh, nineth, eleventh, thirteenth and fourteenth columns.
+
+5. Assign the columns as below.
+
+6. Set the values of the first 3 rows from alcohol as NaN.
+
+7. Now set the value of the rows 3 and 4 of magnesium as NaN.
+
+8. Fill the value of NaN with the number 10 in alcohol and 100 in magnesium.
+
+9. Count the number of missing values.
+
+10. Create an array of 10 random numbers up until 10.
+
+11. Use random numbers you generated as an index and assign NaN value to each of cell.
+
+12. How many missing values do we have?
+
+13. Delete the rows that contain missing values.
+
+14. Print only the non-null values in alcohol.
+
+15. Reset the index, so it starts with 0 again.
+
+
+
