@@ -1864,5 +1864,239 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
 15. Reset the index, so it starts with 0 again.
 
+## 060_Numpy
 
+1. Tutorial
+    1. Introduction
+        1. What is it?
+        2. Why use it?
+        3. Why is it Faster than Lists?
+        4. Which Language is it written in?
+        5. Where is it's Codebase?
+
+    2. Getting Started
+        1. Installation
+        2. Importing NumPy
+        3. NumPy as np
+        4. Checking NumPy Version
+
+    3. Creating Arrays
+        1. Creating a NumPy ndarray Object
+        2. Dimensions in Arrays
+        3. 0-D Arrays
+        4. 1-D Arrays
+        5. 2-D Arrays
+        6. 3-D Arrays
+        7. Checking Number of Dimensions
+        8. Higher Dimensional Arrays
+
+    4. Array Indexing
+        1. Accessing Array Elements 
+        2. Accessing 2-D Arrays
+        3. Accessing 3-D Arrays
+        4. Negative Indexing
+
+    5. Array Slicing
+        1. Slicing Arrays
+        2. Negative Slicing
+        3. STEP
+        4. Slicing 2-D Arrays
+
+    6. Data Types
+        1. Data Types (Python)
+        2. Data Types (NumPy)
+        3. Checking Data Type of an Array
+        4. Creating Arrays with a Defined Data Type
+        5. What if a Value can not be Converted?
+        6. Converting Data Type of Existing Arrays
+
+    7. Array Copy vs View
+        1. Copy vs View
+        2. COPY
+        3. VIEW
+        4. Making Changes in the VIEW
+        5. Checking if Array Owns its Data
+
+    8. Array Shape
+        1. Shape of an Array
+        2. Getting the Shape of an Array
+        3. What does the Shape Tuple Represent?
+
+    9. Array Reshaping
+        1. Reshaping Arrays
+        2. Reshaping From 1-D to 2-D
+        3. Reshaping From 1-D to 3-D
+        4. Can We Reshape Into any Shape?
+        5. Returns Copy or View?
+        6. Unknown Dimension
+        7. Flattening the Arrays
+
+    10. Array Iterating
+        1. Iterating Arrays
+        2. Iterating 2-D Arrays
+        3. Iterating 3-D Arrays
+        4. Iterating Arrays using nditer()
+        5. Iterating on Each Scalar Element
+        6. Iterating Array with Different Data Types
+        7. Iterating with Different Step Size
+        8. Enumerated Iteration using ndenumerate()
+
+    11. Joining Array
+        1. Array Joining
+        2. Joining Arrays using Stack Functions
+        3. Stacking Along Rows
+        4. Stacking Along Columns
+        5. Stacking Along Height (Depth)
+
+    12. Splitting Array
+        1. Array Splitting
+        2. Splitting Into Arrays
+        3. Splitting 2-D Arrays
+
+    13. Searching Arrays
+        1. Array Searching
+        2. Searching Sorted
+        3. Searching From the Right Side
+        4. Multiple Values
+
+    14. Sorting Arrays
+        1. Array Sorting
+        2. Sorting a 2-D Array
+
+    15. Filtering Array
+        1. Array Filtering
+        2. Creating the Filter Array
+        3. Creating Filter Directly From Array
+
+2. Random
+    1. Introduction
+        1. What is it?
+        2. Pseudo Random and True Random
+        3. Can we make Truly Random Numbers?
+        4. Generate Random Number
+        5. Generate Random Float
+        6. Generate Random Array
+        7. Integers
+        8. Floats
+        9. Generate Random Number From Array
+    2. Data Distribution
+        1. What is it?
+        2. Random Distribution
+    3. Random Permutations
+        1. Random Permutations of Elements
+        2. Shuffling Arrays
+        3. Generating Permutation of Arrays
+    4. Seaborn
+        1. Visualizing Distributions With Seaborn
+        2. Installing Seaborn
+        3. Distplots
+        4. Importing Matplotlib
+        5. Importing Seaborn
+        6. Plotting a Distplot
+        7. Plotting a Distplot Without the Histogram
+     5. Normal (Gaussian) Distribution
+        1. Introduction
+        2. Visualization
+     6. Binomial Distribution
+        1. Introduction
+        2. Visualization
+        3. Difference Between Normal and Binomial Distribution
+     7. Poisson Distribution
+        1. Introduction
+        2. Visualization
+        3. Difference Between Normal and Poisson Distribution
+        4. Difference Between Poisson and Binomial Distribution
+     8. Uniform Distribution
+        1. Introduction
+        2. Visualization
+     9. Logistic Distribution
+        1. Introduction
+        2. Visualization
+        3. Difference Between Logistic and Normal Distribution
+     10. Multinomial Distribution
+     11. Exponential Distribution
+         1. Introduction
+         2. Visualization
+         3. Relation Between Poisson and Exponential Distribution
+     12. Chi Square Distribution
+         1. Introduction
+         2. Visualization
+     13. Rayleigh Distribution
+         1. Introduction
+         2. Visualization
+         3. Similarity Between Rayleigh and Chi Square Distribution
+     14. Pareto Distribution
+         1. Introduction
+         2. Visualization
+     15. Zipf Distribution
+         1. Introduction
+         2. Visualization
+
+3. ufuncs 
+    1. Introduction
+        1. What are ufuncs?
+        2. Why use ufuncs?
+        3. What is Vectorization?
+    2. Create Your Own ufunc
+        1. How To Create Your Own ufunc
+        2. Check if a Function is a ufunc
+    3. Simple Arithmetic
+        1. Addition
+        2. Subtraction
+        3. Multiplication
+        4. Division
+        5. Power
+        6. Remainder
+        7. Quotient and Mod
+        8. Absolute Values
+    4. Rounding Decimals
+        1. Rounding
+        2. Floor
+        3. Ceil
+    5. Logs
+        1. Logs
+        2. Log at Base 2
+        3. Log at Base 10
+        4. Natural Log, or Log at Base e
+        5. Log at Any Base
+    6. Summations
+        1. Introduction
+        2. Summation Over an Axis
+        3. Cummulative Sum
+    7. Products
+        1. Introduction
+        2. Product Over an Axis
+        3. Cummulative Product
+    8. Differences
+    9. LCM Lowest Common Multiple
+        1. Finding LCM (Lowest Common Multiple)
+        2. Finding LCM in Arrays
+    10. GCD Greatest Common Denominator
+        1. Finding GCD (Greatest Common Denominator)
+        2. Finding GCD in Arrays
+    11. Trigonometric Functions
+        1. Introduction   
+        2. Convert Degrees Into Radians
+        3. Radians to Degrees
+        4. Finding Angles
+        5. Angles of Each Value in Arrays
+        6. Hypotenues
+    12. Hyperbolic Functions
+        1. Introduction
+        2. Finding Angles
+        3. Angles of Each Value in Arrays
+    13. Set Operations 
+        1. What is a Set? 
+        2. Create Sets
+        3. Finding Union 
+        4. Finding Intersection
+        5. Finding Difference
+        6. Finding Symmetric Difference
+    14. Python Lists vs Numpy Arrays
+        1. Introduction
+        2. Advantages of Numpy Arrays Over Python Lists
+        3. Important Points about Python Lists
+        4. Memory Consumption between Numpy Array and Lists
+        5. Time Comparison between Numpy Array and Python Lists
+        6. Effect of Operations on Numpy Array and Python Lists
 
