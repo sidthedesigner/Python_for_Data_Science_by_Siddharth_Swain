@@ -2100,3 +2100,21 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
         5. Time Comparison between Numpy Array and Python Lists
         6. Effect of Operations on Numpy Array and Python Lists
 
+## 061_Data Visualization
+
+1. Data Visualization
+    1. Introduction
+    2. Benefits
+
+2. Plotting with Pandas
+
+3. Plotting with Plotly
+    1. Introduction
+    2. Installation
+    3. Jupyter Notebook Installation (Additional)
+    4. JupyterLab Installation (Python 3.5+)
+    5. Plotly Express
+
+4. Plotting with Cufflinks
+
+5. Plotting with Seaborn
