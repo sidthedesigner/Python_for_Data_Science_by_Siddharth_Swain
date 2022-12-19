@@ -1,4 +1,4 @@
-## A Complete Data Science Course by Siddharth Swain
+## A Python For Data Science Course By Siddharth Swain
 
 Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 
