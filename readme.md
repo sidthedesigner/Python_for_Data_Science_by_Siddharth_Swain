@@ -2118,3 +2118,23 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 4. Plotting with Cufflinks
 
 5. Plotting with Seaborn
+
+## 062_Exploratory Data Analysis (Part 1)
+
+1. Exploratory Data Analysis (EDA)
+    1. Introduction
+    2. Importing Libraries
+    3. Reading Data
+    4. Descriptive Statistics
+    5. Missing Value Imputation 
+    6. Graphical Representation
+
+2. EDA on Fitbit
+
+## 063_Exploratory Data Analysis (Part 2)
+
+1. EDA on FIFA 2019
+
+2. EDA on Football Players
+
+3. EDA on Titanic
