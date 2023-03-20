@@ -2353,3 +2353,12 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     10. How Good are the Machines Currently?
     11. Challenges in the Adoption of ML
     12. Is ML a Complete Black Box?
+
+4. Deep Learning
+
+    1. Introduction
+    2. Building the Intuition
+    3. How Do Deep Learning Algorithms "learn"?
+    4. So Why is it Called "Deep" Learning?
+    5. Applications
+    6. Conclusion
