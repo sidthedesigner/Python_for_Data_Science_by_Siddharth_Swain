@@ -2140,3 +2140,150 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
 3. EDA on Titanic
 
 4. EDA on Advanced House Price Prediction
+
+## 064_Feature Engineering
+
+1. Introduction
+
+2. Importance of Feature Engineering
+
+3. Feature Engineering Techniques for Machine Learning
+
+    1. Imputation
+    2. Handling Outliers
+    3. Log Transform
+    4. One-hot Encoding
+    5. Scaling
+
+4. How to Handle Missing Data
+
+    1. Variable Deletion
+    2. Mean or Median Imputation
+    3. Most Common Value
+    4. How to Handle Continuous Features
+    
+        1. Min-Max Normalization
+        2. Standardization
+    
+    5. How to Handle Categorical Features
+    
+        1. Label Encoding
+        2. One-hot-encoding
+
+    6. Feature Selection
+    
+        1. Univariate Selection
+        2. Feature Importance
+        3. Correlation Matrix Heatmap
+
+    7. Conclusion
+
+5. Effective Strategies for Handling Missing Values in Data Analysis
+
+    1. Introduction
+    2. What is a Missing Value?
+    3. How Is a Missing Value Represented in a Dataset?
+    4. Why Is Data Missing From the Dataset?
+    5. Types of Missing Values
+    
+        1. Missing Completely At Random (MCAR)
+        2. Missing At Random (MAR)
+        3. Missing Not At Random (MNAR)
+
+    6. Why Do We Need to Care About Handling Missing Data?
+    7. Checking for Missing Values in Python
+    8. Handling Missing Values
+    
+        1. Deleting the Missing Value
+        2. Imputing the Missing Value
+    
+    9. How to Impute Missing Values for Categorical Features?
+
+        1. Impute the Most Frequent Value
+        2. Impute the Value "Missing"
+
+    10. How to Impute Missing Values Using Sci-kit Learn Library?
+    
+        1. Univariate Approach
+        2. Multivariate Approach
+        3. Nearest Neighbors Imputations (KNNImputer)
+    
+    11. How to Use “Missingness” as a Feature?
+    12. Conclusion
+ 
+6. Detecting and Treating Outliers
+
+    1. Introduction
+    2. What are Outliers?
+    3. Why do they Occur? 
+    4. What do they affect?
+    5. Detecting Outliers
+
+        1. Detecting Outliers using Boxplot
+        2. Detecting Outliers using the Z-scores
+        3. Detecting Outliers using the Inter Quantile Range(IQR)
+   
+    6. Handling Outliers
+
+        1. Trimming/Remove the Outliers
+        2. Quantile Based Flooring and Capping
+        3. Mean/Median Imputation
+
+    7. Summary
+
+7. Feature Transformations in Data Science
+
+    1. Introduction
+    2. What is Feature Transformation?
+    3. Why These Transformations?
+    4. Goal of Feature Transformations
+    5. Transformations Present in scikit-learn
+    
+        1. Function Transformations
+        2. Power Transformations
+        3. Quantile Transformations
+
+    6. Key Takeways
+    7. Conclusion
+
+8. One-Hot Encoding vs. Label Encoding using Scikit-Learn
+
+    1. Introduction
+    2. What is Categorical Encoding?
+    3. Different Approaches to Categorical Encoding
+
+        1. Label Encoding
+        2. One-Hot Encoding
+    
+    4. When to use a Label Encoding vs. One Hot Encoding
+
+9. Feature Scaling
+
+    1. Introduction
+    2. Why Should We Use Feature Scaling?
+    3. When To Do Scaling?
+    4. What is Normalization?
+    5. What Is Standardization?
+    6. The Big Question – Normalize or Standardize?
+    7. Implementing Feature Scaling in Python
+    8. Comparing Unscaled, Normalized, and Standardized Data
+    9. Applying Scaling to Machine Learning Algorithms
+    10. Other Scaling Techniques
+    
+        1. Min-Max Scaler
+        2. Standard Scaler
+        3. Max Abs Scaler
+        4. Robust Scaler
+        5. Quantile Transformer Scaler
+        6. Power Transformer Scaler
+        7. Unit Vector Scaler
+     
+    11. Conclusion
+
+10. Best Practices for Feature Engineering 
+
+    1. Indicator Variables
+    2. Interaction Features
+    3. Feature Representation
+    4. External Data
+    5. Error Analysis (Post-Modeling)
