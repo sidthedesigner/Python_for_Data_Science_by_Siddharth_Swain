@@ -2287,3 +2287,69 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     3. Feature Representation
     4. External Data
     5. Error Analysis (Post-Modeling)
+
+## 065_Machine Learning
+
+1. Overview of AI, ML & DL
+    1. Introduction
+    2. What is Artificial Intelligence?
+    3. What is Machine Learning?
+    4. What is Deep Learning?
+
+2. Artificial Intelligence (AI)
+    1. Introduction
+    2. History
+    3. How Does it Work?
+    4. Components
+    5. Why is it Important?
+    6. Advantages and Disadvantages
+    7. Four Types of AI
+    8. Examples of AI Technology and How It's Being Used
+        1. Google Maps and Ride-Hailing Applications
+        2. Face Detection and Recognition
+        3. Text Editors or Autocorrect
+        4. Chatbots
+        5. Online-Payments
+        6. Search and Recommendation Algorithms
+        7. Digital Assistants
+        8. Social Media
+        9. Healthcare
+        10. Gaming
+        11. Online Ads Network
+        12. Banking and Finance
+        13. Smart Home Devices
+        14. Security and Surveillance
+        15. Smart Keyboard Apps
+        16. Smart Speakers
+        17. E-Commerce
+        18. Smart Email Apps
+        19. Music and Media Streaming Service 
+        20. Space Exploration
+    9. Applications of AI
+        1. Healthcare
+        2. Business
+        3. Education
+        4. Finance
+        5. Law
+        6. Manufacturing
+        7. Banking
+        8. Transportation
+        9. Security
+    10. Augmented Intelligence vs. AI
+    11. Ethical Use
+    12. Cognitive Computing and AI
+    13. AI as a Service
+
+3. Machine Learning
+    1. Why is it getting so much Attention recently?
+    2. ML vs Automation
+    3. Tools Used
+    4. Problems Solved using ML
+    5. Different Algorithms Used
+    6. How much Data is Required to Train a ML Model?
+    7. What Kind of Data is Required to Train a ML Model?
+    8. What are the Steps Involved in Building ML Models?
+    9. Latest Achievements and Developments
+    10. How Good are the Machines Currently?
+    11. Challenges in the Adoption of ML
+    12. Is ML a Complete Black Box?
