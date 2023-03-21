@@ -2362,3 +2362,72 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     4. So Why is it Called "Deep" Learning?
     5. Applications
     6. Conclusion
+    
+## 066_Linear Regression
+
+1. Introduction
+2. Types of Regression
+3. Types of Relationship
+4. Finding the Best Fit Line
+5. Cost Function
+6. Residuals
+7. Gradient Descent
+8. Impact of Different Values for Learning Rate
+9. Derivation
+10. Assumptions (In Brief)
+11. Assumptions (Detailed)
+
+    1. Independence of Observations
+    2. No Hidden or Missing Variables
+    3. Linear Relationship
+    4. Normality of the Residuals
+    5. No or Little Multicollinearity
+    6. Homoscedasticity
+    7. All Independent Variables are Uncorrelated with the Error Term
+    8. Observations of the Error Term are Uncorrelated with Each Other
+
+12. What to do if Assumptions are Violated?
+13. Model Performance
+
+    1. R-Square
+        
+        1. Introduction
+        2. Assessing Goodness-of-Fit in a Regression Model
+        3. R-Squared and the Goodness-of-Fit
+        4. Formula
+        5. Terminologies & Notations
+        6. Calculation by Hand
+        7. Visual Representation
+        8. Limitations
+        9. Are Low Values Always a Problem?
+        10. Are High R-Squared Values Always Great?
+        11. It Is Not Always Straightforward
+        12. How to Interpret Adjusted R-Squared and Predicted R-Squared in Regression Analysis?
+        13. Calculation in Python
+        14. Some Problems with R-Squared
+        15. Understanding the Bias-Variance Tradeoff
+        
+    2. Adjusted R2
+    
+        1. Introduction
+        2. Meaning of Adjusted R2
+        3. How Adjusted R2 Penalizes You
+        4. Problems with R2 that are corrected with an Adjusted R2
+        5. Detecting Multicollinearity with VIF
+
+14. Regularization
+
+    1. Introduction
+    2. Why Regularization?
+    3. Overfitting (Part 1)
+    4. Over-Fitting With Linear Models (Part 2)
+    5. Regularization of Linear Models (Part 3)
+
+        1. How Does Regularization Work?
+        2. Lasso (Least Absolute Shrinkage & Selection Operator) and Ridge Path Diagrams
+        3. How Should We Choose Between Lasso Regression and Ridge Regression?
+        4. Should Features Be Standardized?
+        5. Visualizing Regularization
+
+    6. Regularized Regression in Scikit-Learn (Part 4)
+
