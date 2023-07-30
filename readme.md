@@ -765,7 +765,8 @@ Follow me on LinkedIn : https://www.linkedin.com/in/siddharthswain/
     5. Inheritance
     6. Encapsulation
     7. Polymorphism
-    8. Key Points
+    8. Abstraction
+    9. Key Points
 
 2. Basic Concepts
 
